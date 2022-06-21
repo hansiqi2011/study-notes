@@ -1,0 +1,23 @@
+* 数的分类 #card #数学
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-06-25T00:14:32.890Z
+:card-last-reviewed: 2022-06-21T00:14:32.891Z
+:card-last-score: 5
+:END:
+** [[实数]]
+*** [[有理数]]
+:PROPERTIES:
+:collapsed: true
+:END:
+**** [[整数]]
+***** 自然数
+****** 零
+****** 正整数
+***** 负整数
+**** [[分数]]
+**** [[小数]]
+*** [[无理数]]
+*

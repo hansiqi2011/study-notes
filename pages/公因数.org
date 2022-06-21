@@ -1,0 +1,10 @@
+* 公因数的定义 #card #数学
+:PROPERTIES:
+:card-last-score: 5
+:card-repeats: 3
+:card-next-schedule: 2022-07-02T04:15:14.448Z
+:card-last-interval: 11.2
+:card-ease-factor: 2.8
+:card-last-reviewed: 2022-06-21T00:15:14.448Z
+:END:
+** 公因数，亦称“公约数”。它是一个能同时整除若干整数的整数 。如果一个整数同时是几个整数[[因数]]，称这个整数为它们的“公因数”；公因数中最大的称为[[最大公因数]]。

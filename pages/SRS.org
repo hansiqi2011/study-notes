@@ -1,0 +1,47 @@
+* Spaced Repetition System 间隔重复系统
+** 间隔重复 = {{cloze 测试}} + {{cloze 时间}} #card #SRS
+:PROPERTIES:
+:card-last-score: 5
+:card-repeats: 2
+:card-next-schedule: 2022-06-25T00:15:18.511Z
+:card-last-interval: 4
+:card-ease-factor: 2.6
+:card-last-reviewed: 2022-06-21T00:15:18.511Z
+:END:
+* 三个常见但无效的学习/教学惯例是 {{cloze 课堂式讲课}}、 {{cloze 填鸭式学习}}和 {{cloze 重复阅读}}。 #card #SRS
+:PROPERTIES:
+:card-last-interval: 4.59
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-06-24T14:36:54.461Z
+:card-last-reviewed: 2022-06-20T00:36:54.462Z
+:card-last-score: 5
+:END:
+* 在希腊神话中， {{cloze 记忆}}女神是 {{cloze 灵感}}女神的母亲。 #card #SRS
+:PROPERTIES:
+:card-last-interval: 4.59
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-06-24T14:57:36.574Z
+:card-last-reviewed: 2022-06-20T00:57:36.575Z
+:card-last-score: 5
+:END:
+* 我的间隔重复记忆卡应该 {{cloze 小}}、 {{cloze 相互联系}}并且 {{cloze 富有意味}}。 #card #SRS
+:PROPERTIES:
+:card-last-interval: 4.59
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-06-24T14:57:30.845Z
+:card-last-reviewed: 2022-06-20T00:57:30.847Z
+:card-last-score: 5
+:END:
+* 记忆科学的先驱者是 {{cloze 赫尔曼·艾宾浩斯}}。 #card #SRS
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-06-24T01:54:35.446Z
+:card-last-reviewed: 2022-06-20T01:54:35.447Z
+:card-last-score: 5
+:END:
+*

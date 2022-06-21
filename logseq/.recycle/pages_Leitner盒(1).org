@@ -1,0 +1,4 @@
+* #SRS
+* 在
+* 在[[Leitner盒]]里，我们 {{cloze 间隔翻倍}}每个等级之间的间隔（回想时机的间隔天数） #card #SRS #Leitner盒
+*

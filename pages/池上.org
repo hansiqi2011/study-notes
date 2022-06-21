@@ -1,0 +1,13 @@
+* 池上 #card #诗词
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-06-24T04:10:01.046Z
+:card-last-reviewed: 2022-06-20T04:10:01.046Z
+:card-last-score: 3
+:END:
+** 唐·白居易
+** 小娃撑小艇，偷采白莲回。
+不解藏踪迹，浮萍一道开。
+*

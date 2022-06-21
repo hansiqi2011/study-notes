@@ -1,0 +1,34 @@
+* 利润的定义 #card #数学
+:PROPERTIES:
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-06-21T03:40:28.598Z
+:card-last-reviewed: 2022-06-09T23:40:28.600Z
+:card-last-score: 5
+:END:
+** $$利润 = 收入(或售价) - 成本$$
+* 利润率的定义 #card #数学
+:PROPERTIES:
+:card-last-interval: 10.24
+:card-repeats: 3
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-06-20T04:40:23.815Z
+:card-last-reviewed: 2022-06-09T23:40:23.818Z
+:card-last-score: 5
+:END:
+** $$ 利润率 = 利润/成本 \times  100\% = (收入-成本)/成本 \times 100\%$$
+* 收入、成本和利润率的关系 #card #数学
+:PROPERTIES:
+:card-last-interval: 4.28
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-04-22T14:53:26.545Z
+:card-last-reviewed: 2022-04-18T08:53:26.548Z
+:card-last-score: 5
+:END:
+** $$收入(售价) = 成本 \times (1+利润率)$$
+$$成本=收入(售价) \div (1+利润率)$$
+* 例题
+** [[例题：那么为实现20%的利润，则每斤牛肉要卖到多少元？]]
+** [[例题：求钢铁价格上升之前的利润率]]

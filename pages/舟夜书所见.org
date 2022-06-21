@@ -1,0 +1,14 @@
+* 舟夜书所见 #card
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-06-24T02:31:41.822Z
+:card-last-reviewed: 2022-06-20T02:31:41.823Z
+:card-last-score: 3
+:END:
+** #诗词
+** 清·查慎行
+** 月黑见渔灯，孤光一点萤。
+微微风簇浪，散作满河星。
+*

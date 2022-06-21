@@ -1,0 +1,21 @@
+* 最大公因数的定义 #card #数学
+:PROPERTIES:
+:card-last-score: 5
+:card-repeats: 3
+:card-next-schedule: 2022-06-21T03:40:34.143Z
+:card-last-interval: 11.2
+:card-ease-factor: 2.8
+:card-last-reviewed: 2022-06-09T23:40:34.144Z
+:END:
+** 最大公因数，也称最大公约数、最大公因子，指两个或多个整数的[[公因数]]中最大的一个。
+* 最大公因数的符号 #card #数学
+:PROPERTIES:
+:card-last-score: 5
+:card-repeats: 3
+:card-next-schedule: 2022-04-29T12:56:08.998Z
+:card-last-interval: 11.2
+:card-ease-factor: 2.8
+:card-last-reviewed: 2022-04-18T08:56:09.000Z
+:END:
+** a, b, c的最大公因数记作  (a, b, c)。
+*

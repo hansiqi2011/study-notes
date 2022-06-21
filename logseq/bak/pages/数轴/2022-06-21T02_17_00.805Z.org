@@ -1,0 +1,29 @@
+* 数轴的三要素 #card #数学
+:PROPERTIES:
+:card-last-score: 5
+:card-repeats: 3
+:card-next-schedule: 2022-07-01T08:10:11.690Z
+:card-last-interval: 11.2
+:card-ease-factor: 2.8
+:card-last-reviewed: 2022-06-20T04:10:11.691Z
+:END:
+** 规定了 {{cloze 原点}}， {{cloze 正方向}}， {{cloze 单位长度}}的直线。
+* 数轴能表示任意 {{cloze [[实数]]}}。  #card
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-06-24T02:31:35.436Z
+:card-last-reviewed: 2022-06-20T02:31:35.437Z
+:card-last-score: 5
+:END:
+* 数轴上 {{cloze 右边(正方向)}}的点表示的数总大于 {{cloze 左边(负方向)}}的点所表示的数。 #card
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-06-24T02:31:37.117Z
+:card-last-reviewed: 2022-06-20T02:31:37.118Z
+:card-last-score: 3
+:END:
+*

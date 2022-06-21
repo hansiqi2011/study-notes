@@ -1,0 +1,12 @@
+* 赠刘景文 #card #诗词
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-06-24T04:10:03.297Z
+:card-last-reviewed: 2022-06-20T04:10:03.297Z
+:card-last-score: 5
+:END:
+** 宋·[[苏轼]]
+** 荷尽已无擎雨盖，菊残犹有傲霜枝。
+一年好景君须记，最是橙黄橘绿时。

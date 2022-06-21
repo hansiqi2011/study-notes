@@ -1,0 +1,13 @@
+* 因数的定义  #数学
+:PROPERTIES:
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-04-29T12:56:17.750Z
+:card-last-reviewed: 2022-04-18T08:56:17.751Z
+:card-last-score: 5
+:END:
+** 因数是指整数a除以整数b(b≠0) 的商正好是整数而没有余数，我们就说b是a的因数。
+* 因数的数学符号
+** 如果 d 是 a的因数，即d能够整除a，记作 $$d \mid a$$
+*

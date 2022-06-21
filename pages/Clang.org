@@ -1,0 +1,19 @@
+* #编程
+* 移位（左移和右移）的语法 #card #clang
+:PROPERTIES:
+:card-last-score: 5
+:card-repeats: 1
+:card-next-schedule: 2022-06-24T08:24:00.485Z
+:card-last-interval: 4
+:card-ease-factor: 2.6
+:card-last-reviewed: 2022-06-20T08:24:00.486Z
+:END:
+** #+BEGIN_SRC c
+int i = 1;//0001
+i <<= 2;//左移 left rotate
+//0001 => 0100
+// i is 4 now
+i >>= 1;//右移 right rotate
+//0100 => 0010
+// i is 2 now
+#+END_SRC

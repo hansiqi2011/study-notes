@@ -1,0 +1,18 @@
+* [[汉乐府]]
+* 江南 #card #诗词
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-06-24T01:54:27.947Z
+:card-last-reviewed: 2022-06-20T01:54:27.948Z
+:card-last-score: 5
+:END:
+** 两汉·汉乐府
+** 江南可采莲，
+莲叶何田田。
+鱼戏莲叶间。
+鱼戏莲叶东，
+鱼戏莲叶西，
+鱼戏莲叶南，
+鱼戏莲叶北。

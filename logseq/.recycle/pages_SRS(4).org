@@ -1,0 +1,11 @@
+* Spaced Repetition System 间隔重复系统
+** 间隔重复 = {{cloze 测试}} + {{cloze 时间}} #card #SRS
+:PROPERTIES:
+:card-last-score: 1
+:card-repeats: 1
+:card-next-schedule: 2022-06-20T16:00:00.000Z
+:card-last-interval: -1
+:card-ease-factor: 2.5
+:card-last-reviewed: 2022-06-20T00:25:21.819Z
+:END:
+* 三个常见但无效的学习/教学惯例是 {{cloze 课堂式讲课， }}

@@ -1,0 +1,13 @@
+* #card
+:PROPERTIES:
+:card-last-interval: 4.59
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-06-19T02:54:31.665Z
+:card-last-reviewed: 2022-06-14T12:54:31.666Z
+:card-last-score: 5
+:END:
+* 数字的分类
+** [[有理数]]
+* 计算题
+** [[巧算]]

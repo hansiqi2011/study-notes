@@ -1,0 +1,16 @@
+* [[读题]]
+* 读题时，应该画出哪些重点，因为 {{cloze 有助于翻译成数学语言}} ？ #card #数学
+:PROPERTIES:
+:card-last-score: 5
+:card-repeats: 1
+:card-next-schedule: 2022-06-24T08:23:35.564Z
+:card-last-interval: 4
+:card-ease-factor: 2.6
+:card-last-reviewed: 2022-06-20T08:23:35.566Z
+:END:
+** 数字
+** 量词
+** 数量*变化*的动词
+*** 比较
+*** 平均
+*** 增加减少

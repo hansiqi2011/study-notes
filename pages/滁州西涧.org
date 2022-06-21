@@ -1,0 +1,12 @@
+* 滁州西涧 #card #诗词
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-06-24T03:34:52.509Z
+:card-last-reviewed: 2022-06-20T03:34:52.509Z
+:card-last-score: 5
+:END:
+** 唐·韦应物
+** 独怜幽草涧边生，上有黄鹂深树鸣。
+春潮带雨晚来急，野渡无人舟自横。

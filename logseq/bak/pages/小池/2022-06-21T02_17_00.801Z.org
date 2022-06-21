@@ -1,0 +1,13 @@
+* 小池 #card #诗词
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-06-20T16:00:00.000Z
+:card-last-reviewed: 2022-06-20T02:31:54.545Z
+:card-last-score: 1
+:END:
+** 宋·杨万里
+** 泉眼无声惜细流，树阴（通“荫”）照水爱晴柔。
+小荷才露尖尖角，早有蜻蜓立上头。
+*

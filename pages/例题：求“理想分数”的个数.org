@@ -1,0 +1,15 @@
+* 题目：若最简真分数 $$\frac{a}{b}$$ 满足 a + b = 2007 ( a、b 为正整数)，则称其为“理想分数”，求“理 想分数”的个数.
+:PROPERTIES:
+:title: 例题：求“理想分数”的个数
+:END:
+* 解题过程
+** $$\because \frac{a}{b}是真分数，\therefore a<b；且a+b=2007，\therefore 1 \le a \le 1003$$
+** $$\because \frac{a}{b}是最简分数，\therefore (a,b)=1，我们从1003个候选的a中去除掉和b不互质的数量，即可得到最简分数的数量$$
+** $$假设(a, b)不互质，即存在(a,b)=d, d>1$$
+** $$\because a+b=2007，而d能够整除a, b，\therefore d能够整除2007，即d | 2007$$
+** $$\because 2007=3^{2} \times 223, \therefore 3|d或者223|d$$
+** $$\because d|a, \therefore 3|a或者233|a$$
+** $$在 1 \le a \le 1003的1003个候选中，能够被3或者233整除的数有 \lfloor \frac{1003}{3} \rfloor + \lfloor \frac{1003}{233} \rfloor - \lfloor \frac{1003}{3 \times 233} \rfloor = 334 + 4 - 1 = 337个$$
+$$即这1003个候选的a中，有1003-337=666个不能被3或者223整除的数，因此(?)“理想分数”共有666个$$
+*** 参见[[既约真分数的分子数量的规律的讨论]]
+**

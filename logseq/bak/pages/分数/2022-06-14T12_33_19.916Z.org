@@ -1,0 +1,24 @@
+* 分数的定义 #card #数学
+:PROPERTIES:
+:card-last-interval: 4.28
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-04-22T14:55:36.959Z
+:card-last-reviewed: 2022-04-18T08:55:36.960Z
+:card-last-score: 5
+:END:
+** 分数（英语：Fraction）是用分式（分数式）表达成 $${\frac {a}{b}} $$ 的数$$（{a,b是整数， b\neq 0}）$$。在上式之中，b 称为分母（Denominator）而 a 称为分子（Numerator），可视为某件事物平均分成 b 份中占 a 份，读作“b 分之 a”。
+* 真分数 #card #数学
+:PROPERTIES:
+:id: 621af521-0f63-4438-8f73-5491396ba24e
+:card-last-interval: 4.28
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-04-22T14:54:41.026Z
+:card-last-reviewed: 2022-04-18T08:54:41.027Z
+:card-last-score: 5
+:collapsed: true
+:END:
+** 对于分数 $$\frac{m}{n}$$（这里m、n是非零整数），如果分子的绝对值小于分母的绝对值，即满足$$\lvert m \rvert < \lvert n \rvert$$，这样的分数叫做真分数
+* 既约分数即[[最简分数]]的同义词
+*

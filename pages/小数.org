@@ -1,0 +1,31 @@
+* 小数的定义 #card #数学
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-06-25T00:13:50.297Z
+:card-last-reviewed: 2022-06-21T00:13:50.298Z
+:card-last-score: 5
+:END:
+** 小数是一种实数的表现形式，形如 /1.24/ ， /3.48750/ 等的就是小数，其中的小点称作小数点，是整数部分和小数部分的分界线。
+* 小数的性质 #card #数学
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-06-25T00:14:09.854Z
+:card-last-reviewed: 2022-06-21T00:14:09.854Z
+:card-last-score: 5
+:END:
+** 任何 {{cloze 分数}}都能被表示成小数。
+** 小数的小数部分 {{cloze 末尾}} 能 {{cloze 添加或减少}} {{cloze 任意}}个0。
+*** 小数的化简指的是 {{cloze 去掉小数部分末尾所有连续的0}}。 #card #数学
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-06-25T00:13:26.963Z
+:card-last-reviewed: 2022-06-21T00:13:26.964Z
+:card-last-score: 5
+:END:
+* 小数的分类

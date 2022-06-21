@@ -1,0 +1,14 @@
+* 有理数的定义 #card #数学
+:PROPERTIES:
+:card-last-interval: 4.28
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-04-22T14:55:08.857Z
+:card-last-reviewed: 2022-04-18T08:55:08.858Z
+:card-last-score: 5
+:END:
+** [[整数]]和[[分数]]统称为有理数
+** 形如 $$\frac{m}{n}$$ (其中 m 为 {{cloze 整数}} ， n 为 {{cloze 正整数}})的数是有理数.
+*** 这种表达形式常被用来证明或判断某个数是不是有理数
+*** 若对于不等于零的有理数，还要求 m、n [[互质]]，那么这种表示形式是唯一的
+* 任何一个有理数都可以用[[数轴]]上的一个点表示
