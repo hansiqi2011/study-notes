@@ -1,11 +1,11 @@
 * 小池 #card #诗词
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.5
-:card-next-schedule: 2022-06-21T16:00:00.000Z
-:card-last-reviewed: 2022-06-21T00:15:48.656Z
-:card-last-score: 1
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-06-26T00:02:18.885Z
+:card-last-reviewed: 2022-06-22T00:02:18.886Z
+:card-last-score: 5
 :END:
 ** 宋·杨万里
 ** 泉眼无声惜细流，树阴（通“荫”）照水爱晴柔。

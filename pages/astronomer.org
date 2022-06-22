@@ -1,3 +1,12 @@
-* astronomer: countable noun {{cloze 天文学家}} #card #词汇积累
-* 天文学家 {{cloze astronomer}} #card #词汇积累
-*
+* astronomer #card #词汇积累
+:PROPERTIES:
+:card-last-score: 5
+:card-repeats: 1
+:card-next-schedule: 2022-06-25T06:39:56.586Z
+:card-last-interval: 4
+:card-ease-factor: 2.6
+:card-last-reviewed: 2022-06-21T06:39:56.588Z
+:END:
+** 释义：(countable noun) {{cloze 天文学家}}
+** 发音： {{cloze əˈstrɒnəmə(r)}}
+** 例句： /*Astronomer* are not sure if it was an asteroid or something else altogether./

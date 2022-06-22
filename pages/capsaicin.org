@@ -1,0 +1,4 @@
+* capsaicin #card #词汇积累
+** 释义： {{cloze [化]辣椒素}}
+** 读音： {{cloze kæp'seɪəsɪn}}
+** 例句： /*Capsaicin* is very good for your health./

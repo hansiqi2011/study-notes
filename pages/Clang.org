@@ -17,3 +17,6 @@ i >>= 1;//右移 right rotate
 //0100 => 0010
 // i is 2 now
 #+END_SRC
+** :PROPERTIES:
+:query-table: true
+:END:
