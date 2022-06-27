@@ -1,0 +1,4 @@
+* investigator #card #词汇积累
+** 释义： {{cloze 调查者；侦查员}}
+** 读音： {{cloze ɪnˈvestɪˌɡeɪtə}}
+** 例句： /You are a crime scene *investigator*, and the game is on./

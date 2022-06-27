@@ -1,4 +1,12 @@
 * capsaicin #card #词汇积累
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-06-27T00:51:23.264Z
+:card-last-reviewed: 2022-06-23T00:51:23.264Z
+:card-last-score: 5
+:END:
 ** 释义： {{cloze [化]辣椒素}}
 ** 读音： {{cloze kæp'seɪəsɪn}}
 ** 例句： /*Capsaicin* is very good for your health./

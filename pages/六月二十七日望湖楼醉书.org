@@ -1,4 +1,12 @@
 * 六月二十七日望湖楼醉书 #card #诗词
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-06-27T00:50:58.249Z
+:card-last-reviewed: 2022-06-23T00:50:58.249Z
+:card-last-score: 5
+:END:
 ** 宋·[[苏轼]]
 ** 黑云翻墨未遮山，白雨跳珠乱入船。
 卷地风来忽吹散，望湖楼下水如天。

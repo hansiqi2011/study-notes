@@ -1,10 +1,10 @@
 * 实数的定义 #card
 :PROPERTIES:
 :card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-06-24T02:31:25.980Z
-:card-last-reviewed: 2022-06-20T02:31:25.982Z
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-06-29T02:16:51.309Z
+:card-last-reviewed: 2022-06-25T02:16:51.309Z
 :card-last-score: 5
 :END:
 ** {{cloze [[有理数]]}}和 {{cloze [[无理数]]}}的统称

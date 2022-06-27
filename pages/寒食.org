@@ -1,0 +1,13 @@
+* 寒食 #card #诗词
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-06-27T16:00:00.000Z
+:card-last-reviewed: 2022-06-27T00:21:46.109Z
+:card-last-score: 1
+:END:
+** 唐·韩翃（hong2）
+** 春城无处不飞花，寒食东风御柳斜。
+日暮汉宫传蜡烛，轻烟散入五侯家。
+*

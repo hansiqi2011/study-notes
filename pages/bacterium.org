@@ -1,0 +1,6 @@
+* bacterium #card #词汇积累
+** ^^复数：^^ {{cloze bacteria}}
+** 释义：(countable noun) {{cloze 细菌}}
+** 读音： {{cloze bækˈtɪəriəm}}
+** 例句： /He then looked at the *bacteria*'s DNA./
+*

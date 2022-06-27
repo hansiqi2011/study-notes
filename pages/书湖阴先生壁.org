@@ -1,10 +1,10 @@
 * 书湖阴（释义： {{cloze 山北水南，这里指杨德逢居住在湖的南边}}）先生（释义： {{cloze 杨德逢，王安石的邻居}}）壁 #card #诗词
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-06-26T00:03:08.745Z
-:card-last-reviewed: 2022-06-22T00:03:08.748Z
+:card-last-interval: 11.56
+:card-repeats: 3
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-07-07T13:30:37.019Z
+:card-last-reviewed: 2022-06-26T00:30:37.019Z
 :card-last-score: 5
 :END:
 ** 宋·王安石

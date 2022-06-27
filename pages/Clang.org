@@ -2,11 +2,11 @@
 * 移位（左移和右移）的语法 #card #clang
 :PROPERTIES:
 :card-last-score: 5
-:card-repeats: 1
-:card-next-schedule: 2022-06-24T08:24:00.485Z
+:card-repeats: 2
+:card-next-schedule: 2022-06-29T11:20:22.913Z
 :card-last-interval: 4
-:card-ease-factor: 2.6
-:card-last-reviewed: 2022-06-20T08:24:00.486Z
+:card-ease-factor: 2.7
+:card-last-reviewed: 2022-06-25T11:20:22.913Z
 :END:
 ** #+BEGIN_SRC c
 int i = 1;//0001

@@ -1,10 +1,10 @@
 * 整数的分类 #card
 :PROPERTIES:
 :card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-06-24T03:43:39.980Z
-:card-last-reviewed: 2022-06-20T03:43:39.980Z
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-06-29T11:16:19.774Z
+:card-last-reviewed: 2022-06-25T11:16:19.774Z
 :card-last-score: 5
 :END:
 ** [[自然数]]
@@ -14,10 +14,10 @@
 * 整数的特性 #card
 :PROPERTIES:
 :card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-06-24T02:31:57.379Z
-:card-last-reviewed: 2022-06-20T02:31:57.380Z
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-06-29T02:18:20.711Z
+:card-last-reviewed: 2022-06-25T02:18:20.711Z
 :card-last-score: 5
 :END:
 ** 任何一个整数都能表示为$$\pm1$$和若干个[[质因数]]的若干[[次幂]]的积。

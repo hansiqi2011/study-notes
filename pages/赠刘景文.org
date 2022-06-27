@@ -1,10 +1,10 @@
 * 赠刘景文 #card #诗词
 :PROPERTIES:
 :card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-06-24T04:10:03.297Z
-:card-last-reviewed: 2022-06-20T04:10:03.297Z
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-06-29T11:19:45.145Z
+:card-last-reviewed: 2022-06-25T11:19:45.146Z
 :card-last-score: 5
 :END:
 ** 宋·[[苏轼]]

@@ -1,12 +1,12 @@
 * 囊萤夜读 #card #古文
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.36
-:card-next-schedule: 2022-06-26T00:04:58.475Z
-:card-last-reviewed: 2022-06-22T00:04:58.476Z
-:card-last-score: 3
+:card-last-interval: 9.84
+:card-repeats: 3
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-07-05T20:31:00.927Z
+:card-last-reviewed: 2022-06-26T00:31:00.928Z
+:card-last-score: 5
 :END:
 ** 唐·佚名
-** 胤恭勤不倦，博学多通。家贫不常得油，夏月则练囊（释义： {{cloze 白布制成的布囊}} ）盛数十萤火以照书，以夜继日焉。
+** 胤恭勤不倦，博学多通。家贫不常得油，夏月则 [[练]] 囊（释义： {{cloze 布囊}} ）盛数十萤火以照书，以夜继日焉。
 *

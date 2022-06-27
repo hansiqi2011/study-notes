@@ -1,14 +1,14 @@
-* 利润的定义 #数学
+* 利润的定义 #经济问题
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-06-21T03:40:28.598Z
-:card-last-reviewed: 2022-06-09T23:40:28.600Z
 :card-last-score: 5
+:card-repeats: 3
+:card-next-schedule: 2022-06-21T03:40:28.598Z
+:card-last-interval: 11.2
+:card-ease-factor: 2.8
+:card-last-reviewed: 2022-06-09T23:40:28.600Z
 :END:
 ** $$利润 = 收入(或售价) - 成本$$
-* 利润率的定义  #数学
+* 利润率的定义  #经济问题
 :PROPERTIES:
 :card-last-interval: 10.24
 :card-repeats: 3
@@ -18,7 +18,7 @@
 :card-last-score: 5
 :END:
 ** $$ 利润率 = 利润/成本 \times  100\% = (收入-成本)/成本 \times 100\%$$
-* 收入、成本和利润率的关系 #数学
+* 收入、成本和利润率的关系 #经济问题
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 2
