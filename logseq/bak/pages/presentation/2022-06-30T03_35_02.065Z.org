@@ -1,0 +1,13 @@
+* presentation #card #词汇积累
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-06-29T16:00:00.000Z
+:card-last-reviewed: 2022-06-29T00:14:48.273Z
+:card-last-score: 1
+:END:
+** 释义： (countable noun) {{cloze 演出；发布会；提交；颁发}}
+** 读音： {{cloze prez(ə)n'teɪʃ(ə)n}}
+** 例句： /When he was nine years old, Felix Flinkbeiner gave a class *presentation* on climate change./
+*

@@ -1,0 +1,15 @@
+* 长歌行 #card #诗词
+:PROPERTIES:
+:card-last-interval: 8.65
+:card-repeats: 3
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-07-14T15:03:14.319Z
+:card-last-reviewed: 2022-07-06T00:03:14.319Z
+:card-last-score: 5
+:END:
+** 汉乐府
+** 青青园中葵，朝露待日晞。
+阳春布德泽，万物生光辉。
+常恐秋节至，焜（读音：kun1）黄华叶衰。
+百川东到海，何时复西归？
+少壮不努力，老大徒伤悲！

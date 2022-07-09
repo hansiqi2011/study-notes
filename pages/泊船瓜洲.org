@@ -1,0 +1,12 @@
+* 泊船瓜洲 #card #诗词
+:PROPERTIES:
+:card-last-interval: 9.17
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-07-09T04:17:13.924Z
+:card-last-reviewed: 2022-06-30T00:17:13.924Z
+:card-last-score: 5
+:END:
+** 宋·王安石
+** 京口瓜洲一水间，钟山只隔数重山。
+*春风又绿江南岸，明月何时照我还。*

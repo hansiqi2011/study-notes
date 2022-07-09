@@ -1,11 +1,11 @@
 * 分数的定义 #card #数学
 :PROPERTIES:
 :card-last-score: 5
-:card-repeats: 3
-:card-next-schedule: 2022-07-02T03:15:00.865Z
-:card-last-interval: 11.16
-:card-ease-factor: 2.7
-:card-last-reviewed: 2022-06-21T00:15:00.866Z
+:card-repeats: 4
+:card-next-schedule: 2022-08-03T08:35:38.918Z
+:card-last-interval: 31.36
+:card-ease-factor: 2.8
+:card-last-reviewed: 2022-07-03T00:35:38.918Z
 :END:
 ** 分数（英语：Fraction）是用分式（分数式）表达成 $${\frac {a}{b}} $$ 的数$$（{a,b是整数， b\neq 0}）$$。在上式之中，b 称为分母（Denominator）而 a 称为分子（Numerator），可视为某件事物平均分成 b 份中占 a 份，读作“b 分之 a”。
 *

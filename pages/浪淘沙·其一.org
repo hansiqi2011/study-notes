@@ -1,0 +1,13 @@
+* 浪淘沙·其一 #card #诗词
+:PROPERTIES:
+:card-last-interval: 8.65
+:card-repeats: 3
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-07-13T15:09:23.824Z
+:card-last-reviewed: 2022-07-05T00:09:23.825Z
+:card-last-score: 5
+:END:
+** 唐·刘禹锡
+** 九曲黄河万里沙，浪淘风簸自天涯。
+如今直上银河去，同到牵牛织女家。
+*

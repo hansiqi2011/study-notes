@@ -1,0 +1,12 @@
+* 菩萨蛮·大柏地 #card #诗词
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-07-04T00:37:49.559Z
+:card-last-reviewed: 2022-06-30T00:37:49.559Z
+:card-last-score: 5
+:END:
+** [[毛泽东]]
+** 赤橙黄绿青蓝紫，谁持彩[[练]]（彩练：释义： {{cloze 彩色的绢，此处比喻彩虹}}）当空舞？雨后复斜阳，关山阵阵苍。        当年鏖（读音：ao2）战急，弹洞前村壁。装点此关山，今朝更好看。
+*

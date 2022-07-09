@@ -1,0 +1,12 @@
+* 清平乐·春归何处 #card #诗词
+:PROPERTIES:
+:card-last-interval: 10.52
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-07-15T12:06:32.225Z
+:card-last-reviewed: 2022-07-05T00:06:32.226Z
+:card-last-score: 5
+:END:
+** 宋·黄庭坚
+** 春归何处？寂寞无行路。若有人知春去处，唤取归来同住。
+春无踪迹谁知？除非问取黄鹂。百啭无人能解，因风飞过蔷薇。

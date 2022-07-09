@@ -1,0 +1,13 @@
+* 春日 #card #诗词
+:PROPERTIES:
+:card-last-interval: 10.52
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-07-10T12:40:22.192Z
+:card-last-reviewed: 2022-06-30T00:40:22.192Z
+:card-last-score: 5
+:END:
+** 宋·朱熹
+** 胜日寻芳泗水滨，无边光景一时新。
+等闲识得东风面，万紫千红总是春。
+* 第一句：胜日（时间）寻芳（动作，干什么）泗水滨（地点），此句为[[倒装句]]。

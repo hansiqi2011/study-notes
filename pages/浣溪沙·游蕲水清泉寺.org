@@ -1,0 +1,13 @@
+* 浣溪沙·游蕲（读音： {{cloze qi2}}）水清泉寺 #card #诗词
+:PROPERTIES:
+:card-last-interval: 4.28
+:card-repeats: 2
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-07-07T06:37:14.638Z
+:card-last-reviewed: 2022-07-03T00:37:14.639Z
+:card-last-score: 5
+:END:
+** 宋·苏轼
+** 游蕲水清泉寺，寺临兰溪，溪水西流。
+** 山下兰芽短浸溪，松间沙路净无泥，萧萧暮雨子规啼。(萧萧 一作：潇潇)
+谁道人生无再少？门前流水尚能西！休将白发唱黄鸡。

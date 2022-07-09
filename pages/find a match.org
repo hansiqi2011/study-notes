@@ -1,2 +1,13 @@
 * find a match #card #词组积累
+:PROPERTIES:
+:card-last-interval: 4.14
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-07-09T10:01:58.542Z
+:card-last-reviewed: 2022-07-05T07:01:58.542Z
+:card-last-score: 5
+:END:
+** 释义： {{cloze 一一对比；对比}}
+** 读音： {{cloze faɪnd·ə·mætʃ}}
+** 例句： /If you *find a match* for the fingerprint or the DNA, you will know who was in the store./
 *

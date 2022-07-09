@@ -1,10 +1,10 @@
 * 采莲曲 #card #诗词
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-06-27T00:52:21.644Z
-:card-last-reviewed: 2022-06-23T00:52:21.644Z
+:card-last-interval: 11.56
+:card-repeats: 3
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-07-08T21:48:03.833Z
+:card-last-reviewed: 2022-06-27T08:48:03.833Z
 :card-last-score: 5
 :END:
 ** 唐·王昌龄

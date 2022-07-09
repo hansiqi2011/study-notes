@@ -1,0 +1,13 @@
+* terrifying #card #词汇积累
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-06-29T02:15:57.556Z
+:card-last-reviewed: 2022-06-25T02:15:57.556Z
+:card-last-score: 5
+:END:
+** 释义： {{cloze 可怕的；令人害怕的}}
+** 读音： {{cloze 'terəfaɪɪŋ}}
+** 例句： /It was *terrifying*./
+*

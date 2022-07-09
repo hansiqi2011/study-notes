@@ -1,5 +1,13 @@
 * bacterium #card #词汇积累
-** ^^复数：^^ {{cloze bacteria}}
+:PROPERTIES:
+:card-last-interval: 4.14
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-07-09T10:02:01.483Z
+:card-last-reviewed: 2022-07-05T07:02:01.484Z
+:card-last-score: 5
+:END:
+** ~复数：~ {{cloze bacteria}}
 ** 释义：(countable noun) {{cloze 细菌}}
 ** 读音： {{cloze bækˈtɪəriəm}}
 ** 例句： /He then looked at the *bacteria*'s DNA./

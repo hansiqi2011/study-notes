@@ -1,0 +1,18 @@
+* 步出夏门行·观沧海 #card #诗词
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-07-06T16:00:00.000Z
+:card-last-reviewed: 2022-07-06T00:07:24.889Z
+:card-last-score: 1
+:END:
+** 汉/三国·曹操
+** /东/ 临*碣石*，以观*沧海*。
+水何澹澹（读音： {{cloze dan4}}），山岛竦（读音： {{cloze song3}}；释义：同” {{cloze 耸}} “）峙（读音： {{cloze zhi4}}）。
+树木丛生，百草丰茂。
+秋风萧瑟，洪波涌起。
+日月之行，若出其中；
+星汉灿烂，若出其里。
+幸甚至哉，歌以咏志。
+*

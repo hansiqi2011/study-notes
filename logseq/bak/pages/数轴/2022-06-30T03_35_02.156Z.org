@@ -1,0 +1,30 @@
+* 数轴的定义 #card #数学
+:PROPERTIES:
+:card-last-score: 5
+:card-repeats: 3
+:card-next-schedule: 2022-07-01T08:10:11.690Z
+:card-last-interval: 11.2
+:card-ease-factor: 2.8
+:card-last-reviewed: 2022-06-20T04:10:11.691Z
+:END:
+** 数轴指的是规定了 {{cloze 原点}}， {{cloze 正方向}}， {{cloze 单位长度}}的直线。
+* 数轴能表示任意 {{cloze [[实数]]}}。  #card
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-06-29T02:17:16.569Z
+:card-last-reviewed: 2022-06-25T02:17:16.569Z
+:card-last-score: 5
+:END:
+* 数轴上 {{cloze 右边(正方向)}}的点表示的数总大于 {{cloze 左边(负方向)}}的点所表示的数。 #card
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-06-29T02:17:25.846Z
+:card-last-reviewed: 2022-06-25T02:17:25.846Z
+:card-last-score: 5
+:END:
+* [[数射线]]是数轴的一种“简化版本”。
+*

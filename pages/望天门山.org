@@ -1,11 +1,11 @@
 * 望天门山 #card #诗词
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.46
-:card-next-schedule: 2022-07-01T00:03:21.537Z
-:card-last-reviewed: 2022-06-27T00:03:21.537Z
-:card-last-score: 5
+:card-last-interval: 9.28
+:card-repeats: 3
+:card-ease-factor: 2.32
+:card-next-schedule: 2022-07-10T06:32:30.495Z
+:card-last-reviewed: 2022-07-01T00:32:30.495Z
+:card-last-score: 3
 :END:
 ** 唐·[[李白]]
 ** 天门中断楚江开，碧水东流至此回。

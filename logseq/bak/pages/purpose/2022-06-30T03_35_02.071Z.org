@@ -1,0 +1,15 @@
+* purpose #card #词汇积累
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-06-29T11:23:52.267Z
+:card-last-reviewed: 2022-06-25T11:23:52.267Z
+:card-last-score: 5
+:END:
+** 释义：
+*** (countable noun) {{cloze 目的}}； {{cloze 用途}}； {{cloze 目标}}； {{cloze 意图}}
+*** (transitive verb) {{cloze 想}}； {{cloze 决心(做)}}
+** 发音：ˈpɜː(r)pəs
+** 例句： /The *purpose* of the story may be to teach people not to be greedy./
+*

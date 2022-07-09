@@ -1,0 +1,12 @@
+* therefore #card #词汇积累
+:PROPERTIES:
+:card-last-interval: 9.17
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-07-09T04:14:02.560Z
+:card-last-reviewed: 2022-06-30T00:14:02.560Z
+:card-last-score: 5
+:END:
+** 释义： (adverb) {{cloze 因此}}
+** 读音： {{cloze ˈðeə(r)fɔː(r)}}
+** 例句： /It *therefore* decides that the square in the shadow is a lighter color than it really is./

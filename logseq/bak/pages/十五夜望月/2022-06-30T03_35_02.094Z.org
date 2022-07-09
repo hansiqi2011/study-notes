@@ -1,0 +1,12 @@
+* 十五夜望月 #card #诗词
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-06-29T16:00:00.000Z
+:card-last-reviewed: 2022-06-29T00:15:33.459Z
+:card-last-score: 1
+:END:
+** 唐·王建
+** 中庭地白树栖鸦，冷露无声湿桂花。
+今夜月明人尽望，不知秋思落谁家。

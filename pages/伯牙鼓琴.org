@@ -1,10 +1,10 @@
 * 伯牙鼓琴 #card #古文
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.36
-:card-next-schedule: 2022-06-28T00:36:07.504Z
-:card-last-reviewed: 2022-06-24T00:36:07.504Z
+:card-last-interval: 8.88
+:card-repeats: 3
+:card-ease-factor: 2.22
+:card-next-schedule: 2022-07-07T21:30:55.220Z
+:card-last-reviewed: 2022-06-29T00:30:55.221Z
 :card-last-score: 3
 :END:
 ** 先秦·佚名

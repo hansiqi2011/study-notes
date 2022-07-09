@@ -1,0 +1,11 @@
+* 守株待兔 #card #古文
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-06-29T02:19:45.977Z
+:card-last-reviewed: 2022-06-25T02:19:45.977Z
+:card-last-score: 5
+:END:
+** 先秦·韩非子·五蠹（du4）
+** 宋人有耕者。 {{cloze 田中有株（释义：树桩）。}}兔走（释义： {{cloze 跑}}）触株，折颈而死。 {{cloze 因释其耒（lei3， 一种农具）而守株，}}冀复得兔。兔不可复得，而 {{cloze 身为宋国笑}}。

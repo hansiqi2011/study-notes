@@ -12,66 +12,66 @@
 *** 内容
 **** 知之为知之， {{cloze 不知为不知}}， {{cloze 是知也}}。 #card
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-06-29T11:19:52.417Z
-:card-last-reviewed: 2022-06-25T11:19:52.417Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-07-11T04:28:38.271Z
+:card-last-reviewed: 2022-06-30T00:28:38.272Z
 :card-last-score: 5
 :END:
 **** 敏而好学， {{cloze 不耻下问}}。 #card
 :PROPERTIES:
 :id: 62afea4a-a4c9-4550-b504-51adffd4c7df
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-06-29T11:19:48.750Z
-:card-last-reviewed: 2022-06-25T11:19:48.750Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-07-11T04:28:34.348Z
+:card-last-reviewed: 2022-06-30T00:28:34.348Z
 :card-last-score: 5
 :END:
 **** 默而识之， {{cloze 学而不厌}}， {{cloze 诲人不倦}}。 #card
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-06-29T11:21:08.653Z
-:card-last-reviewed: 2022-06-25T11:21:08.654Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-07-11T04:31:28.645Z
+:card-last-reviewed: 2022-06-30T00:31:28.646Z
 :card-last-score: 5
 :END:
 **** 我非 {{cloze 生而知之者}}，好（hao4，释义： {{cloze 喜欢}}）古， {{cloze 敏以求之者也}}。 #card
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-06-29T11:20:55.631Z
-:card-last-reviewed: 2022-06-25T11:20:55.631Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-07-11T04:31:05.385Z
+:card-last-reviewed: 2022-06-30T00:31:05.385Z
 :card-last-score: 5
 :END:
 **** 学如不及， {{cloze 唯恐失之}}。 #card
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-06-29T11:20:04.216Z
-:card-last-reviewed: 2022-06-25T11:20:04.216Z
-:card-last-score: 5
+:card-last-interval: 10.24
+:card-repeats: 3
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-07-10T05:28:45.096Z
+:card-last-reviewed: 2022-06-30T00:28:45.096Z
+:card-last-score: 3
 :END:
-***** 翻译： {{cloze 学习不如别人，就像跑步跟不上别人；学习超过了别人，又怕再次落后}}。 #card
+***** 翻译： {{cloze 学习不如别人，就像跑步跟不上别人；学习超过了别人，又怕再次落后}}。
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-06-29T11:16:33.754Z
-:card-last-reviewed: 2022-06-25T11:16:33.755Z
 :card-last-score: 5
+:card-repeats: 3
+:card-next-schedule: 2022-07-11T04:26:39.243Z
+:card-last-interval: 11.2
+:card-ease-factor: 2.8
+:card-last-reviewed: 2022-06-30T00:26:39.243Z
 :END:
 **** 吾尝 {{cloze 终日不食}}， {{cloze 终夜不寝}}， 以思，无益， {{cloze 不如学也}}。 #card
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-06-29T11:20:11.051Z
-:card-last-reviewed: 2022-06-25T11:20:11.052Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-07-11T04:29:01.091Z
+:card-last-reviewed: 2022-06-30T00:29:01.091Z
 :card-last-score: 5
 :END:
 ** 读书有三到
@@ -86,20 +86,20 @@
 *** 宋·朱熹
 *** 余尝谓读书有三到， {{cloze 谓心到、眼到、口到}}。心不在此， {{cloze 则眼不看仔细}}，心眼既不专一，却只漫浪（释义： {{cloze 随便}}）诵读， {{cloze 决不能记，记亦不能久也}}。三到之中，心到最急（释义： {{cloze 要紧，重要}}）。心既到矣， {{cloze 眼口岂不到乎}}？ #card
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-06-29T11:20:44.312Z
-:card-last-reviewed: 2022-06-25T11:20:44.313Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-07-11T04:30:57.206Z
+:card-last-reviewed: 2022-06-30T00:30:57.206Z
 :card-last-score: 5
 :END:
-**** 翻译：我曾经说过 {{cloze 读书有三到}}，分别叫做心到、眼到和口到。心不到， {{cloze 眼睛就不会看得仔细}}；心和眼不到， {{cloze 只是有口无心地诵读}}，不可能记住， {{cloze 就算记住了，也不会记得久}}。三到之中，心到最重要， {{cloze 心如果到了，那么眼睛和嘴巴怎么可能不到呢}}？ #card
+**** 翻译：我曾经说过 {{cloze 读书有三到}}，分别叫做心到、眼到和口到。心不到， {{cloze 眼睛就不会看得仔细}}；心和眼不到， {{cloze 只是有口无心地诵读}}，不可能记住， {{cloze 就算记住了，也不会记得久}}。三到之中，心到最重要， {{cloze 心如果到了，那么眼睛和嘴巴怎么可能不到呢}}？
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-06-29T11:17:13.871Z
-:card-last-reviewed: 2022-06-25T11:17:13.871Z
 :card-last-score: 5
+:card-repeats: 3
+:card-next-schedule: 2022-07-11T04:27:59.992Z
+:card-last-interval: 11.2
+:card-ease-factor: 2.8
+:card-last-reviewed: 2022-06-30T00:27:59.993Z
 :END:
 *

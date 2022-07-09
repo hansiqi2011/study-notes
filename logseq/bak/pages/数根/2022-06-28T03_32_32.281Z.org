@@ -1,0 +1,66 @@
+* 数根的定义 #card #数学
+:PROPERTIES:
+:card-last-interval: 7.73
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-07-04T16:56:39.310Z
+:card-last-reviewed: 2022-06-26T23:56:39.312Z
+:card-last-score: 5
+:END:
+** 数根是指一个[[自然数]]所有数位上的数字相加。
+* C语言求数根 #数学 #编程
+** :PROPERTIES:
+:id: 62b83649-6af7-4ff4-9c22-727447ea2809
+:END:
+#+BEGIN_SRC c
+#include<stdio.h>
+int main(void) {
+    //一般思路：2345->2,3,4,5->14->1,4->5
+    char str[1001];
+    int i, sum;
+    while (1) {
+        gets(str);
+        if (str[0] == '0')
+            break;
+        for (i = 0, sum = 0; str[i] != '\0'; i++)
+            sum += str[i] - '0';
+        printf("%d\n", (sum - 1) % 9 + 1);
+    }
+    return 0;
+}
+//递归法
+int func1(int num) {
+    if (num > 9) {
+        int sum = 0;
+        do sum += num % 10;
+        while (num /= 10);
+        if (sum < 10) return sum;
+        else return func1(sum);
+    }
+    else return num;
+}
+//迭代法
+int func2(int num) {
+    while (num > 9) {
+        int sum = 0;
+        do sum += num % 10;
+        while (num /= 10);
+        num = sum;
+    }
+    return num;
+}
+//公式法
+int func3(int num) {
+    return (num - 1) % 9 + 1;
+}
+#+END_SRC
+* 求数根的公式： #card #数学
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-06-27T16:00:00.000Z
+:card-last-reviewed: 2022-06-26T23:56:46.171Z
+:card-last-score: 1
+:END:
+** $$root(x)=(x-1) mod 9+1$$

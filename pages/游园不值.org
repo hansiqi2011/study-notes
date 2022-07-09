@@ -1,0 +1,12 @@
+* 游园不值 #card #诗词
+:PROPERTIES:
+:card-last-interval: 10.52
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-07-15T12:06:49.197Z
+:card-last-reviewed: 2022-07-05T00:06:49.197Z
+:card-last-score: 5
+:END:
+** 宋·叶绍翁
+** 应怜屐齿印苍苔，小扣柴扉久不开。
+春色满园关不住，一枝红杏出墙来。

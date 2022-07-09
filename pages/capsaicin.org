@@ -1,11 +1,11 @@
 * capsaicin #card #词汇积累
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-06-27T00:51:23.264Z
-:card-last-reviewed: 2022-06-23T00:51:23.264Z
-:card-last-score: 5
+:card-last-interval: 10.24
+:card-repeats: 3
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-07-12T05:39:46.491Z
+:card-last-reviewed: 2022-07-02T00:39:46.491Z
+:card-last-score: 3
 :END:
 ** 释义： {{cloze [化]辣椒素}}
 ** 读音： {{cloze kæp'seɪəsɪn}}

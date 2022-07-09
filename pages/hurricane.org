@@ -1,0 +1,13 @@
+* hurricane #card #词汇积累
+:PROPERTIES:
+:card-last-interval: 10.52
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-07-15T12:07:54.464Z
+:card-last-reviewed: 2022-07-05T00:07:54.465Z
+:card-last-score: 5
+:END:
+** 释义：(countable noun) {{cloze （尤指西大西洋的）飓风}}
+** ~近义词~： {{cloze typhoon（台风）}}
+** 读音： {{cloze ˈhʌrɪkeɪn}}
+** 例句： /There have been more *hurricane*s and tornadoes, and they have struck with more power than ever before./

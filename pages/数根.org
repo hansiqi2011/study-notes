@@ -1,10 +1,10 @@
 * 数根的定义 #card #数学
 :PROPERTIES:
-:card-last-interval: 7.73
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-07-04T16:56:39.310Z
-:card-last-reviewed: 2022-06-26T23:56:39.312Z
+:card-last-interval: 4.14
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-07-09T03:09:40.117Z
+:card-last-reviewed: 2022-07-05T00:09:40.118Z
 :card-last-score: 5
 :END:
 ** 数根是指一个[[自然数]]所有数位上的数字相加。
@@ -56,11 +56,11 @@ int func3(int num) {
 #+END_SRC
 * 求数根的公式： #card #数学
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.5
-:card-next-schedule: 2022-06-27T16:00:00.000Z
-:card-last-reviewed: 2022-06-26T23:56:46.171Z
-:card-last-score: 1
+:card-last-interval: 4.28
+:card-repeats: 2
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-07-07T06:37:57.933Z
+:card-last-reviewed: 2022-07-03T00:37:57.933Z
+:card-last-score: 5
 :END:
 ** $$root(x)=(x-1) mod 9+1$$

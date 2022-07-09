@@ -1,0 +1,16 @@
+* 迢迢牵牛星 #card #诗词
+:PROPERTIES:
+:card-last-interval: 10.52
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-07-12T12:46:31.967Z
+:card-last-reviewed: 2022-07-02T00:46:31.972Z
+:card-last-score: 5
+:END:
+** 汉·佚名
+** *迢迢*牵牛星，*皎皎*河汉女。
+*纤纤*擢素手，*札札*弄机杼。
+终日不成章，泣涕零如雨。
+河汉清且浅，相去复几许。
+*盈盈*一水间，*脉脉*不得语。
+*

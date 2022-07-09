@@ -1,0 +1,14 @@
+* 敕勒歌 #card #诗词
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-06-29T02:17:08.732Z
+:card-last-reviewed: 2022-06-25T02:17:08.732Z
+:card-last-score: 5
+:END:
+** 南北朝·乐府
+** 敕勒川，阴山下。
+天似穹庐，笼盖四野，
+天苍苍，野茫茫，风吹草低见牛羊。
+*

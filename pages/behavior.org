@@ -1,0 +1,12 @@
+* behavior #card #词汇积累
+:PROPERTIES:
+:card-last-interval: 10.52
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-07-10T15:47:23.963Z
+:card-last-reviewed: 2022-06-30T03:47:23.964Z
+:card-last-score: 5
+:END:
+** 释义：(countable noun) {{cloze 行为；性能；表现；(生物的)习性}}
+** 读音： {{cloze bɪˈheɪvjə}}
+** 例句： /Does this *behavior* have any real [[purpose]]?/

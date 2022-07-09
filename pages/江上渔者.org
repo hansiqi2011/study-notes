@@ -1,0 +1,13 @@
+* 江上渔者 #card #诗词
+:PROPERTIES:
+:id: 62c2a27f-c00e-43de-832d-94a7e4a40880
+:card-last-interval: 10.52
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-07-15T12:08:34.270Z
+:card-last-reviewed: 2022-07-05T00:08:34.271Z
+:card-last-score: 5
+:END:
+** 宋·范仲淹
+** 江上往来人，但爱鲈鱼美。
+君看一叶舟，出没风波里。

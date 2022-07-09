@@ -1,4 +1,12 @@
 * germ #card #词汇积累
+:PROPERTIES:
+:card-last-interval: 4.28
+:card-repeats: 2
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-07-09T13:01:52.400Z
+:card-last-reviewed: 2022-07-05T07:01:52.400Z
+:card-last-score: 3
+:END:
 ** 释义：(countable noun) {{cloze 胚芽；细菌；病菌；胚胎}}/(verb) {{cloze 萌芽；发生}}
 ** 读音： {{cloze dʒɜːm}}
 ** 例句：  /He looked for *germs* in the children's bodies./

@@ -1,0 +1,13 @@
+* incredible #card #词汇积累
+:PROPERTIES:
+:card-last-interval: 10.52
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-07-12T12:37:30.132Z
+:card-last-reviewed: 2022-07-02T00:37:30.133Z
+:card-last-score: 5
+:END:
+** 释义： (adjective) {{cloze 不能相信的；难以置信的；极好的；极大的}}
+** 读音： {{cloze ɪn'kredəb(ə)l}}
+** 例句： /So--even today--experts don't fully understand how this *incredible* structure was built./
+*

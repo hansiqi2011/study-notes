@@ -1,0 +1,12 @@
+* investigator #card #词汇积累
+:PROPERTIES:
+:card-last-interval: 7.72
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-07-05T01:43:31.838Z
+:card-last-reviewed: 2022-06-27T08:43:31.839Z
+:card-last-score: 5
+:END:
+** 释义： {{cloze 调查者；侦查员}}
+** 读音： {{cloze ɪnˈvestɪˌɡeɪtə}}
+** 例句： /You are a crime scene *investigator*, and the game is on./

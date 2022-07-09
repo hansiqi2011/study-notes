@@ -1,0 +1,12 @@
+* 精卫填海 #card #古文
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-06-29T02:18:51.335Z
+:card-last-reviewed: 2022-06-25T02:18:51.336Z
+:card-last-score: 5
+:END:
+** 先秦·佚名
+** 炎帝之少女（释义： {{cloze 小女儿}}），名曰女娃。女娃游于东海，溺而不返，故为精卫，常衔西山之木石，以堙（yin1，释义： {{cloze 埋}}）于东海。·
+*
