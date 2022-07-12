@@ -1,12 +1,12 @@
 * [[读题]]
 ** 读题时，应该画出哪些重点，因为 {{cloze 有助于翻译成数学语言}} ？ #card #数学
 :PROPERTIES:
-:card-last-score: 3
-:card-repeats: 3
-:card-next-schedule: 2022-07-10T05:29:31.257Z
-:card-last-interval: 10.24
-:card-ease-factor: 2.56
-:card-last-reviewed: 2022-06-30T00:29:31.257Z
+:card-last-score: 5
+:card-repeats: 4
+:card-next-schedule: 2022-08-08T16:34:00.950Z
+:card-last-interval: 29.26
+:card-ease-factor: 2.66
+:card-last-reviewed: 2022-07-10T10:34:00.951Z
 :END:
 *** 数字
 *** 量词
@@ -16,42 +16,42 @@
 **** 增加减少
 * 数轴填空题应该注意什么？ #card #数学
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-07-09T10:01:41.758Z
-:card-last-reviewed: 2022-07-05T07:01:41.759Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-07-21T14:29:21.154Z
+:card-last-reviewed: 2022-07-10T10:29:21.154Z
 :card-last-score: 5
 :END:
 ** 把零点标记出来
 ** 在填空处附近的大格子做标记
 * 解应用题要标记什么？ #card #数学
 :PROPERTIES:
-:card-last-interval: 10.52
-:card-repeats: 2
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-07-11T12:23:42.542Z
-:card-last-reviewed: 2022-07-01T00:23:42.542Z
+:card-last-interval: 35.13
+:card-repeats: 3
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-08-16T03:47:06.428Z
+:card-last-reviewed: 2022-07-12T00:47:06.428Z
 :card-last-score: 5
 :END:
 ** 标记重要条件，和未知数，尤其注意单位
 * 解应用题的首要步骤是什么？ #card #数学
 :PROPERTIES:
-:card-last-interval: 8.27
-:card-repeats: 2
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-07-06T06:12:03.076Z
-:card-last-reviewed: 2022-06-28T00:12:03.076Z
+:card-last-interval: 34.2
+:card-repeats: 3
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-08-13T14:17:22.612Z
+:card-last-reviewed: 2022-07-10T10:17:22.612Z
 :card-last-score: 5
 :END:
 ** 把条件和未知数用数学符号表示
 * 解数学题最重要的是什么？ #card #数学
 :PROPERTIES:
-:card-last-interval: 9.17
-:card-repeats: 2
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-07-08T04:38:30.058Z
-:card-last-reviewed: 2022-06-29T00:38:30.059Z
+:card-last-interval: 34.2
+:card-repeats: 3
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-08-13T14:26:35.991Z
+:card-last-reviewed: 2022-07-10T10:26:35.992Z
 :card-last-score: 5
 :END:
 ** 不能怕麻烦跳步骤

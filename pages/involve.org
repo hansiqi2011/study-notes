@@ -1,10 +1,10 @@
 * involve #card #词汇积累
 :PROPERTIES:
-:card-last-interval: 11.56
-:card-repeats: 3
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-07-10T13:27:14.991Z
-:card-last-reviewed: 2022-06-29T00:27:14.992Z
+:card-last-interval: 31.36
+:card-repeats: 4
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-08-11T08:24:23.941Z
+:card-last-reviewed: 2022-07-11T00:24:23.942Z
 :card-last-score: 5
 :END:
 ** 释义：transitive verb {{cloze 需要；包含；牵涉；影响}}

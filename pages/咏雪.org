@@ -1,3 +1,11 @@
 * 咏雪 #card #古文 #诗词
+:PROPERTIES:
+:card-last-interval: 10.78
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-07-21T04:13:48.616Z
+:card-last-reviewed: 2022-07-10T10:13:48.617Z
+:card-last-score: 5
+:END:
 ** 南北朝·刘义庆
 ** 谢太傅寒雪日内集，与儿女讲论文义。俄而雪骤，公欣然曰：“白雪纷纷何所似？”兄子胡儿曰：“撒盐空中差可拟。”兄女曰：“未若柳絮因风起。”公大笑乐。即公大兄无奕女，左将军王凝之妻也。

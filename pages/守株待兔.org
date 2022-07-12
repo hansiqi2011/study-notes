@@ -1,10 +1,10 @@
 * 守株待兔 #card #古文
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-07-11T04:25:22.792Z
-:card-last-reviewed: 2022-06-30T00:25:22.793Z
+:card-last-interval: 34.8
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-08-15T19:38:32.331Z
+:card-last-reviewed: 2022-07-12T00:38:32.331Z
 :card-last-score: 5
 :END:
 ** 先秦·韩非子·五蠹（du4）

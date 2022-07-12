@@ -1,10 +1,10 @@
 * period #card #词汇积累
 :PROPERTIES:
-:card-last-interval: 9.17
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-07-09T04:16:51.016Z
-:card-last-reviewed: 2022-06-30T00:16:51.016Z
+:card-last-interval: 4.14
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-07-14T13:28:48.996Z
+:card-last-reviewed: 2022-07-10T10:28:48.996Z
 :card-last-score: 5
 :END:
 ** 释义： {{cloze n.时期；阶段；时代；句点  adj.当时的；当年的；那个年代的}}

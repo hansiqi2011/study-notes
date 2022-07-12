@@ -1,10 +1,10 @@
 * 学弈 #card #古文
 :PROPERTIES:
-:card-last-interval: 2.72
-:card-repeats: 2
-:card-ease-factor: 2.36
-:card-next-schedule: 2022-07-06T17:29:16.089Z
-:card-last-reviewed: 2022-07-04T00:29:16.093Z
+:card-last-interval: 8.88
+:card-repeats: 3
+:card-ease-factor: 2.22
+:card-next-schedule: 2022-07-19T07:20:28.262Z
+:card-last-reviewed: 2022-07-10T10:20:28.263Z
 :card-last-score: 3
 :END:
 ** 先秦·孟子

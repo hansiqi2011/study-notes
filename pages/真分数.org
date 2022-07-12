@@ -1,10 +1,10 @@
 * 真分数的定义 #card #数学
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-07-11T04:25:40.944Z
-:card-last-reviewed: 2022-06-30T00:25:40.945Z
+:card-last-interval: 34.8
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-08-15T19:39:07.381Z
+:card-last-reviewed: 2022-07-12T00:39:07.382Z
 :card-last-score: 5
 :END:
 ** 对于[[分数]] $$\frac{m}{n}$$（这里m、n都是非零整数），如果分子的绝对值小于分母的绝对值，即满足$$\lvert m \rvert < \lvert n \rvert$$，这样的分数叫做真分数

@@ -1,11 +1,11 @@
 * 西江月·夜行黄沙道中 #card #诗词
 :PROPERTIES:
-:card-last-interval: 8.88
-:card-repeats: 3
-:card-ease-factor: 2.22
-:card-next-schedule: 2022-07-09T21:23:21.317Z
-:card-last-reviewed: 2022-07-01T00:23:21.317Z
-:card-last-score: 3
+:card-last-interval: 21.53
+:card-repeats: 4
+:card-ease-factor: 2.32
+:card-next-schedule: 2022-07-31T22:31:52.454Z
+:card-last-reviewed: 2022-07-10T10:31:52.454Z
+:card-last-score: 5
 :END:
 ** 宋·辛弃疾
 ** 明月别枝惊鹊，清风半夜鸣蝉。稻花香里说丰年，听取蛙声一片。

@@ -1,10 +1,10 @@
 * perhaps #card #词汇积累
 :PROPERTIES:
-:card-last-interval: 10.52
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-07-11T12:20:51.081Z
-:card-last-reviewed: 2022-07-01T00:20:51.082Z
+:card-last-interval: 3.71
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-07-15T17:46:50.296Z
+:card-last-reviewed: 2022-07-12T00:46:50.296Z
 :card-last-score: 5
 :END:
 ** 释义：(adverb) {{cloze 也许；可能；大概；如果}}

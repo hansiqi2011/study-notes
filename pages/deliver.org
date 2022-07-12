@@ -1,4 +1,12 @@
 * deliver #card #词汇积累
+:PROPERTIES:
+:card-last-interval: 9.25
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-07-20T06:24:41.802Z
+:card-last-reviewed: 2022-07-11T00:24:41.802Z
+:card-last-score: 5
+:END:
 ** 释义：(transitive verb) {{cloze 交付；发表；兑现；传送}}
 ** 读音： {{cloze dɪˈlɪvə}}
 ** 例句： /And ultimately, the challenge of the baker, the challenge of every culinary student, of every chef, is to *deliver* flavor./

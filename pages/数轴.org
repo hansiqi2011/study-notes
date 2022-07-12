@@ -10,20 +10,20 @@
 ** 数轴指的是规定了 {{cloze 原点}}、 {{cloze 正方向}}和 {{cloze 单位长度}}的直线。
 * 数轴能表示任意 {{cloze [[实数]]}}。  #card
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-07-11T04:24:14.050Z
-:card-last-reviewed: 2022-06-30T00:24:14.050Z
+:card-last-interval: 34.8
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-08-15T19:36:46.435Z
+:card-last-reviewed: 2022-07-12T00:36:46.436Z
 :card-last-score: 5
 :END:
 * 数轴上 {{cloze 右边(正方向)}}的点表示的数总大于 {{cloze 左边(负方向)}}的点所表示的数。 #card
 :PROPERTIES:
-:card-last-interval: 10.24
-:card-repeats: 3
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-07-10T05:24:24.249Z
-:card-last-reviewed: 2022-06-30T00:24:24.250Z
+:card-last-interval: 29.26
+:card-repeats: 4
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-08-08T16:33:03.658Z
+:card-last-reviewed: 2022-07-10T10:33:03.659Z
 :card-last-score: 5
 :END:
 * [[数射线]]是数轴的一种“简化版本”。

@@ -1,5 +1,13 @@
 * hold (sth.) up #card #词组积累
-释义： {{cloze 支持；举起}}
+:PROPERTIES:
+:card-last-interval: 10.78
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-07-21T04:15:40.809Z
+:card-last-reviewed: 2022-07-10T10:15:40.809Z
+:card-last-score: 5
+:END:
+** 释义： {{cloze 支持；举起}}
 ** 读音： {{cloze həʊld·(sʌmθɪŋ)·ʌp}}
 ** 例句： /This virtual reality tool allows users to see a home built today and fast-forward 10 years to see how the building products will *hold up*./
 *

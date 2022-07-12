@@ -1,11 +1,11 @@
 * 伯牙鼓琴 #card #古文
 :PROPERTIES:
-:card-last-interval: 8.88
-:card-repeats: 3
-:card-ease-factor: 2.22
-:card-next-schedule: 2022-07-07T21:30:55.220Z
-:card-last-reviewed: 2022-06-29T00:30:55.221Z
-:card-last-score: 3
+:card-last-interval: 21.53
+:card-repeats: 4
+:card-ease-factor: 2.32
+:card-next-schedule: 2022-07-31T22:26:14.208Z
+:card-last-reviewed: 2022-07-10T10:26:14.209Z
+:card-last-score: 5
 :END:
 ** 先秦·佚名
 ** 伯牙鼓琴， {{cloze 锺子期听之}}。方鼓琴而志在太山，锺子期曰：“善哉乎鼓琴， {{cloze *巍巍乎若太山*}}。”少选之间而志在流水，锺子期又曰：“善哉乎鼓琴， {{cloze *汤汤乎若流水*}}。”锺子期死，伯牙破琴绝弦，终身不复鼓琴， {{cloze 以为世无足复为鼓琴者}}。

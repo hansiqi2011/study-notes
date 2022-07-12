@@ -1,11 +1,11 @@
 * 卜算子·送鲍浩然之浙东 #card #诗词
 :PROPERTIES:
-:card-last-interval: 9.17
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-07-09T04:11:24.804Z
-:card-last-reviewed: 2022-06-30T00:11:24.804Z
-:card-last-score: 5
+:card-last-interval: 4.43
+:card-repeats: 2
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-07-14T20:28:14.622Z
+:card-last-reviewed: 2022-07-10T10:28:14.622Z
+:card-last-score: 3
 :END:
 ** 宋·王观
 ** 水是眼波横，山是眉峰聚。欲问行人去那边？眉眼盈盈处。

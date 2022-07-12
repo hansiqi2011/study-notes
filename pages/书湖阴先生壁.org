@@ -1,11 +1,11 @@
 * 书湖阴（释义： {{cloze 山北水南，这里指杨德逢居住在湖的南边}}）先生（释义： {{cloze 杨德逢，王安石的邻居}}）壁 #card #诗词
 :PROPERTIES:
-:card-last-interval: 11.56
-:card-repeats: 3
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-07-07T13:30:37.019Z
-:card-last-reviewed: 2022-06-26T00:30:37.019Z
-:card-last-score: 5
+:card-last-interval: 4.14
+:card-repeats: 2
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-07-16T03:52:25.643Z
+:card-last-reviewed: 2022-07-12T00:52:25.644Z
+:card-last-score: 3
 :END:
 ** 宋·王安石
 ** 茅檐长扫净无苔，花木成畦（qi2，释义： {{cloze 田园中分成的小区域}}）手自栽。

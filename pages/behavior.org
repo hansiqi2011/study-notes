@@ -1,11 +1,11 @@
 * behavior #card #词汇积累
 :PROPERTIES:
-:card-last-interval: 10.52
+:card-last-interval: -1
 :card-repeats: 1
 :card-ease-factor: 2.6
-:card-next-schedule: 2022-07-10T15:47:23.963Z
-:card-last-reviewed: 2022-06-30T03:47:23.964Z
-:card-last-score: 5
+:card-next-schedule: 2022-07-12T16:00:00.000Z
+:card-last-reviewed: 2022-07-12T00:48:51.401Z
+:card-last-score: 1
 :END:
 ** 释义：(countable noun) {{cloze 行为；性能；表现；(生物的)习性}}
 ** 读音： {{cloze bɪˈheɪvjə}}

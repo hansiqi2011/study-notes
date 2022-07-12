@@ -1,3 +1,11 @@
 * 天净沙·秋思 #card #诗词
+:PROPERTIES:
+:card-last-interval: 10.78
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-07-21T04:14:15.978Z
+:card-last-reviewed: 2022-07-10T10:14:15.978Z
+:card-last-score: 5
+:END:
 ** 元·马致远
 ** 枯藤老树昏鸦，小桥流水人家，古道西风瘦马。夕阳西下，断肠人在天涯。

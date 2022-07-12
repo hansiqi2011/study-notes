@@ -1,0 +1,28 @@
+* 计算机的结构分为 {{cloze 软件}}和 {{cloze 硬件}}两大部分。 #card #NOI
+* 硬件分为 {{cloze 主机}}和 {{cloze 外部设备}}。 #card #NOI
+* 主机包括 {{cloze CPU}}、 {{cloze Cache（高速缓存）}}、 {{cloze 内存}}。 #card #NOI
+* CPU分为 {{cloze 运算器}}、 {{cloze 寄存器}}和 {{cloze 控制器}}。 #card #NOI
+* CPU的主要性能指标是 {{cloze 字长}}和 {{cloze 主频}} #card #硬件
+* 内存包括 {{cloze RAM（随机存储器）}}和 {{cloze ROM（只读存储器）}}。 #card #NOI
+* 外部设备包括 {{cloze 输入设备}}、 {{cloze 外部存储器}}和 {{cloze 输出设备}}。 #card #NOI
+* 软件包括 {{cloze 系统软件}}和 {{cloze 应用软件}}。 #card
+* 系统软件包括 {{cloze 操作系统}}、 {{cloze 语言处理程序}}和 {{cloze 数据库系统}}。 #card #NOI
+* 数据库系统包括 {{cloze 数据库}}和 {{cloze 数据库管理系统}}。 #card #NOI
+* 存储容量的单位有哪些 #card #NOI
+:PROPERTIES:
+:collapsed: true
+:END:
+** 1KB = 1024B
+** 1MB = 1024KB
+** 1GB = 1024MB
+** 1TB = 1024GB
+** 1PB = 1024TB
+* 总线 #card #硬件
+:PROPERTIES:
+:collapsed: true
+:END:
+** 总线是 {{cloze 在中央处理器和其他硬件组成部分之间传输数据的线}}。
+** 总线的分类
+*** 数据总线
+*** 地址总线
+*** 控制总线

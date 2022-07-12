@@ -1,11 +1,11 @@
 * 赠刘景文 #card #诗词
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.8
-:card-next-schedule: 2022-07-11T04:28:31.502Z
-:card-last-reviewed: 2022-06-30T00:28:31.502Z
-:card-last-score: 5
+:card-next-schedule: 2022-07-12T16:00:00.000Z
+:card-last-reviewed: 2022-07-12T00:39:50.216Z
+:card-last-score: 1
 :END:
 ** 宋·[[苏轼]]
 ** 荷尽已无擎雨盖，菊残犹有傲霜枝。
