@@ -1,10 +1,10 @@
 * 浪淘沙·其一 #card #诗词
 :PROPERTIES:
-:card-last-interval: 8.65
-:card-repeats: 3
-:card-ease-factor: 2.46
-:card-next-schedule: 2022-07-13T15:09:23.824Z
-:card-last-reviewed: 2022-07-05T00:09:23.825Z
+:card-last-interval: 33.07
+:card-repeats: 4
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-08-16T01:07:54.008Z
+:card-last-reviewed: 2022-07-14T00:07:54.009Z
 :card-last-score: 5
 :END:
 ** 唐·刘禹锡

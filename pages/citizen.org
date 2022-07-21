@@ -1,0 +1,12 @@
+* citizen #card #词汇积累
+:PROPERTIES:
+:card-last-interval: 2.43
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-07-23T10:28:57.994Z
+:card-last-reviewed: 2022-07-21T00:28:57.994Z
+:card-last-score: 3
+:END:
+** 释义： {{cloze n.公民；市民；居民}}
+** 读音： {{cloze 'sɪtɪz(ə)n}}
+** 例句： /It's an Internet-based *citizen* science project at Cornell University in the United States./

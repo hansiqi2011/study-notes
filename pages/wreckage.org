@@ -1,11 +1,11 @@
 * wreckage #card #词汇积累
 :PROPERTIES:
-:card-last-interval: 10.24
-:card-repeats: 3
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-07-14T05:31:41.580Z
-:card-last-reviewed: 2022-07-04T00:31:41.580Z
-:card-last-score: 3
+:card-last-interval: 29.26
+:card-repeats: 4
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-08-13T06:51:05.875Z
+:card-last-reviewed: 2022-07-15T00:51:05.876Z
+:card-last-score: 5
 :END:
 ** 释义：(countable noun) {{cloze 残骸；废墟}}
 ** 读音： {{cloze 'rekɪdʒ}}

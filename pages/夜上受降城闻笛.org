@@ -1,0 +1,12 @@
+* 夜上受降城闻笛 #card #诗词
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-07-21T16:00:00.000Z
+:card-last-reviewed: 2022-07-21T00:27:46.500Z
+:card-last-score: 1
+:END:
+** 唐·李益
+** 回乐烽前沙似雪，受降城外月如霜。(回乐烽 一作：回乐峰)
+不知何处吹芦管，一夜征人尽望乡。

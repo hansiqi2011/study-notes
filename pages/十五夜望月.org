@@ -1,11 +1,11 @@
 * 十五夜望月 #card #诗词
 :PROPERTIES:
-:card-last-interval: 9.67
-:card-repeats: 3
-:card-ease-factor: 2.46
-:card-next-schedule: 2022-07-12T16:36:42.646Z
-:card-last-reviewed: 2022-07-03T00:36:42.647Z
-:card-last-score: 5
+:card-last-interval: 19.98
+:card-repeats: 4
+:card-ease-factor: 2.32
+:card-next-schedule: 2022-08-01T23:50:56.829Z
+:card-last-reviewed: 2022-07-13T00:50:56.830Z
+:card-last-score: 3
 :END:
 ** 唐·王建
 ** 中庭地白树栖鸦，冷露无声湿桂花。

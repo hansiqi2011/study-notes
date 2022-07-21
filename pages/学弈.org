@@ -1,11 +1,11 @@
 * 学弈 #card #古文
 :PROPERTIES:
-:card-last-interval: 8.88
-:card-repeats: 3
-:card-ease-factor: 2.22
-:card-next-schedule: 2022-07-19T07:20:28.262Z
-:card-last-reviewed: 2022-07-10T10:20:28.263Z
-:card-last-score: 3
+:card-last-interval: 21.53
+:card-repeats: 4
+:card-ease-factor: 2.32
+:card-next-schedule: 2022-08-10T12:20:44.585Z
+:card-last-reviewed: 2022-07-20T00:20:44.585Z
+:card-last-score: 5
 :END:
 ** 先秦·孟子
 ** 弈秋，通国之善弈者也。使弈秋诲二人弈，其一人专心致志， {{cloze 惟弈秋之为听}}；一人虽听之， {{cloze 一心以为有鸿鹄将至}}，思援弓缴而射之。虽与之俱学， {{cloze 弗若之矣}}。为是其智弗若与？（句子释义： {{cloze 是后者不如前者聪明吗？}}）曰：非然也。

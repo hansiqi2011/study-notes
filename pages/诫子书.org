@@ -1,0 +1,11 @@
+* 诫子书 #card #古文
+:PROPERTIES:
+:card-last-interval: 9.82
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-07-24T19:50:36.323Z
+:card-last-reviewed: 2022-07-15T00:50:36.325Z
+:card-last-score: 5
+:END:
+** 诸葛亮 〔两汉〕
+** 夫君子之行，静以修身， {{cloze 俭以养德}}。非淡泊无以明志， {{cloze 非宁静无以致远}}。夫学须静也， {{cloze 才须学也}}，非学无以广才， {{cloze 非志无以成学}}。淫慢则不能励精， {{cloze 险躁则不能治性}}。年与时驰， {{cloze 意与日去}}，遂成枯落，多不接世， {{cloze 悲守穷庐，将复何及}}！（淡泊 一作：澹泊；淫慢 一作：慆慢）

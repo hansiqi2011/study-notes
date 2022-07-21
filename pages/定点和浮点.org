@@ -1,0 +1,43 @@
+* 定点数的表示方法 #card #NOI
+:PROPERTIES:
+:card-last-interval: 9.82
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-07-23T19:00:35.066Z
+:card-last-reviewed: 2022-07-14T00:00:35.068Z
+:card-last-score: 5
+:END:
+** 定点数的小数点的位置是固定不变的。
+* 浮点数的表示方法 #card #NOI
+:PROPERTIES:
+:card-last-interval: 9.82
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-07-23T19:00:45.600Z
+:card-last-reviewed: 2022-07-14T00:00:45.601Z
+:card-last-score: 5
+:END:
+** 浮点数的小数点可移动。
+* 浮点数具有哪些属性 #card #NOI
+:PROPERTIES:
+:card-last-interval: 9.82
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-07-23T18:59:40.948Z
+:card-last-reviewed: 2022-07-13T23:59:40.948Z
+:card-last-score: 5
+:END:
+** 尾数
+** 阶码
+* 浮点数如何解析 #card #NOI
+:PROPERTIES:
+:card-last-interval: 9.82
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-07-23T19:00:05.258Z
+:card-last-reviewed: 2022-07-14T00:00:05.259Z
+:card-last-score: 5
+:END:
+** $$F=2^E \times S$$
+** F表示 {{cloze 浮点数}}；E表示 {{cloze 阶码}}；S表示 {{cloze 尾数}}。
+*

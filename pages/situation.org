@@ -1,10 +1,10 @@
 * situation #card #词汇积累
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-07-14T04:39:55.782Z
-:card-last-reviewed: 2022-07-03T00:39:55.782Z
+:card-last-interval: 34.8
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-08-18T19:51:02.585Z
+:card-last-reviewed: 2022-07-15T00:51:02.586Z
 :card-last-score: 5
 :END:
 ** 释义：(countable noun) {{cloze 情况；[正式]工作；地点}}

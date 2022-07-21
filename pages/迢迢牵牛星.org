@@ -1,10 +1,10 @@
 * 迢迢牵牛星 #card #诗词
 :PROPERTIES:
-:card-last-interval: 10.52
-:card-repeats: 2
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-07-12T12:46:31.967Z
-:card-last-reviewed: 2022-07-02T00:46:31.972Z
+:card-last-interval: 33.9
+:card-repeats: 3
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-08-15T21:49:33.126Z
+:card-last-reviewed: 2022-07-13T00:49:33.126Z
 :card-last-score: 5
 :END:
 ** 汉·佚名

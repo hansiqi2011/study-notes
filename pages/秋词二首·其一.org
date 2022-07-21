@@ -1,0 +1,12 @@
+* 秋词二首·其一 #card #诗词
+:PROPERTIES:
+:card-last-interval: 12.06
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-02T01:29:33.502Z
+:card-last-reviewed: 2022-07-21T00:29:33.503Z
+:card-last-score: 5
+:END:
+** 唐·刘禹锡
+** 自古逢秋悲寂寥，我言秋日胜春朝。
+晴空一鹤排云上，便引诗情到碧霄。

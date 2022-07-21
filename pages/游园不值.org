@@ -1,10 +1,10 @@
 * 游园不值 #card #诗词
 :PROPERTIES:
-:card-last-interval: 10.52
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-07-15T12:06:49.197Z
-:card-last-reviewed: 2022-07-05T00:06:49.197Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-07-31T04:22:40.604Z
+:card-last-reviewed: 2022-07-20T00:22:40.604Z
 :card-last-score: 5
 :END:
 ** 宋·叶绍翁

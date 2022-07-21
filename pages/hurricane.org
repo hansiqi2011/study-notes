@@ -1,10 +1,10 @@
 * hurricane #card #词汇积累
 :PROPERTIES:
 :card-last-interval: 10.52
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-07-15T12:07:54.464Z
-:card-last-reviewed: 2022-07-05T00:07:54.465Z
+:card-repeats: 3
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-07-31T12:34:41.136Z
+:card-last-reviewed: 2022-07-21T00:34:41.136Z
 :card-last-score: 5
 :END:
 ** 释义：(countable noun) {{cloze （尤指西大西洋的）飓风}}

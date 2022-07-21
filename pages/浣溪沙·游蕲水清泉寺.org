@@ -1,10 +1,10 @@
 * 浣溪沙·游蕲（读音： {{cloze qi2}}）水清泉寺 #card #诗词
 :PROPERTIES:
-:card-last-interval: 9.81
-:card-repeats: 3
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-07-20T05:21:48.087Z
-:card-last-reviewed: 2022-07-10T10:21:48.087Z
+:card-last-interval: 29.26
+:card-repeats: 4
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-08-19T06:30:22.618Z
+:card-last-reviewed: 2022-07-21T00:30:22.619Z
 :card-last-score: 5
 :END:
 ** 宋·苏轼

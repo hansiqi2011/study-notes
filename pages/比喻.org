@@ -1,30 +1,30 @@
 * 比喻的表达效果 #card #语文
 :PROPERTIES:
-:card-last-interval: 10.42
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-07-16T09:55:30.295Z
-:card-last-reviewed: 2022-07-05T23:55:30.295Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-08-01T04:35:06.898Z
+:card-last-reviewed: 2022-07-21T00:35:06.898Z
 :card-last-score: 5
 :END:
 ** 生动形象，有画面感，便于理解。
 * 比喻的恰当 #card #语文
 :PROPERTIES:
-:card-last-interval: 2.72
-:card-repeats: 2
-:card-ease-factor: 2.36
-:card-next-schedule: 2022-07-13T03:19:38.341Z
-:card-last-reviewed: 2022-07-10T10:19:38.341Z
-:card-last-score: 3
+:card-last-interval: 10.28
+:card-repeats: 3
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-07-24T06:05:11.654Z
+:card-last-reviewed: 2022-07-14T00:05:11.654Z
+:card-last-score: 5
 :END:
 ** 本体和喻体应该有共同点、便于联想；比喻要贴近生活、符合上下文和思想感情。
 * 怎样写出恰当的比喻 #card #语文
 :PROPERTIES:
-:card-last-interval: 10.42
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-07-16T09:55:24.603Z
-:card-last-reviewed: 2022-07-05T23:55:24.603Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-08-01T04:35:01.149Z
+:card-last-reviewed: 2022-07-21T00:35:01.149Z
 :card-last-score: 5
 :END:
 ** 经常观察事物、积累语言。

@@ -1,0 +1,12 @@
+* 峨眉山月歌 #card #诗词
+:PROPERTIES:
+:card-last-interval: 2.43
+:card-repeats: 2
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-07-23T10:36:28.990Z
+:card-last-reviewed: 2022-07-21T00:36:28.990Z
+:card-last-score: 3
+:END:
+** 唐·李白
+** 峨眉山月半轮秋，影入平羌江水流。
+夜发清溪向三峡，思君不见下渝州。

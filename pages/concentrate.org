@@ -1,0 +1,13 @@
+* concentrate #card #NOI
+:PROPERTIES:
+:card-last-interval: 9.82
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-07-24T19:41:42.595Z
+:card-last-reviewed: 2022-07-15T00:41:42.598Z
+:card-last-score: 5
+:END:
+** 释义： {{cloze n.浓缩物/v.聚精会神；集中（注意力）；使…集中（或集合、聚集）；（使）浓缩}}
+** 读音： {{cloze ˈkɒns(ə)nˌtreɪt}}
+** 例句： /Mindfulness and wisdom *concentrate* on this point, trying to discover what this knowing really consists of./
+*

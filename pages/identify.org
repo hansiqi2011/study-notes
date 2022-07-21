@@ -1,0 +1,13 @@
+* identify #card #词汇积累
+:PROPERTIES:
+:card-last-interval: 12.06
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-01T01:18:00.527Z
+:card-last-reviewed: 2022-07-20T00:18:00.528Z
+:card-last-score: 5
+:END:
+** 释义： {{cloze v.鉴定；确认；发现；找到}}
+** 读音： {{cloze aɪˈdentɪfaɪ}}
+** 例句： /Be able to *identify* at least three reactive sources of data and three proactive sources of data for your project./
+*

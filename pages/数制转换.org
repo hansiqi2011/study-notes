@@ -1,4 +1,20 @@
 * 十进制*纯小数*转n进制 #card #NOI
+:PROPERTIES:
+:card-last-interval: 8.86
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-07-21T20:34:38.496Z
+:card-last-reviewed: 2022-07-13T00:34:38.496Z
+:card-last-score: 5
+:END:
 ** 乘以n取整，顺序输出。
 * 十进制*整数*转n进制 #card #NOI
+:PROPERTIES:
+:card-last-interval: 8.86
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-07-21T20:46:55.695Z
+:card-last-reviewed: 2022-07-13T00:46:55.695Z
+:card-last-score: 5
+:END:
 ** 除以n取余，逆序输出。

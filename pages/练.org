@@ -1,10 +1,10 @@
 * “练”字的原意 #card #语文
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-07-15T04:34:35.396Z
-:card-last-reviewed: 2022-07-04T00:34:35.397Z
+:card-last-interval: 34.8
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-08-19T20:02:18.410Z
+:card-last-reviewed: 2022-07-16T01:02:18.410Z
 :card-last-score: 5
 :END:
 ** “练”字是绞丝旁，原指 {{cloze 绢布}}，后来才衍生出练习的意思。

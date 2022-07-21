@@ -1,0 +1,12 @@
+* organization #card #词汇积累
+:PROPERTIES:
+:card-last-interval: 12.06
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-02T01:36:52.439Z
+:card-last-reviewed: 2022-07-21T00:36:52.439Z
+:card-last-score: 5
+:END:
+** 释义： {{cloze n.组织；机构；团体；安排}}
+** 读音： {{cloze ˌɔː(r)ɡənaɪˈzeɪʃ(ə)n}}
+** 例句： /Shortly after her arrival in the United States, Malcolm was assassinated, and his plans for a new *organization* died with him./

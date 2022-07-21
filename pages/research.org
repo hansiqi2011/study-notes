@@ -1,0 +1,12 @@
+* research #card #词汇积累
+:PROPERTIES:
+:card-last-interval: 12.06
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-02T01:26:23.753Z
+:card-last-reviewed: 2022-07-21T00:26:23.753Z
+:card-last-score: 5
+:END:
+** 释义： {{cloze n.研究；探索；调查/v.研究；调查；探讨}}
+** 读音： {{cloze rɪˈsɜː(r)tʃ}}
+** 例句： /Dr Tom Heffernan, who leads *research* group, said the findings would be useful in anti-smoking campaigns./

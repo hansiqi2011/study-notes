@@ -1,10 +1,10 @@
 * germ #card #词汇积累
 :PROPERTIES:
-:card-last-interval: 9.81
-:card-repeats: 3
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-07-20T05:30:49.448Z
-:card-last-reviewed: 2022-07-10T10:30:49.448Z
+:card-last-interval: 29.26
+:card-repeats: 4
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-08-19T06:33:44.747Z
+:card-last-reviewed: 2022-07-21T00:33:44.748Z
 :card-last-score: 5
 :END:
 ** 释义：(countable noun) {{cloze 胚芽；细菌；病菌；胚胎}}/(verb) {{cloze 萌芽；发生}}

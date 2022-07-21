@@ -1,10 +1,10 @@
 * 两小儿辩日 #card #古文
 :PROPERTIES:
-:card-last-interval: 9.28
-:card-repeats: 3
-:card-ease-factor: 2.32
-:card-next-schedule: 2022-07-13T06:31:28.394Z
-:card-last-reviewed: 2022-07-04T00:31:28.397Z
+:card-last-interval: 23.43
+:card-repeats: 4
+:card-ease-factor: 2.42
+:card-next-schedule: 2022-08-06T10:07:34.702Z
+:card-last-reviewed: 2022-07-14T00:07:34.702Z
 :card-last-score: 5
 :END:
 ** 先秦·列子

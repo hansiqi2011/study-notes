@@ -1,11 +1,11 @@
 * archeologist #card #词汇积累
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-07-14T04:39:09.866Z
-:card-last-reviewed: 2022-07-03T00:39:09.866Z
-:card-last-score: 5
+:card-last-interval: 28.3
+:card-repeats: 4
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-08-12T07:50:47.814Z
+:card-last-reviewed: 2022-07-15T00:50:47.814Z
+:card-last-score: 3
 :END:
 ** 释义：(countable noun) {{cloze 考古学家}}
 ** 读音： {{cloze ɑ:kɪˈɔlədʒɪst}}
