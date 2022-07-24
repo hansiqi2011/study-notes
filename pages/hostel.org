@@ -1,11 +1,11 @@
 * hostel #card #词汇积累
 :PROPERTIES:
-:card-last-interval: 9.82
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-07-23T18:59:33.683Z
-:card-last-reviewed: 2022-07-13T23:59:33.685Z
-:card-last-score: 5
+:card-last-interval: 4.43
+:card-repeats: 2
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-07-28T10:28:50.895Z
+:card-last-reviewed: 2022-07-24T00:28:50.896Z
+:card-last-score: 3
 :END:
 ** 释义：(countable noun) {{cloze 宿舍；旅店；客栈}}
 ** 读音： {{cloze ˈhɒst(ə)l}}

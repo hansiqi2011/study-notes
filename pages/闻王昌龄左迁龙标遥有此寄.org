@@ -1,11 +1,11 @@
 * 闻 王昌龄 左迁龙标 遥有此寄 #card #诗词
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-07-21T16:00:00.000Z
-:card-last-reviewed: 2022-07-21T00:36:14.012Z
-:card-last-score: 1
+:card-last-interval: 3.58
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-07-25T13:36:57.134Z
+:card-last-reviewed: 2022-07-22T00:36:57.134Z
+:card-last-score: 5
 :END:
 ** 唐·李白
 ** 杨花落尽子规（释义： {{cloze 杜鹃}}）啼，闻道龙标（地名，代指 {{cloze 王昌龄}}）过五溪。

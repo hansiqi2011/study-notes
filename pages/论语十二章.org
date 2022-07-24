@@ -11,38 +11,38 @@
 :END:
 ** 曾子曰：“吾日三省吾身： {{cloze 为人谋而不忠乎？与朋友交而不信乎？传不习乎？}}”《学而》 #card
 :PROPERTIES:
-:card-last-interval: 9.82
-:card-repeats: 2
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-07-23T19:09:37.408Z
-:card-last-reviewed: 2022-07-14T00:09:37.409Z
+:card-last-interval: 56.78
+:card-repeats: 3
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-18T18:30:00.934Z
+:card-last-reviewed: 2022-07-24T00:30:00.934Z
 :card-last-score: 5
 :END:
 ** 子曰：“ {{cloze 吾十有五而志于学}}，三十而立，四十而不惑， {{cloze 五十而知天命}}，六十而耳顺， {{cloze 七十而从心所欲，不逾矩}}。”《为政》 #card
 :PROPERTIES:
-:card-last-interval: 8.86
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-07-21T20:42:17.840Z
-:card-last-reviewed: 2022-07-13T00:42:17.841Z
+:card-last-interval: 3.58
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-07-25T13:48:09.723Z
+:card-last-reviewed: 2022-07-22T00:48:09.724Z
 :card-last-score: 5
 :END:
 ** 子曰：“温故而知新， {{cloze 可以为师矣}}。”《为政》 #card
 :PROPERTIES:
-:card-last-interval: 8.86
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-07-21T20:38:58.784Z
-:card-last-reviewed: 2022-07-13T00:38:58.785Z
+:card-last-interval: 3.58
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-07-25T13:46:41.750Z
+:card-last-reviewed: 2022-07-22T00:46:41.751Z
 :card-last-score: 5
 :END:
 ** 子曰：“学而不思则罔， {{cloze 思而不学则殆}}。”《为政》 #card
 :PROPERTIES:
-:card-last-interval: 8.86
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-07-21T20:46:14.963Z
-:card-last-reviewed: 2022-07-13T00:46:14.963Z
+:card-last-interval: 3.58
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-07-25T13:48:43.210Z
+:card-last-reviewed: 2022-07-22T00:48:43.210Z
 :card-last-score: 5
 :END:
 ** 子曰：“贤哉，回也！ {{cloze 一箪食，一瓢饮，在陋巷，人不堪其忧，回也不改其乐}}。贤哉，回也！”《雍也》 #card
@@ -56,11 +56,11 @@
 :END:
 ** 子曰：“知之者 {{cloze 不如好之者}}，好之者 {{cloze 不如乐之者}}。”《雍也》 #card
 :PROPERTIES:
-:card-last-interval: 8.86
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-07-21T20:42:26.243Z
-:card-last-reviewed: 2022-07-13T00:42:26.244Z
+:card-last-interval: 3.58
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-07-25T13:48:14.541Z
+:card-last-reviewed: 2022-07-22T00:48:14.542Z
 :card-last-score: 5
 :END:
 ** 子曰：“饭疏食，饮水， {{cloze 曲肱而枕之}}，乐亦在其中矣。 {{cloze 不义而富且贵，于我如浮云}}。”《述而》 #card
@@ -74,29 +74,29 @@
 :END:
 ** 子曰：“三人行， {{cloze 必有我师焉}}。择其善者而从之， {{cloze 其不善者而改之}}。”《述而》 #card
 :PROPERTIES:
-:card-last-interval: 8.86
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-07-21T20:43:08.678Z
-:card-last-reviewed: 2022-07-13T00:43:08.678Z
+:card-last-interval: 3.58
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-07-25T13:48:25.331Z
+:card-last-reviewed: 2022-07-22T00:48:25.331Z
 :card-last-score: 5
 :END:
 ** 子在川上曰：“ {{cloze 逝者如斯夫，不舍昼夜}}。”《子罕》 #card
 :PROPERTIES:
-:card-last-interval: 8.86
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-07-21T20:39:26.925Z
-:card-last-reviewed: 2022-07-13T00:39:26.925Z
+:card-last-interval: 3.58
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-07-25T13:46:44.693Z
+:card-last-reviewed: 2022-07-22T00:46:44.694Z
 :card-last-score: 5
 :END:
 ** 子曰：“三军可夺帅也， {{cloze 匹夫不可夺志也}}。”《子罕》 #card
 :PROPERTIES:
-:card-last-interval: 8.86
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-07-21T20:34:13.673Z
-:card-last-reviewed: 2022-07-13T00:34:13.673Z
+:card-last-interval: 3.58
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-07-25T13:45:15.043Z
+:card-last-reviewed: 2022-07-22T00:45:15.043Z
 :card-last-score: 5
 :END:
 ** 子夏曰：“ {{cloze 博学而笃志，切问而近思}}，仁在其中矣。”《子张》 #card

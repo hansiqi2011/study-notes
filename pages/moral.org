@@ -1,0 +1,16 @@
+* moral #card #词汇积累
+:PROPERTIES:
+:card-last-interval: 30.53
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-23T12:28:47.214Z
+:card-last-reviewed: 2022-07-24T00:28:47.215Z
+:card-last-score: 5
+:END:
+** 释义： {{cloze n.道德；adj.道德的}}
+:PROPERTIES:
+:id: 62da9c2e-09e7-4662-a830-d5152741cbb3
+:END:
+** 读音： {{cloze ˈmɒrəl}}
+** 例句： /Like the early tales, though, each stories has a *moral*: Work hard, be good, and listen to your parents./
+*

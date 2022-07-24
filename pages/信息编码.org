@@ -1,9 +1,9 @@
 * GB2312-80一级字库按照 {{cloze 拼音}}排序，二级字库按照 {{cloze 偏旁部首}}排序 #card #NOI
 :PROPERTIES:
-:card-last-interval: 8.86
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-07-21T20:42:50.107Z
-:card-last-reviewed: 2022-07-13T00:42:50.107Z
+:card-last-interval: 3.58
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-07-25T13:48:22.406Z
+:card-last-reviewed: 2022-07-22T00:48:22.407Z
 :card-last-score: 5
 :END:

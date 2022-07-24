@@ -11,11 +11,11 @@
 * 最大公因数的符号 #card #数学
 :PROPERTIES:
 :card-last-score: 5
-:card-repeats: 4
-:card-next-schedule: 2022-07-23T23:24:29.505Z
-:card-last-interval: 33.64
-:card-ease-factor: 2.9
-:card-last-reviewed: 2022-06-20T08:24:29.506Z
+:card-repeats: 5
+:card-next-schedule: 2022-11-12T23:30:03.691Z
+:card-last-interval: 111.96
+:card-ease-factor: 3
+:card-last-reviewed: 2022-07-24T00:30:03.691Z
 :END:
 ** a, b, c的最大公因数记作  (a, b, c)。
 *

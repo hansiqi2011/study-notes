@@ -1,10 +1,10 @@
 * 计算机语言的分类 #card #软件
 :PROPERTIES:
-:card-last-interval: 8.86
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-07-21T20:36:10.307Z
-:card-last-reviewed: 2022-07-13T00:36:10.309Z
+:card-last-interval: 3.58
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-07-25T13:46:39.292Z
+:card-last-reviewed: 2022-07-22T00:46:39.293Z
 :card-last-score: 5
 :END:
 ** 低级语言
@@ -15,10 +15,10 @@
 *** 面向对象
 * 在ASCII（美国信息交换标准代码）中，一个英文字母占用 {{cloze 一字节，即8位}}的储存空间。  #card #软件 #硬件
 :PROPERTIES:
-:card-last-interval: 8.86
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-07-21T20:33:17.902Z
-:card-last-reviewed: 2022-07-13T00:33:17.902Z
+:card-last-interval: 3.58
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-07-25T13:38:10.874Z
+:card-last-reviewed: 2022-07-22T00:38:10.874Z
 :card-last-score: 5
 :END:

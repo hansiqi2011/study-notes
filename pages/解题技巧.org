@@ -16,11 +16,11 @@
 **** 增加减少
 * 数轴填空题应该注意什么？ #card #数学
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-07-21T14:29:21.154Z
-:card-last-reviewed: 2022-07-10T10:29:21.154Z
+:card-last-interval: 36.08
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-08-27T01:35:49.543Z
+:card-last-reviewed: 2022-07-22T00:35:49.544Z
 :card-last-score: 5
 :END:
 ** 把零点标记出来

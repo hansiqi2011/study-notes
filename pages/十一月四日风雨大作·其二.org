@@ -1,4 +1,12 @@
 * 十一月四日风雨大作·其二 #card #诗词
+:PROPERTIES:
+:card-last-interval: 12.06
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-03T01:20:40.962Z
+:card-last-reviewed: 2022-07-22T00:20:40.964Z
+:card-last-score: 5
+:END:
 ** 宋·陆游
 ** 僵卧孤村不自哀，尚思为国戍轮台。
 夜阑卧听风吹雨，铁马冰河入梦来。

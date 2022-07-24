@@ -1,0 +1,82 @@
+* 奇数$\pm$奇数= {{cloze 偶数}}，奇数$\pm$偶数= {{cloze 奇数}} #card #数学
+:PROPERTIES:
+:card-last-interval: 30.53
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-22T12:30:43.368Z
+:card-last-reviewed: 2022-07-23T00:30:43.369Z
+:card-last-score: 5
+:END:
+* 偶数$\pm$偶数= {{cloze 偶数}}，奇数$\times$奇数= {{cloze 奇数}} #card #数学
+:PROPERTIES:
+:card-last-interval: 30.53
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-22T12:35:11.770Z
+:card-last-reviewed: 2022-07-23T00:35:11.770Z
+:card-last-score: 5
+:END:
+* 奇数$\times$偶数= {{cloze 偶数}}，偶数$\times$偶数= {{cloze 偶数}} #card #数学
+:PROPERTIES:
+:card-last-interval: 30.53
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-22T12:31:16.498Z
+:card-last-reviewed: 2022-07-23T00:31:16.499Z
+:card-last-score: 5
+:END:
+* 两个连续整数的和是 {{cloze 奇数}}，积是 {{cloze 偶数}}。 #card #数学
+:PROPERTIES:
+:card-last-interval: 30.53
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-22T12:34:22.822Z
+:card-last-reviewed: 2022-07-23T00:34:22.823Z
+:card-last-score: 5
+:END:
+* 奇数个奇数之和是 {{cloze 奇数}}；偶数个奇数之和是 {{cloze 偶数}}；任意有限个偶数之和是 {{cloze 偶数}}。 #card #数学
+:PROPERTIES:
+:card-last-interval: 30.53
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-22T12:31:11.389Z
+:card-last-reviewed: 2022-07-23T00:31:11.389Z
+:card-last-score: 5
+:END:
+* 若干个奇数的乘积是 {{cloze 奇数}}，偶数与整数的乘积是 {{cloze 偶数}}。 #card #数学
+:PROPERTIES:
+:card-last-interval: 30.53
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-22T12:30:49.255Z
+:card-last-reviewed: 2022-07-23T00:30:49.256Z
+:card-last-score: 5
+:END:
+* 如果若干个整数的乘积是奇数，那么其中每一个整数 {{cloze 都是奇数}}，反之亦然。 #card #数学
+:PROPERTIES:
+:card-last-interval: 30.53
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-22T12:34:44.753Z
+:card-last-reviewed: 2022-07-23T00:34:44.754Z
+:card-last-score: 5
+:END:
+* 如果两个整数的和或差是偶数，那么这两个整数的 {{cloze 奇偶性}}相同，反之亦然。 #card #数学
+:PROPERTIES:
+:card-last-interval: 30.53
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-22T12:34:32.689Z
+:card-last-reviewed: 2022-07-23T00:34:32.690Z
+:card-last-score: 5
+:END:
+* 两个整数的和与差 {{cloze 奇偶性相同}}。 #card #数学
+:PROPERTIES:
+:card-last-interval: 30.53
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-22T12:31:22.020Z
+:card-last-reviewed: 2022-07-23T00:31:22.020Z
+:card-last-score: 5
+:END:
+*

@@ -1,11 +1,11 @@
 * 江南逢李龟年 #card #诗词
 :PROPERTIES:
-:card-last-interval: 2.43
-:card-repeats: 2
-:card-ease-factor: 2.36
-:card-next-schedule: 2022-07-22T10:27:05.320Z
-:card-last-reviewed: 2022-07-20T00:27:05.321Z
-:card-last-score: 3
+:card-last-interval: 12.18
+:card-repeats: 3
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-08-04T04:35:58.560Z
+:card-last-reviewed: 2022-07-23T00:35:58.560Z
+:card-last-score: 5
 :END:
 ** 唐·杜甫
 ** 岐王宅里寻常见，崔九堂前几度闻。

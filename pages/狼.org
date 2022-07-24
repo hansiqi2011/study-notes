@@ -1,14 +1,14 @@
 * 狼 #card #古文
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.22
-:card-next-schedule: 2022-07-22T00:27:28.075Z
-:card-last-reviewed: 2022-07-18T00:27:28.076Z
-:card-last-score: 3
+:card-last-interval: 9.28
+:card-repeats: 3
+:card-ease-factor: 2.32
+:card-next-schedule: 2022-07-31T06:51:37.903Z
+:card-last-reviewed: 2022-07-22T00:51:37.903Z
+:card-last-score: 5
 :collapsed: true
 :END:
-** 蒲松龄 〔清代〕
+** 清·蒲松龄
 ** 一屠晚归，担中肉尽，止有剩骨。 {{cloze 途中两狼，缀行甚远}}。
 　　屠惧，投以骨。 {{cloze 一狼得骨止，一狼仍从}}。复投之，后狼止而前狼又至。 {{cloze 骨已尽矣，而两狼之并驱如故}}。
 　　屠大窘， {{cloze 恐前后受其敌}}。 {{cloze 顾野有麦场}}，场主积薪其中，苫（shan1，草垫）蔽成丘。屠乃奔倚其下， {{cloze 弛担持刀}}。 {{cloze 狼不敢前，眈眈相向}}。
