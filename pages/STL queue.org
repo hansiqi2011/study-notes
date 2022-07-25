@@ -1,0 +1,20 @@
+* STL queue 容器对元素采取  {{cloze FIFO（先进先出）}}的管理策略 #card #[[C++ STL]]
+* 使用queue应该include哪个头文件？ #card #[[C++ STL]]
+** #+BEGIN_SRC c++
+#include <queue>
+#+END_SRC
+* 怎样创建一个queue？ #card #[[C++ STL]]
+** #+BEGIN_SRC c++
+queue<int> que;//定义一个queue，其中元素的类型为int
+#+END_SRC
+* 常见的queue操作都有哪些？ #card #[[C++ STL]]
+** #+BEGIN_SRC c++
+//queue中的常用内置函数
+queue<int> que;
+que.push(x);//在queue的队尾插入元素x
+que.pop();//出队queue的队头元素
+que.front();//返回queue的队头元素
+que.back();//返回queue的队尾元素
+que.size();//返回queue中元素的个数
+que.empty();//返回queue是否为空，若为空则返回true否则返回false
+#+END_SRC

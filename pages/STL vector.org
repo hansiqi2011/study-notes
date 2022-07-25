@@ -1,0 +1,66 @@
+* STL vector适用于对象 {{cloze 简单}}，变化 {{cloze 较小}}，并且 {{cloze 频繁随机访问}}的场景  #card #[[C++ STL]]
+* 使用STL vector应该include那个头文件？ #card #[[C++ STL]]
+** #+BEGIN_SRC c++
+#include <vector>
+#+END_SRC
+* 怎样定义一个vector? #card #[[C++ STL]]
+** #+BEGIN_SRC c++
+vector<int> v;//定义一个vector，其中的元素为int类型
+vector<int> v = { 1, 2, 3 };//初始化vector，v:{1, 2, 3}
+vector<int> v(len);//定义一个长度为len的vector
+vector<int> v(len, x);//定义一个长度为len的vector，初始化每个元素为x
+vector<int> v2(v1);//用v1给v2赋值，v1的类型为vector<int>
+#+END_SRC
+* 怎样定义一个二维vector? #card #[[C++ STL]]
+** #+BEGIN_SRC
+vector<vector<int> > vec; //注意：> >之间要加空格
+#+END_SRC
+* 怎样操作vector尾部的元素？ #card #[[C++ STL]]
+** #+BEGIN_SRC c++
+vector<int> v = { 1, 2, 3 };
+v.push_back(4);//在vector的尾部插入元素4，v:{1, 2, 3, 4}
+v.pop_back();//删除vector的最后一个元素，v:{1, 2, 3}
+#+END_SRC
+* 怎样访问vector的第一个和最后一个元素？ #card #[[C++ STL]]
+** #+BEGIN_SRC c++
+vector<int> v = { 1, 2, 3 };
+v.front(); // 1
+v.back(); // 3
+#+END_SRC
+* 怎样访问vector指定位置的元素？ #card #[[C++ STL]]
+** #+BEGIN_SRC c++
+vector<int> v = { 1, 2, 3 };
+v[1]; // 2
+v.at(2); // 3
+#+END_SRC
+* 怎样获得vector的元素个数？ #card #[[C++ STL]]
+** #+BEGIN_SRC c++
+v.size(); //返回vector中元素的个数
+#+END_SRC
+* 怎样判断vector是否为空？ #card #[[C++ STL]]
+** #+BEGIN_SRC c++
+v.empty(); //返回vector是否为空，若为空则返回true否则返回false
+#+END_SRC
+* 怎样清空一个vector？ #card #[[C++ STL]]
+** #+BEGIN_SRC c++
+v.clear(); //清空vector
+#+END_SRC
+* 怎样向vector中插入元素？ #card #[[C++ STL]]
+** #+BEGIN_SRC c++
+v.insert(v.begin(), 1);//在迭代器it所指向的位置前插入元素1，返回插入元素的迭代器
+#+END_SRC
+* 怎样删除vector中的某些元素？ #card #[[C++ STL]]
+** #+BEGIN_SRC c++
+v.erase(v.begin()); //删除迭代器it所指向的元素，即删除第一个元素
+v.erase(v.begin(), v.begin() + 2); //删除区间[v.begin(), v.begin() + 2)的所有元素
+#+END_SRC
+* 怎样根据下标进行vector的遍历？ #card #[[C++ STL]]
+** #+BEGIN_SRC c++
+for (int i = 0; i < v.size(); i++)
+	cout << v[i] << ' ';
+#+END_SRC
+* 怎样使用迭代器遍历vector？ #card #[[C++ STL]]
+** #+BEGIN_SRC  c++
+for (vector<int>::iterator it = v.begin(); it != v.end(); it++)
+	cout << (*it) << ' ';
+#+END_SRC

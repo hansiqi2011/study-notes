@@ -1,0 +1,71 @@
+* 怎样用STL执行查询和搜索？ #card #[[C++ STL]]
+** #+BEGIN_SRC c++
+#include <algorithm>
+using namespace std;
+
+int a[5] = { 1, 2, 3, 4, 5 };
+
+find(a, a + 5, 3);//在区间[0, 5)内查找等于3的元素，返回迭代器，若不存在则返回end()
+binary_search(a, a + 5, 2);//二分查找区间[0, 5)内是否存在元素2，若存在返回true否则返回false
+count(a, a + 5, 3);//返回区间[0, 5)内元素3的个数
+
+vector<int> v = { 1, 2, 3, 4, 5 };
+
+find(v.begin(), v.end(), 3);//在区间[0, 5)内查找等于3的元素，返回迭代器，若不存在则返回end()
+binary_search(v.begin(), v.end(), 2);//二分查找区间[0, 5)内是否存在元素2，若存在返回true否则返回false
+count(v.begin(), v.end(), 3);//返回区间[0, 5)内元素3的个数
+#+END_SRC
+* 怎样使用STL进行排序操作？ #card #[[C++ STL]]
+** #+BEGIN_SRC c++
+#include <algorithm>
+using namespace std;
+
+int a[5] = { 1, 2, 3, 4, 5 };
+
+sort(a, a + 5);//将区间[0, 5)内元素按字典序从小到大排序
+sort(a, a + 5, greater<int>());//将区间[0, 5)内元素按字典序从大到小排序
+reverse(a, a + 5);//将区间[0, 5)内元素翻转
+
+
+vector<int> v = { 1, 2, 3, 4, 5 };
+
+sort(v.begin(), v.end()); //将区间[0, 5)内元素按字典序从小到大排序
+sort(v.begin(), v.end(), greater<int>()); //将区间[0, 5)内元素按字典序从大到小排序
+reverse(v.begin(), v.end()); //将区间[0, 5)内元素翻转
+#+END_SRC
+* 怎样用STL进行比较操作？ #card #[[C++ STL]]
+** #+BEGIN_SRC c++
+#include <algorithm>
+using namespace std;
+
+max(3, 5); //5
+min(3,5); //3
+// 如果想比较两个以上数的大小可以嵌套使用，比如求三个数中的最大值m = max(a, max(b, c))
+
+//an array
+int arr[] = { 100, 200, -100, 300, 400 };
+//finding smallest element from the array
+*min_element(arr + 0, arr + 5); // -100
+
+//a vector
+vector<int> v1{ 10, 20, 30, 40, 50 };
+//finding biggest element from the vector
+*max_element(v1.begin(), v1.end()); // 50
+
+#+END_SRC
+* 怎样用STL进行两个变量的交换？ #card #[[C++ STL]]
+** #+BEGIN_SRC c++
+#include <algorithm>
+using namespace std;
+
+int a = 10;
+int b = 20;
+swap(a,b); // a==20, b==10 now
+#+END_SRC
+* 怎样用STL进行最大公约数计算？ #card #[[C++ STL]]
+** #+BEGIN_SRC c++
+#include <algorithm>
+using namespace std;
+
+__gcd(6, 20); // 2
+#+END_SRC

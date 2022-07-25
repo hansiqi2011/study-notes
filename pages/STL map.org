@@ -1,0 +1,30 @@
+* STL map适用于需要 {{cloze 存储一个数据字典}}，并要求方便地 {{cloze 根据key找value}}的场景 #card #[[C++ STL]]
+* 使用map应该include哪个头文件？ #card #[[C++ STL]]
+** #+BEGIN_SRC c++
+#include <map>
+#+END_SRC
+* 怎样定义一个map？ #card #[[C++ STL]]
+** #+BEGIN_SRC c++
+map<string, int> mp; //定义一个将string映射成int的map
+#+END_SRC
+* 怎样向map中添加元素？ #card #[[C++ STL]]
+** #+BEGIN_SRC c++
+map<string, int> mp;
+mp["abc"] = 3; //将"abc"映射到3
+mp["ab"]++; //将"ab"所映射的整数++
+mp.insert(make_pair("cd", 2)); //插入元素
+mp.insert({ "ef", 5 }); //同上
+#+END_SRC
+* 怎样获取map中的值？ #card #[[C++ STL]]
+** #+BEGIN_SRC c++
+mp["abc"];//返回"abc"映射的值
+#+END_SRC
+* 怎样获取map的元素个数？ #card #[[C++ STL]]
+** #+BEGIN_SRC c++
+mp.size(); 
+#+END_SRC
+* 怎样用迭代器遍历map？ #card #[[C++ STL]]
+** #+BEGIN_SRC c++
+for (map<string, int>::iterator it = mp.begin(); it != mp.end(); it++)
+  cout << (*it).first << ' ' << (*it).second << endl;
+#+END_SRC

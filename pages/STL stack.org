@@ -1,0 +1,19 @@
+* STL stack 容器对元素采取 {{cloze LIFO（后进先出）}} 的管理策略 #card #[[C++ STL]]
+* 使用stack应该include哪个头文件？ #card #[[C++ STL]]
+** #+BEGIN_SRC c++
+#include <stack>
+#+END_SRC
+* 怎样创建一个stack？ #card #[[C++ STL]]
+** #+BEGIN_SRC c++
+stack<int> stk;//定义一个stack，其中元素的类型为int
+#+END_SRC
+* 常见的stack操作都有哪些？ #card #[[C++ STL]]
+** #+BEGIN_SRC c++
+    //stack中的常用内置函数
+    stack<int> stk;
+	stk.push(x);//在stack中插入元素x
+	stk.pop();//弹出stack的栈顶元素
+	stk.top();//返回stack的栈顶元素
+	stk.size();//返回stack中元素的个数
+	stk.empty();//返回stack是否为空，若为空则返回true否则返回false
+#+END_SRC
