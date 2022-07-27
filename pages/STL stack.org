@@ -1,13 +1,45 @@
 * STL stack 容器对元素采取 {{cloze LIFO（后进先出）}} 的管理策略 #card #[[C++ STL]]
+:PROPERTIES:
+:card-last-interval: 31.07
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-26T01:22:53.212Z
+:card-last-reviewed: 2022-07-26T00:22:53.213Z
+:card-last-score: 5
+:END:
 * 使用stack应该include哪个头文件？ #card #[[C++ STL]]
+:PROPERTIES:
+:card-last-interval: 31.07
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-26T01:21:24.544Z
+:card-last-reviewed: 2022-07-26T00:21:24.545Z
+:card-last-score: 5
+:END:
 ** #+BEGIN_SRC c++
 #include <stack>
 #+END_SRC
 * 怎样创建一个stack？ #card #[[C++ STL]]
+:PROPERTIES:
+:card-last-interval: 31.07
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-26T01:35:01.441Z
+:card-last-reviewed: 2022-07-26T00:35:01.441Z
+:card-last-score: 5
+:END:
 ** #+BEGIN_SRC c++
 stack<int> stk;//定义一个stack，其中元素的类型为int
 #+END_SRC
 * 常见的stack操作都有哪些？ #card #[[C++ STL]]
+:PROPERTIES:
+:card-last-interval: 2.52
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-07-28T12:36:16.264Z
+:card-last-reviewed: 2022-07-26T00:36:16.264Z
+:card-last-score: 3
+:END:
 ** #+BEGIN_SRC c++
     //stack中的常用内置函数
     stack<int> stk;

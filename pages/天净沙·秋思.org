@@ -1,10 +1,10 @@
 * 天净沙·秋思 #card #诗词
 :PROPERTIES:
-:card-last-interval: 3.58
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-07-25T13:33:52.405Z
-:card-last-reviewed: 2022-07-22T00:33:52.405Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-08-06T04:53:10.825Z
+:card-last-reviewed: 2022-07-26T00:53:10.826Z
 :card-last-score: 5
 :END:
 ** 元·马致远

@@ -1,11 +1,11 @@
 * 夜雨寄北 #card #诗词
 :PROPERTIES:
-:card-last-interval: 2.43
-:card-repeats: 2
-:card-ease-factor: 2.36
-:card-next-schedule: 2022-07-24T10:36:20.210Z
-:card-last-reviewed: 2022-07-22T00:36:20.211Z
-:card-last-score: 3
+:card-last-interval: 12.18
+:card-repeats: 3
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-08-06T04:15:57.439Z
+:card-last-reviewed: 2022-07-25T00:15:57.440Z
+:card-last-score: 5
 :END:
 ** 唐·李商隐
 ** 君问归期未有期，巴山夜雨涨秋池。

@@ -1,11 +1,11 @@
 * 寒食 #card #诗词
 :PROPERTIES:
-:card-last-interval: 8.72
-:card-repeats: 3
-:card-ease-factor: 2.18
-:card-next-schedule: 2022-07-24T18:06:40.281Z
-:card-last-reviewed: 2022-07-16T01:06:40.281Z
-:card-last-score: 5
+:card-last-interval: 16.65
+:card-repeats: 4
+:card-ease-factor: 2.04
+:card-next-schedule: 2022-08-10T15:16:25.558Z
+:card-last-reviewed: 2022-07-25T00:16:25.559Z
+:card-last-score: 3
 :END:
 ** 唐·韩翃（hong2）
 ** 春城无处不飞花，寒食东风御柳斜。

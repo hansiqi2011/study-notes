@@ -1,10 +1,10 @@
 * 感情色彩 #card #语文
 :PROPERTIES:
-:card-last-interval: 10.14
-:card-repeats: 3
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-07-25T03:53:44.561Z
-:card-last-reviewed: 2022-07-15T00:53:44.562Z
+:card-last-interval: 29.26
+:card-repeats: 4
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-08-24T06:50:42.852Z
+:card-last-reviewed: 2022-07-26T00:50:42.853Z
 :card-last-score: 5
 :END:
 ** 用动词、形容词等要 {{cloze 符合自己的感情}}。
@@ -21,11 +21,11 @@
 ** 看上下文、词义和*常用搭配*，有时结合作者的思想感情。
 * 场景中的细节刻画的词汇选用 #card #语文
 :PROPERTIES:
-:card-last-interval: 10.28
-:card-repeats: 3
-:card-ease-factor: 2.46
-:card-next-schedule: 2022-07-24T06:04:30.401Z
-:card-last-reviewed: 2022-07-14T00:04:30.401Z
+:card-last-interval: 34.18
+:card-repeats: 4
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-08-28T04:15:09.855Z
+:card-last-reviewed: 2022-07-25T00:15:09.856Z
 :card-last-score: 5
 :END:
 ** 要符合氛围、感情和上下文。

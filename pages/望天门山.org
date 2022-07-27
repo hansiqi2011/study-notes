@@ -1,10 +1,10 @@
 * 望天门山 #card #诗词
 :PROPERTIES:
-:card-last-interval: 10.08
-:card-repeats: 3
-:card-ease-factor: 2.52
-:card-next-schedule: 2022-07-25T01:55:21.823Z
-:card-last-reviewed: 2022-07-15T00:55:21.823Z
+:card-last-interval: 27.46
+:card-repeats: 4
+:card-ease-factor: 2.62
+:card-next-schedule: 2022-08-22T11:50:36.747Z
+:card-last-reviewed: 2022-07-26T00:50:36.747Z
 :card-last-score: 5
 :END:
 ** 唐·[[李白]]

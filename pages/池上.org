@@ -1,10 +1,10 @@
 * 池上 #card #诗词
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.86
-:card-next-schedule: 2022-07-27T00:36:21.346Z
-:card-last-reviewed: 2022-07-23T00:36:21.346Z
+:card-last-interval: 11.84
+:card-repeats: 3
+:card-ease-factor: 2.96
+:card-next-schedule: 2022-08-07T20:52:51.151Z
+:card-last-reviewed: 2022-07-27T00:52:51.152Z
 :card-last-score: 5
 :END:
 ** 唐·白居易

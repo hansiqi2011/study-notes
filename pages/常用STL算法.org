@@ -1,4 +1,12 @@
 * 怎样用STL执行查询和搜索？ #card #[[C++ STL]]
+:PROPERTIES:
+:card-last-interval: 31.07
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-26T01:40:08.433Z
+:card-last-reviewed: 2022-07-26T00:40:08.434Z
+:card-last-score: 5
+:END:
 ** #+BEGIN_SRC c++
 #include <algorithm>
 using namespace std;
@@ -16,6 +24,14 @@ binary_search(v.begin(), v.end(), 2);//二分查找区间[0, 5)内是否存在�
 count(v.begin(), v.end(), 3);//返回区间[0, 5)内元素3的个数
 #+END_SRC
 * 怎样使用STL进行排序操作？ #card #[[C++ STL]]
+:PROPERTIES:
+:card-last-interval: 31.07
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-26T01:37:44.951Z
+:card-last-reviewed: 2022-07-26T00:37:44.951Z
+:card-last-score: 5
+:END:
 ** #+BEGIN_SRC c++
 #include <algorithm>
 using namespace std;
@@ -34,12 +50,20 @@ sort(v.begin(), v.end(), greater<int>()); //将区间[0, 5)内元素按字典序
 reverse(v.begin(), v.end()); //将区间[0, 5)内元素翻转
 #+END_SRC
 * 怎样用STL进行比较操作？ #card #[[C++ STL]]
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-07-27T16:00:00.000Z
+:card-last-reviewed: 2022-07-27T00:32:31.511Z
+:card-last-score: 1
+:END:
 ** #+BEGIN_SRC c++
 #include <algorithm>
 using namespace std;
 
 max(3, 5); //5
-min(3,5); //3
+min(3, 5); //3
 // 如果想比较两个以上数的大小可以嵌套使用，比如求三个数中的最大值m = max(a, max(b, c))
 
 //an array
@@ -54,6 +78,14 @@ vector<int> v1{ 10, 20, 30, 40, 50 };
 
 #+END_SRC
 * 怎样用STL进行两个变量的交换？ #card #[[C++ STL]]
+:PROPERTIES:
+:card-last-interval: 31.07
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-26T01:38:29.092Z
+:card-last-reviewed: 2022-07-26T00:38:29.093Z
+:card-last-score: 5
+:END:
 ** #+BEGIN_SRC c++
 #include <algorithm>
 using namespace std;
@@ -63,6 +95,14 @@ int b = 20;
 swap(a,b); // a==20, b==10 now
 #+END_SRC
 * 怎样用STL进行最大公约数计算？ #card #[[C++ STL]]
+:PROPERTIES:
+:card-last-interval: 31.07
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-26T01:21:47.962Z
+:card-last-reviewed: 2022-07-26T00:21:47.962Z
+:card-last-score: 5
+:END:
 ** #+BEGIN_SRC c++
 #include <algorithm>
 using namespace std;

@@ -1,13 +1,45 @@
 * STL map适用于需要 {{cloze 存储一个数据字典}}，并要求方便地 {{cloze 根据key找value}}的场景 #card #[[C++ STL]]
+:PROPERTIES:
+:card-last-interval: 31.07
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-26T01:21:04.774Z
+:card-last-reviewed: 2022-07-26T00:21:04.776Z
+:card-last-score: 5
+:END:
 * 使用map应该include哪个头文件？ #card #[[C++ STL]]
+:PROPERTIES:
+:card-last-interval: 31.07
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-26T01:38:35.552Z
+:card-last-reviewed: 2022-07-26T00:38:35.553Z
+:card-last-score: 5
+:END:
 ** #+BEGIN_SRC c++
 #include <map>
 #+END_SRC
 * 怎样定义一个map？ #card #[[C++ STL]]
+:PROPERTIES:
+:card-last-interval: 2.52
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-07-28T12:25:14.650Z
+:card-last-reviewed: 2022-07-26T00:25:14.651Z
+:card-last-score: 3
+:END:
 ** #+BEGIN_SRC c++
 map<string, int> mp; //定义一个将string映射成int的map
 #+END_SRC
 * 怎样向map中添加元素？ #card #[[C++ STL]]
+:PROPERTIES:
+:card-last-interval: 2.52
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-07-28T12:34:26.917Z
+:card-last-reviewed: 2022-07-26T00:34:26.918Z
+:card-last-score: 3
+:END:
 ** #+BEGIN_SRC c++
 map<string, int> mp;
 mp["abc"] = 3; //将"abc"映射到3
@@ -16,14 +48,38 @@ mp.insert(make_pair("cd", 2)); //插入元素
 mp.insert({ "ef", 5 }); //同上
 #+END_SRC
 * 怎样获取map中的值？ #card #[[C++ STL]]
+:PROPERTIES:
+:card-last-interval: 31.07
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-26T01:23:23.346Z
+:card-last-reviewed: 2022-07-26T00:23:23.346Z
+:card-last-score: 5
+:END:
 ** #+BEGIN_SRC c++
 mp["abc"];//返回"abc"映射的值
 #+END_SRC
 * 怎样获取map的元素个数？ #card #[[C++ STL]]
+:PROPERTIES:
+:card-last-interval: 31.07
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-26T01:34:35.083Z
+:card-last-reviewed: 2022-07-26T00:34:35.083Z
+:card-last-score: 5
+:END:
 ** #+BEGIN_SRC c++
 mp.size(); 
 #+END_SRC
 * 怎样用迭代器遍历map？ #card #[[C++ STL]]
+:PROPERTIES:
+:card-last-interval: 31.07
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-26T01:39:02.393Z
+:card-last-reviewed: 2022-07-26T00:39:02.393Z
+:card-last-score: 5
+:END:
 ** #+BEGIN_SRC c++
 for (map<string, int>::iterator it = mp.begin(); it != mp.end(); it++)
   cout << (*it).first << ' ' << (*it).second << endl;

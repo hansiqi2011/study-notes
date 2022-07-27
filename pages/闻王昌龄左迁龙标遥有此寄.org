@@ -1,10 +1,10 @@
 * 闻 王昌龄 左迁龙标 遥有此寄 #card #诗词
 :PROPERTIES:
-:card-last-interval: 3.58
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-07-25T13:36:57.134Z
-:card-last-reviewed: 2022-07-22T00:36:57.134Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-08-06T04:53:47.384Z
+:card-last-reviewed: 2022-07-26T00:53:47.384Z
 :card-last-score: 5
 :END:
 ** 唐·李白

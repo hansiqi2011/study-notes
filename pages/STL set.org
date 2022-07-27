@@ -1,39 +1,119 @@
 * STL set适用于 {{cloze 经常查找一个元素}}是否在某群集中且 {{cloze 需要排序}}的场景 #card #[[C++ STL]]
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-07-27T16:00:00.000Z
+:card-last-reviewed: 2022-07-27T00:31:23.826Z
+:card-last-score: 1
+:END:
 * 使用STL set应该include哪个头文件？ #card #[[C++ STL]]
+:PROPERTIES:
+:card-last-interval: 31.07
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-26T01:49:04.277Z
+:card-last-reviewed: 2022-07-26T00:49:04.277Z
+:card-last-score: 5
+:END:
 ** #+BEGIN_SRC c++
 #include <set>
 #+END_SRC
 * 怎样定义一个set？ #card #[[C++ STL]]
+:PROPERTIES:
+:card-last-interval: 31.07
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-26T01:24:05.418Z
+:card-last-reviewed: 2022-07-26T00:24:05.418Z
+:card-last-score: 5
+:END:
 ** #+BEGIN_SRC c++
 set<int> st; //定义一个set，其中的元素类型为int
 #+END_SRC
 * 怎样向set中插入元素？ #card #[[C++ STL]]
+:PROPERTIES:
+:card-last-interval: 28.75
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-24T18:30:36.631Z
+:card-last-reviewed: 2022-07-27T00:30:36.631Z
+:card-last-score: 5
+:END:
 ** #+BEGIN_SRC c++
 st.insert(5); //插入元素5
 st.insert(6); //插入元素6
 #+END_SRC
 * 怎样获得set的元素个数？ #card #[[C++ STL]]
+:PROPERTIES:
+:card-last-interval: 31.07
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-26T01:45:57.444Z
+:card-last-reviewed: 2022-07-26T00:45:57.444Z
+:card-last-score: 5
+:END:
 ** #+BEGIN_SRC c++
 st.size();//返回set中元素的个数
 #+END_SRC
 * 怎样清空一个set？ #card #[[C++ STL]]
+:PROPERTIES:
+:card-last-interval: 31.07
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-26T01:46:00.446Z
+:card-last-reviewed: 2022-07-26T00:46:00.446Z
+:card-last-score: 5
+:END:
 ** #+BEGIN_SRC c++
 st.clear();//清空set
 #+END_SRC
 * 怎样判断一个set是否为空？ #card #[[C++ STL]]
+:PROPERTIES:
+:card-last-interval: 2.52
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-07-28T12:33:19.506Z
+:card-last-reviewed: 2022-07-26T00:33:19.506Z
+:card-last-score: 3
+:END:
 ** #+BEGIN_SRC c++
 st.empty();//返回set是否为空，若为空返回true否则返回false
 #+END_SRC
 * 怎样删除set中的元素？ #card #[[C++ STL]]
+:PROPERTIES:
+:card-last-interval: 31.07
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-26T01:36:52.950Z
+:card-last-reviewed: 2022-07-26T00:36:52.950Z
+:card-last-score: 5
+:END:
 ** #+BEGIN_SRC c++
 st.erase(6);//清除元素6
 #+END_SRC
 * 怎样查找set中的元素？ #card #[[C++ STL]]
+:PROPERTIES:
+:card-last-interval: 31.07
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-26T01:28:00.265Z
+:card-last-reviewed: 2022-07-26T00:28:00.265Z
+:card-last-score: 5
+:END:
 ** #+BEGIN_SRC c++
 st.find(5);//返回元素5的迭代器，若不存在则返回st.end()
 st.count(5);//返回元素5的个数1，由于set元素不会重复，因此count返回值只有0或1，可用来判断是否包含某个元素
 #+END_SRC
 * 怎样使用迭代器遍历set？ #card #[[C++ STL]]
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-07-27T16:00:00.000Z
+:card-last-reviewed: 2022-07-27T00:30:29.829Z
+:card-last-score: 1
+:END:
 ** #+BEGIN_SRC  c++
 for (set<int>::iterator it = v.begin(); it != v.end(); it++)
 	cout << (*it) << ' ';

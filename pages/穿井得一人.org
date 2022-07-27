@@ -1,11 +1,11 @@
 * 穿井得一人 #card #古文
 :PROPERTIES:
-:card-last-interval: 9.82
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-07-25T19:54:44.677Z
-:card-last-reviewed: 2022-07-16T00:54:44.678Z
-:card-last-score: 5
+:card-last-interval: 4.43
+:card-repeats: 2
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-07-31T10:30:12.679Z
+:card-last-reviewed: 2022-07-27T00:30:12.680Z
+:card-last-score: 3
 :END:
-** 吕不韦 〔先秦〕
+** 先秦·吕不韦
 ** 宋之丁氏，家无井而出溉汲，常一人居外。及其家穿井， {{cloze 告人曰：“吾穿井得一人。”}}有/闻而传之者：“丁氏穿井得一人。” {{cloze 国人道之，闻之于宋君}}。宋君令人问之于丁氏， {{cloze 丁氏对曰：“得一人之使，非得一人于井中也。”}}求闻之若此，不若无闻也。
