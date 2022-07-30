@@ -1,10 +1,10 @@
 * 书戴嵩画牛 #card #古文
 :PROPERTIES:
-:card-last-interval: 17.31
-:card-repeats: 4
-:card-ease-factor: 2.08
-:card-next-schedule: 2022-07-28T07:26:52.732Z
-:card-last-reviewed: 2022-07-11T00:26:52.732Z
+:card-last-interval: 29.21
+:card-repeats: 5
+:card-ease-factor: 1.94
+:card-next-schedule: 2022-08-27T05:21:56.411Z
+:card-last-reviewed: 2022-07-29T00:21:56.412Z
 :card-last-score: 3
 :END:
 ** 宋·[[苏轼]]

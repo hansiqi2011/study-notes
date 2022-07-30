@@ -51,12 +51,12 @@ reverse(v.begin(), v.end()); //将区间[0, 5)内元素翻转
 #+END_SRC
 * 怎样用STL进行比较操作？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.5
-:card-next-schedule: 2022-07-27T16:00:00.000Z
-:card-last-reviewed: 2022-07-27T00:32:31.511Z
-:card-last-score: 1
+:card-last-interval: 28.75
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-25T18:27:16.101Z
+:card-last-reviewed: 2022-07-28T00:27:16.102Z
+:card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++
 #include <algorithm>

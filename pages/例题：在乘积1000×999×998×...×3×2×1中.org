@@ -1,0 +1,17 @@
+* 例题：在乘积1000×999×998×...×3×2×1中，末尾有多少个连续的0?
+* 条件：
+:PROPERTIES:
+:id: 62e1f044-20c8-4021-907b-f6f6f79f4222
+:END:
+** 设$x=1000 \times 999 \times 998  \times ... \times 3 \times 2 \times 1$
+* 求：
+** 设$n=x$末尾连续0的个数，求$n$
+* 思路：
+** 要在末尾添加一个0，就必须凑够一对2和5。
+** 在任意数中，5的倍数数量比2的倍数数量小。
+** 所以x末尾0的个数取决于5的数量。
+* 实现步骤：
+** $\because 10=2 \times 5,n \div 2>n \div 5$
+** $\therefore n=x$中素因数5的个数。
+** $\therefore n=\lfloor\frac{1000}{5^1}\rfloor+\lfloor\frac{1000}{5^2}\rfloor+\lfloor\frac{1000}{5^3}\rfloor+\lfloor\frac{1000}{5^4}\rfloor=249$
+*

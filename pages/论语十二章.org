@@ -47,11 +47,11 @@
 :END:
 ** 子曰：“贤哉，回也！ {{cloze 一箪食，一瓢饮，在陋巷，人不堪其忧，回也不改其乐}}。贤哉，回也！”《雍也》 #card
 :PROPERTIES:
-:card-last-interval: 10.99
-:card-repeats: 3
-:card-ease-factor: 2.46
-:card-next-schedule: 2022-07-27T23:24:00.058Z
-:card-last-reviewed: 2022-07-17T00:24:00.059Z
+:card-last-interval: 36.59
+:card-repeats: 4
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-09-02T14:30:02.582Z
+:card-last-reviewed: 2022-07-28T00:30:02.583Z
 :card-last-score: 5
 :END:
 ** 子曰：“知之者 {{cloze 不如好之者}}，好之者 {{cloze 不如乐之者}}。”《雍也》 #card
@@ -65,12 +65,12 @@
 :END:
 ** 子曰：“饭疏食，饮水， {{cloze 曲肱而枕之}}，乐亦在其中矣。 {{cloze 不义而富且贵，于我如浮云}}。”《述而》 #card
 :PROPERTIES:
-:card-last-interval: 10.99
-:card-repeats: 3
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.46
-:card-next-schedule: 2022-07-28T23:26:03.646Z
-:card-last-reviewed: 2022-07-18T00:26:03.646Z
-:card-last-score: 5
+:card-next-schedule: 2022-07-29T16:00:00.000Z
+:card-last-reviewed: 2022-07-29T00:27:44.879Z
+:card-last-score: 1
 :END:
 ** 子曰：“三人行， {{cloze 必有我师焉}}。择其善者而从之， {{cloze 其不善者而改之}}。”《述而》 #card
 :PROPERTIES:
@@ -101,11 +101,11 @@
 :END:
 ** 子夏曰：“ {{cloze 博学而笃志，切问而近思}}，仁在其中矣。”《子张》 #card
 :PROPERTIES:
-:card-last-interval: 10.99
-:card-repeats: 3
-:card-ease-factor: 2.46
-:card-next-schedule: 2022-07-28T23:26:10.692Z
-:card-last-reviewed: 2022-07-18T00:26:10.694Z
+:card-last-interval: 36.59
+:card-repeats: 4
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-09-03T14:27:57.937Z
+:card-last-reviewed: 2022-07-29T00:27:57.938Z
 :card-last-score: 5
 :END:
 *

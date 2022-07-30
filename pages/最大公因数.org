@@ -6,8 +6,12 @@
 :card-last-interval: 111.96
 :card-ease-factor: 3
 :card-last-reviewed: 2022-07-25T00:20:24.122Z
+:id: 62b50631-2b19-4da2-84fc-44c25614b9d1
 :END:
 ** 最大公因数，也称最大公约数、最大公因子，指两个或多个整数的[[公因数]]中最大的一个。
+:PROPERTIES:
+:id: 62b50631-7fb9-4bf4-b1f9-26b4bd6a0f8f
+:END:
 * 最大公因数的符号 #card #数学
 :PROPERTIES:
 :card-last-score: 5
@@ -16,6 +20,30 @@
 :card-last-interval: 111.96
 :card-ease-factor: 3
 :card-last-reviewed: 2022-07-24T00:30:03.691Z
+:id: 62b50631-4d8a-47c4-9688-0c5a7113b2fd
 :END:
-** a, b, c的最大公因数记作  (a, b, c)。
+** $a$, $b$和 $c$的最大公因数记作$(a, b, c)$。
+:PROPERTIES:
+:id: 62b50631-3810-4f7d-b706-a210c4528fb8
+:END:
+* 求最大公因数的方法 #card #数学
+:PROPERTIES:
+:id: 62b50631-cb0a-4fe1-a0b5-9cb5d849a674
+:END:
+** 短除法
+:PROPERTIES:
+:id: 62e3893b-5ff8-4603-9cdd-c76d42a1844b
+:END:
+** 素因数连乘
+:PROPERTIES:
+:id: 62e38945-71be-4054-93a6-36469d977dce
+:END:
+* 关于最大公因数的推论 #card #数学
+:PROPERTIES:
+:id: 62e38aca-71c2-4932-bb7b-a51f6493ef90
+:END:
+** 若$a \mid m$且$a \mid n$，则必有$a \mid (m, n)$。
+:PROPERTIES:
+:id: 62e38da0-ca56-4223-af2a-94b400c2d7b3
+:END:
 *

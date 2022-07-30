@@ -1,10 +1,10 @@
 * 句子成分和结构 #card #语文
 :PROPERTIES:
-:card-last-interval: 3.58
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-07-28T13:17:41.228Z
-:card-last-reviewed: 2022-07-25T00:17:41.229Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-08-09T04:25:39.524Z
+:card-last-reviewed: 2022-07-29T00:25:39.525Z
 :card-last-score: 5
 :END:
 ** 成分
@@ -15,12 +15,12 @@
 *** ~特例：~主系表
 * 句子语病 #card #语文
 :PROPERTIES:
-:card-last-interval: 3.58
-:card-repeats: 2
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.7
-:card-next-schedule: 2022-07-28T13:16:36.699Z
-:card-last-reviewed: 2022-07-25T00:16:36.699Z
-:card-last-score: 5
+:card-next-schedule: 2022-07-29T16:00:00.000Z
+:card-last-reviewed: 2022-07-29T00:25:18.244Z
+:card-last-score: 1
 :END:
 ** 搭配不当
 ** 成分残缺

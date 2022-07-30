@@ -1,0 +1,48 @@
+* 素数有 {{cloze 无限（∞）}} 个。 #card #数学
+:PROPERTIES:
+:card-last-interval: 28.75
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-25T18:12:34.640Z
+:card-last-reviewed: 2022-07-28T00:12:34.644Z
+:card-last-score: 5
+:END:
+* 2是唯一的 {{cloze 偶素数}}。大于2的素数 {{cloze 必为奇数}}。如果两个素数的和或者差是奇素数，那么其中 {{cloze 必有一个是2}}；如果两个素数的积是偶数，那其中 {{cloze 也必有一个是2}}。 #card #数学
+:PROPERTIES:
+:card-last-interval: 28.75
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-25T18:21:36.750Z
+:card-last-reviewed: 2022-07-28T00:21:36.751Z
+:card-last-score: 5
+:END:
+* 若素数$p \mid ab$，则必有 {{cloze p | a或p | b}}。 #card #数学 #整除
+:PROPERTIES:
+:card-last-interval: 28.75
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-25T18:20:35.153Z
+:card-last-reviewed: 2022-07-28T00:20:35.153Z
+:card-last-score: 5
+:END:
+* 若正整数$a$、$b$的积是素数$p$，则必有 {{cloze a = p或b = p}} #card #数学
+:PROPERTIES:
+:card-last-interval: 28.75
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-25T18:12:51.617Z
+:card-last-reviewed: 2022-07-28T00:12:51.618Z
+:card-last-score: 5
+:END:
+* 唯一分解定理： #card #数学
+:PROPERTIES:
+:card-last-interval: 28.75
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-25T18:23:42.640Z
+:card-last-reviewed: 2022-07-28T00:23:42.641Z
+:card-last-score: 5
+:END:
+** $x=p_1^{r_1} \times p_2^{r_2} \times p_3^{r_3} \times ... \times p_n^{r_n}$
+** 其中$p_1<p_2<p_3<...<p_n$都是素数，$r_1,r_2,r_3,...,r_n$都是正整数。
+*

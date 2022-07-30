@@ -1,0 +1,13 @@
+* currency #card #词汇积累
+:PROPERTIES:
+:card-last-interval: 28.75
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-26T18:20:16.440Z
+:card-last-reviewed: 2022-07-29T00:20:16.440Z
+:card-last-score: 5
+:END:
+** 释义： {{cloze n.货币；通货；通用；流行}}
+** 读音： {{cloze 'kʌrənsi}}
+** 例句： /He introduced a new writing system, *currency*, and set of measurements./
+*

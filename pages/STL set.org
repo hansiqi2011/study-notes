@@ -1,11 +1,11 @@
 * STL set适用于 {{cloze 经常查找一个元素}}是否在某群集中且 {{cloze 需要排序}}的场景 #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.5
-:card-next-schedule: 2022-07-27T16:00:00.000Z
-:card-last-reviewed: 2022-07-27T00:31:23.826Z
-:card-last-score: 1
+:card-last-interval: 28.75
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-25T18:27:00.962Z
+:card-last-reviewed: 2022-07-28T00:27:00.962Z
+:card-last-score: 5
 :END:
 * 使用STL set应该include哪个头文件？ #card #[[C++ STL]]
 :PROPERTIES:
@@ -70,12 +70,12 @@ st.clear();//清空set
 #+END_SRC
 * 怎样判断一个set是否为空？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 2.52
-:card-repeats: 1
-:card-ease-factor: 2.36
-:card-next-schedule: 2022-07-28T12:33:19.506Z
-:card-last-reviewed: 2022-07-26T00:33:19.506Z
-:card-last-score: 3
+:card-last-interval: 4.59
+:card-repeats: 2
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-08-02T14:23:36.327Z
+:card-last-reviewed: 2022-07-29T00:23:36.327Z
+:card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++
 st.empty();//返回set是否为空，若为空返回true否则返回false
@@ -107,12 +107,12 @@ st.count(5);//返回元素5的个数1，由于set元素不会重复，因此coun
 #+END_SRC
 * 怎样使用迭代器遍历set？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.5
-:card-next-schedule: 2022-07-27T16:00:00.000Z
-:card-last-reviewed: 2022-07-27T00:30:29.829Z
-:card-last-score: 1
+:card-last-interval: 28.75
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-25T18:27:07.255Z
+:card-last-reviewed: 2022-07-28T00:27:07.255Z
+:card-last-score: 5
 :END:
 ** #+BEGIN_SRC  c++
 for (set<int>::iterator it = v.begin(); it != v.end(); it++)

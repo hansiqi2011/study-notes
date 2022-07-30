@@ -1,11 +1,11 @@
 * 咏雪 #card #古文 #诗词
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.46
-:card-next-schedule: 2022-07-27T16:00:00.000Z
-:card-last-reviewed: 2022-07-27T00:28:42.165Z
-:card-last-score: 1
+:card-last-interval: 4.14
+:card-repeats: 2
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-08-01T03:28:29.319Z
+:card-last-reviewed: 2022-07-28T00:28:29.319Z
+:card-last-score: 5
 :END:
 ** 南北朝·刘义庆
 ** 谢太傅寒雪日内集， {{cloze 与儿女讲论文义}}。俄而雪骤，公欣然曰：“ {{cloze 白雪纷纷何所似}}？”兄子胡儿曰：“ {{cloze 撒盐空中差可拟}}。”兄女曰：“ {{cloze 未若柳絮因风起}}。”公大笑乐。即公大兄无奕女， {{cloze 左将军王凝之妻也}}。

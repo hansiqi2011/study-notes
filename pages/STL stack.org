@@ -33,19 +33,19 @@ stack<int> stk;//定义一个stack，其中元素的类型为int
 #+END_SRC
 * 常见的stack操作都有哪些？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 2.52
-:card-repeats: 1
-:card-ease-factor: 2.36
-:card-next-schedule: 2022-07-28T12:36:16.264Z
-:card-last-reviewed: 2022-07-26T00:36:16.264Z
-:card-last-score: 3
+:card-last-interval: 4.59
+:card-repeats: 2
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-08-02T14:25:00.940Z
+:card-last-reviewed: 2022-07-29T00:25:00.940Z
+:card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++
-    //stack中的常用内置函数
-    stack<int> stk;
-	stk.push(x);//在stack中插入元素x
-	stk.pop();//弹出stack的栈顶元素
-	stk.top();//返回stack的栈顶元素
-	stk.size();//返回stack中元素的个数
-	stk.empty();//返回stack是否为空，若为空则返回true否则返回false
+//stack中的常用内置函数
+stack<int> stk;
+stk.push(x);//在stack中压入元素x
+stk.pop();//弹出stack的栈顶元素
+stk.top();//返回stack的栈顶元素
+stk.size();//返回stack中元素的个数
+stk.empty();//返回stack是否为空，若为空则返回true否则返回false
 #+END_SRC

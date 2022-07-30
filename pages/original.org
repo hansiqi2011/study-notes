@@ -1,12 +1,12 @@
 * original #card #词汇积累
 :PROPERTIES:
-:card-last-interval: 3.58
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-07-27T13:29:42.481Z
-:card-last-reviewed: 2022-07-24T00:29:42.482Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-08-08T04:26:01.032Z
+:card-last-reviewed: 2022-07-28T00:26:01.032Z
 :card-last-score: 5
 :END:
-** 读音： {{cloze əˈrɪdʒ(ə)nəl}}
 ** 释义： {{cloze n.原件；正本；原作；原稿   adj.原来的；起初的；最早的；首创的}}
+** 读音： {{cloze əˈrɪdʒ(ə)nəl}}
 ** 例句： /The *original* activity--called land diving--is part of religious ceremony./

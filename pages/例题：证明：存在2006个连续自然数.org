@@ -1,0 +1,15 @@
+* 例题：证明：存在2006个连续自然数，他们都是合数。
+* 前提
+** 存在自然数$x$
+* 结论
+** 使得$x、x+1、x+2、...、x+2006$都是合数。
+* 思路：
+** 数越大，两个素数之间的差就越大。
+* 实现步骤：
+** 设$x=1 \times 2 \times 3 \times ... \times 2007$。
+** $x+2=1 \times 2 \times 3 \times ... \times 2007 + 2 = 2 \times (1 \times 3 \times 4 \times ... \times 2007+1)$
+** 同理，$x+3=3 \times (1 \times 2 \times 4 \times ... \times 2007+1)$
+** 以此类推。
+** $x+2007=2007 \times (1 \times 2 \times 3 \times ... \times 2006+1)$
+** 所以从$x+2, x+3, ..., x+2007$是连续2006个合数
+*

@@ -1,0 +1,5 @@
+* biodegrade #card #词汇积累
+** 释义： {{cloze v.生物降解}}
+** 读音： {{cloze ˌbaɪəʊdɪˈɡreɪd}}
+** 例句： /Most of this plastic will never *biodegrad*able./
+*
