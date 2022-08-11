@@ -1,12 +1,12 @@
 * Spaced Repetition System 间隔重复系统
 ** 间隔重复 = {{cloze 测试}} + {{cloze 时间}} #card #SRS
 :PROPERTIES:
-:card-last-score: 5
-:card-repeats: 4
-:card-next-schedule: 2022-08-10T18:20:35.356Z
-:card-last-interval: 31.36
-:card-ease-factor: 2.8
-:card-last-reviewed: 2022-07-10T10:20:35.357Z
+:card-last-score: 3
+:card-repeats: 5
+:card-next-schedule: 2022-10-25T06:19:55.935Z
+:card-last-interval: 75.28
+:card-ease-factor: 2.66
+:card-last-reviewed: 2022-08-11T00:19:55.935Z
 :END:
 * 三个常见但无效的学习/教学惯例是 {{cloze 课堂式讲课}}、 {{cloze 填鸭式学习}}和 {{cloze 重复阅读}}。 #card #SRS
 :PROPERTIES:
@@ -37,11 +37,11 @@
 :END:
 * 记忆科学的先驱者是 {{cloze 赫尔曼·艾宾浩斯}}。 #card #SRS
 :PROPERTIES:
-:card-last-interval: 28.3
-:card-repeats: 4
-:card-ease-factor: 2.66
-:card-next-schedule: 2022-08-09T07:36:01.663Z
-:card-last-reviewed: 2022-07-12T00:36:01.663Z
-:card-last-score: 3
+:card-last-interval: 84.1
+:card-repeats: 5
+:card-ease-factor: 2.76
+:card-next-schedule: 2022-11-02T02:20:54.847Z
+:card-last-reviewed: 2022-08-10T00:20:54.847Z
+:card-last-score: 5
 :END:
 *

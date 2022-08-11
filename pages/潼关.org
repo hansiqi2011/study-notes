@@ -1,11 +1,11 @@
 * 潼关 #card #诗词
 :PROPERTIES:
-:card-last-interval: 4.43
-:card-repeats: 2
-:card-ease-factor: 2.46
-:card-next-schedule: 2022-07-31T10:31:55.677Z
-:card-last-reviewed: 2022-07-27T00:31:55.677Z
-:card-last-score: 5
+:card-last-interval: 10
+:card-repeats: 3
+:card-ease-factor: 2.42
+:card-next-schedule: 2022-08-17T13:13:41.387Z
+:card-last-reviewed: 2022-08-07T13:13:41.387Z
+:card-last-score: 3
 :END:
 ** 清·谭嗣（si4）同
 ** 终古高云簇此城，秋风吹散马蹄声。

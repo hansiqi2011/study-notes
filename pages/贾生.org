@@ -1,0 +1,13 @@
+* 贾生 #card #诗词
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-08-11T16:00:00.000Z
+:card-last-reviewed: 2022-08-11T00:13:51.035Z
+:card-last-score: 1
+:END:
+** 李商隐 〔唐代〕
+** 宣室求贤访逐臣，贾生才调更无伦。
+可怜夜半虚前席，不问苍生问鬼神。
+*

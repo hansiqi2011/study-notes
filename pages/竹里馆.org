@@ -1,0 +1,13 @@
+* 竹里馆 #card #诗词
+:PROPERTIES:
+:card-last-interval: 2.47
+:card-repeats: 2
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-08-13T11:19:33.040Z
+:card-last-reviewed: 2022-08-11T00:19:33.040Z
+:card-last-score: 3
+:END:
+** 王维 〔唐代〕
+** 独坐幽篁（读音： {{cloze huang2}}，释义： {{cloze 竹林，泛指竹子}}）里，弹琴复长啸。
+深林人不知，明月来相照。
+*

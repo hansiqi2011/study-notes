@@ -21,11 +21,11 @@
 #+END_SRC
 * 怎样定义一个vector? #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 4.59
-:card-repeats: 2
-:card-ease-factor: 2.46
-:card-next-schedule: 2022-08-02T14:23:23.754Z
-:card-last-reviewed: 2022-07-29T00:23:23.754Z
+:card-last-interval: 10.89
+:card-repeats: 3
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-08-13T21:21:33.873Z
+:card-last-reviewed: 2022-08-03T00:21:33.873Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++

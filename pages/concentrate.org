@@ -1,11 +1,11 @@
-* concentrate #card #NOI
+* concentrate #card #词汇积累
 :PROPERTIES:
-:card-last-interval: 3.58
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-07-29T14:03:03.767Z
-:card-last-reviewed: 2022-07-26T01:03:03.767Z
 :card-last-score: 5
+:card-repeats: 4
+:card-next-schedule: 2022-09-17T08:19:52.443Z
+:card-last-interval: 37.35
+:card-ease-factor: 2.9
+:card-last-reviewed: 2022-08-11T00:19:52.443Z
 :END:
 ** 释义： {{cloze n.浓缩物/v.聚精会神；集中（注意力）；使…集中（或集合、聚集）；（使）浓缩}}
 ** 读音： {{cloze ˈkɒns(ə)nˌtreɪt}}

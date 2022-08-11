@@ -1,0 +1,12 @@
+* 逢入京使 #card #诗词
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-08-11T16:00:00.000Z
+:card-last-reviewed: 2022-08-11T00:19:22.078Z
+:card-last-score: 1
+:END:
+** 岑参 〔唐代〕
+** 故园东望路漫漫，双袖龙钟泪不干。
+马上相逢无纸笔，凭君传语报平安。

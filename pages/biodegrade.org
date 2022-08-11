@@ -1,5 +1,13 @@
 * biodegrade #card #词汇积累
+:PROPERTIES:
+:card-last-interval: 28.75
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-28T05:57:19.283Z
+:card-last-reviewed: 2022-07-30T11:57:19.283Z
+:card-last-score: 5
+:END:
 ** 释义： {{cloze v.生物降解}}
 ** 读音： {{cloze ˌbaɪəʊdɪˈɡreɪd}}
-** 例句： /Most of this plastic will never *biodegrad*able./
+** 例句： /Most of this plastic will never be *biodegrad*able./
 *

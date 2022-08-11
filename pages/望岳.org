@@ -1,4 +1,12 @@
 * 望岳 #card #诗词
+:PROPERTIES:
+:card-last-interval: 11.26
+:card-repeats: 3
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-08-19T06:27:17.727Z
+:card-last-reviewed: 2022-08-08T00:27:17.727Z
+:card-last-score: 5
+:END:
 ** 唐·杜甫
 ** 岱宗夫如何？齐鲁青未了。
 造化钟神秀，阴阳割昏晓。

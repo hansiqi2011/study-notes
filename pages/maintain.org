@@ -1,10 +1,10 @@
 * maintain #card #词汇积累
 :PROPERTIES:
-:card-last-interval: 12.06
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-02T01:28:34.410Z
-:card-last-reviewed: 2022-07-21T00:28:34.410Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-08-18T17:22:05.729Z
+:card-last-reviewed: 2022-08-07T13:22:05.730Z
 :card-last-score: 5
 :END:
 ** 释义： {{cloze v.维护；保持；坚持；抚养}}

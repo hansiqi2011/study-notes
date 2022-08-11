@@ -1,10 +1,10 @@
 * 囊萤夜读 #card #古文
 :PROPERTIES:
-:card-last-interval: 25.12
-:card-repeats: 4
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-07-31T02:24:26.491Z
-:card-last-reviewed: 2022-07-06T00:24:26.492Z
+:card-last-interval: 83.19
+:card-repeats: 5
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-10-22T15:08:45.471Z
+:card-last-reviewed: 2022-07-31T11:08:45.472Z
 :card-last-score: 5
 :END:
 ** 唐·佚名

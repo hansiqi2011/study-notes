@@ -1,10 +1,10 @@
 * 整除的定义 #card #数学
 :PROPERTIES:
-:card-last-interval: 12.06
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-03T01:23:42.127Z
-:card-last-reviewed: 2022-07-22T00:23:42.128Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-08-19T04:17:09.518Z
+:card-last-reviewed: 2022-08-08T00:17:09.518Z
 :card-last-score: 5
 :END:
 ** 设a, b是两个整数，且b!=0
@@ -12,11 +12,11 @@
 ** 其中b叫做a的约数或[[因数]]，a叫做b的倍数
 * 整除的条件  #card #数学
 :PROPERTIES:
-:card-last-interval: 12.06
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-03T01:26:32.781Z
-:card-last-reviewed: 2022-07-22T00:26:32.783Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-08-19T04:18:23.188Z
+:card-last-reviewed: 2022-08-08T00:18:23.189Z
 :card-last-score: 5
 :END:
 ** 被除数和除数都是整数，且除数不为0
@@ -25,47 +25,47 @@
 ** 若 c|b, b|a, 则 {{cloze c|a}} #card #数学
 :PROPERTIES:
 :id: 62d8a316-0117-4d03-8a1d-1829ff8e883c
-:card-last-interval: 12.06
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-03T01:20:25.198Z
-:card-last-reviewed: 2022-07-22T00:20:25.199Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-08-19T04:16:45.505Z
+:card-last-reviewed: 2022-08-08T00:16:45.505Z
 :card-last-score: 5
 :END:
 ** 若 m|a, m|b，则 {{cloze m|(a+b)}}， {{cloze m|(a-b)}}  #card #数学
 :PROPERTIES:
-:card-last-interval: 12.06
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-03T01:17:59.571Z
-:card-last-reviewed: 2022-07-22T00:17:59.573Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-08-20T04:50:51.563Z
+:card-last-reviewed: 2022-08-09T00:50:51.563Z
 :card-last-score: 5
 :END:
 ** 若a*b|m，则 {{cloze a|m, b|m}} #card #数学
 :PROPERTIES:
-:card-last-interval: 12.06
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-03T01:20:21.427Z
-:card-last-reviewed: 2022-07-22T00:20:21.427Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-08-19T04:16:39.960Z
+:card-last-reviewed: 2022-08-08T00:16:39.960Z
 :card-last-score: 5
 :END:
 ** 若 m|a, 则 {{cloze m|ab}}(b是自然数)  #card #数学
 :PROPERTIES:
-:card-last-interval: 12.06
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-03T01:24:58.589Z
-:card-last-reviewed: 2022-07-22T00:24:58.590Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-08-19T04:17:58.825Z
+:card-last-reviewed: 2022-08-08T00:17:58.826Z
 :card-last-score: 5
 :END:
 ** m个连续正整数的积能被 {{cloze m!}} 整除  #card #数学
 :PROPERTIES:
-:card-last-interval: 12.06
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-03T01:31:43.276Z
-:card-last-reviewed: 2022-07-22T00:31:43.277Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-08-19T04:18:44.002Z
+:card-last-reviewed: 2022-08-08T00:18:44.003Z
 :card-last-score: 5
 :END:
 *** 证明如下(利用 [[排列组合]] )：
@@ -78,47 +78,47 @@
 :END:
 ** 若一个整数的 {{cloze 末位是0、2、4、6或8}}，则这个数能被2整除  #card #数学
 :PROPERTIES:
-:card-last-interval: 12.06
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-03T01:25:03.973Z
-:card-last-reviewed: 2022-07-22T00:25:03.974Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-08-19T04:18:11.865Z
+:card-last-reviewed: 2022-08-08T00:18:11.866Z
 :card-last-score: 5
 :END:
 ** 若一个整数的 {{cloze 各位数字和能被3整除}}，则这个整数能被3整除  #card #数学
 :PROPERTIES:
-:card-last-interval: 12.06
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-03T01:20:15.510Z
-:card-last-reviewed: 2022-07-22T00:20:15.511Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-08-19T04:16:32.940Z
+:card-last-reviewed: 2022-08-08T00:16:32.942Z
 :card-last-score: 5
 :END:
 ** 若一个整数的 {{cloze 末尾两位数能被4整除}}，则这个数能被4整除  #card #数学
 :PROPERTIES:
-:card-last-interval: 12.06
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-03T01:21:50.095Z
-:card-last-reviewed: 2022-07-22T00:21:50.097Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-08-19T04:16:49.810Z
+:card-last-reviewed: 2022-08-08T00:16:49.810Z
 :card-last-score: 5
 :END:
 ** 若一个整数的 {{cloze 末位是0或5}}，则这个数能被5整除  #card #数学
 :PROPERTIES:
-:card-last-interval: 12.06
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-03T01:24:28.952Z
-:card-last-reviewed: 2022-07-22T00:24:28.952Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-08-19T04:17:50.285Z
+:card-last-reviewed: 2022-08-08T00:17:50.285Z
 :card-last-score: 5
 :END:
 ** 若一个整数 {{cloze 能被2和3整除}}，则这个数能被6整除  #card #数学
 :PROPERTIES:
-:card-last-interval: 12.06
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-03T01:23:04.646Z
-:card-last-reviewed: 2022-07-22T00:23:04.647Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-08-19T04:16:52.300Z
+:card-last-reviewed: 2022-08-08T00:16:52.300Z
 :card-last-score: 5
 :END:
 ** 若一个数割去 {{cloze 末位数字}}，再从留下来的数中 {{cloze 减去所割去数字的2倍}}，这样 {{cloze 一次次减下去}}，如果最后的结果是 {{cloze 7的倍数（包括0）}}，则这个数能被7整除   #card #数学
@@ -132,47 +132,47 @@
 :END:
 ** 若一个整数的 {{cloze 末尾三位数能被8整除}}，则这个数能被8整除  #card #数学
 :PROPERTIES:
-:card-last-interval: 12.06
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-03T01:24:23.028Z
-:card-last-reviewed: 2022-07-22T00:24:23.029Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-08-19T04:17:18.655Z
+:card-last-reviewed: 2022-08-08T00:17:18.656Z
 :card-last-score: 5
 :END:
 ** 若一个整数的 {{cloze 数字和能被9整除}}，则这个整数能被9整除  #card #数学
 :PROPERTIES:
-:card-last-interval: 12.06
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-03T01:25:06.474Z
-:card-last-reviewed: 2022-07-22T00:25:06.475Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-08-19T04:18:13.993Z
+:card-last-reviewed: 2022-08-08T00:18:13.994Z
 :card-last-score: 5
 :END:
 ** 若一个整数的 {{cloze 末位是0}}，则这个数能被10整除  #card #数学
 :PROPERTIES:
-:card-last-interval: 12.06
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-03T01:27:19.687Z
-:card-last-reviewed: 2022-07-22T00:27:19.688Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-08-19T04:18:26.263Z
+:card-last-reviewed: 2022-08-08T00:18:26.263Z
 :card-last-score: 5
 :END:
 ** 若一个整数的 {{cloze 奇位数字之和与偶位数字之和的差能被11整除}}，则这个数能被11整除  #card #数学
 :PROPERTIES:
-:card-last-interval: 12.06
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-03T01:25:01.524Z
-:card-last-reviewed: 2022-07-22T00:25:01.524Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-08-19T04:18:01.224Z
+:card-last-reviewed: 2022-08-08T00:18:01.225Z
 :card-last-score: 5
 :END:
 ** 若一个整数 {{cloze 能被3和4整除}}，则这个数能被12整除  #card #数学
 :PROPERTIES:
-:card-last-interval: 12.06
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-03T01:30:28.476Z
-:card-last-reviewed: 2022-07-22T00:30:28.478Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-08-19T04:18:28.593Z
+:card-last-reviewed: 2022-08-08T00:18:28.593Z
 :card-last-score: 5
 :END:
 *

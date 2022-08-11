@@ -1,10 +1,10 @@
 * 小池 #card #诗词
 :PROPERTIES:
-:card-last-interval: 31.36
-:card-repeats: 4
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-08-10T18:23:30.779Z
-:card-last-reviewed: 2022-07-10T10:23:30.779Z
+:card-last-interval: 133.35
+:card-repeats: 5
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-12-22T08:24:08.370Z
+:card-last-reviewed: 2022-08-11T00:24:08.371Z
 :card-last-score: 5
 :END:
 ** 宋·杨万里

@@ -1,11 +1,11 @@
 * 行军九日思长安故园 #card #诗词
 :PROPERTIES:
-:card-last-interval: 12.06
-:card-repeats: 2
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-01T01:25:46.818Z
-:card-last-reviewed: 2022-07-20T00:25:46.818Z
-:card-last-score: 5
+:card-last-interval: 12
+:card-repeats: 3
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-08-14T00:12:23.200Z
+:card-last-reviewed: 2022-08-02T00:12:23.200Z
+:card-last-score: 3
 :END:
 ** 唐·岑参
 ** 强欲登高去，无人送酒来。

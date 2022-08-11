@@ -1,0 +1,12 @@
+* 登飞来峰 #card #诗词
+:PROPERTIES:
+:card-last-interval: 44.11
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-09-18T02:44:02.629Z
+:card-last-reviewed: 2022-08-05T00:44:02.629Z
+:card-last-score: 5
+:END:
+** 宋·王安石
+** 飞来山上千寻塔，闻说鸡鸣见日升。(飞来山 一作：飞来峰)
+不畏浮云遮望眼，自缘身在最高层。

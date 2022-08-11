@@ -2,11 +2,11 @@
 ** 读题时，应该画出哪些重点，因为 {{cloze 有助于翻译成数学语言}} ？ #card #数学
 :PROPERTIES:
 :card-last-score: 5
-:card-repeats: 4
-:card-next-schedule: 2022-08-08T16:34:00.950Z
-:card-last-interval: 29.26
-:card-ease-factor: 2.66
-:card-last-reviewed: 2022-07-10T10:34:00.951Z
+:card-repeats: 5
+:card-next-schedule: 2022-11-01T03:10:19.570Z
+:card-last-interval: 84.1
+:card-ease-factor: 2.76
+:card-last-reviewed: 2022-08-09T01:10:19.571Z
 :END:
 *** 数字
 *** 量词

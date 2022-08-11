@@ -1,0 +1,13 @@
+* conduct #card #词汇积累
+:PROPERTIES:
+:card-last-interval: 48.9
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-09-25T21:19:18.029Z
+:card-last-reviewed: 2022-08-08T00:19:18.030Z
+:card-last-score: 5
+:END:
+** 释义： {{cloze v.实施；执行；表现；引导/n.举止；管理方法；经营方式；实施办法}}
+** 读音： {{cloze ˈkɒndʌkt}}
+** 例句： /I *conduct* business with you. What I care about is the [[quality]] of the goods. Please have a look at these samples./
+*

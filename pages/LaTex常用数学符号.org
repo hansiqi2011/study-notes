@@ -21,7 +21,10 @@
 * 角度$1\degree = 60', 1'=60''$
 * 平行 $AB \parallel CD$
 * 常用希腊字母 $\alpha \beta \gamma \delta \pi$，大写$\Alpha \Beta \Gamma \Delta \Pi$
-* 连续求和$\sum_{i=0}^{100}i$
-* 连续求积$\prod_{i=0}^{100}i$
+* 连续求和
+$$\sum_{i=0}^{100}i$$
+* 连续求积
+$$\prod_{i=0}^{100}i$$
 ** 阶乘 $n!$
 * 上下横线 $\overline{12ABC}$, $\underline{12ABC}$
+*

@@ -1,0 +1,25 @@
+* 设n为正整数，如果2005能写成n个正奇合数之和，就称n为“好数”，则这种“好数”有多少个？
+* 条件：
+** 设n为正整数，$a_1,a_2,...,a_n$为正奇合数。
+** 如果$2005=\sum_{i=0}^{n}a_i$，则称n为“好数”。
+* 求：
+** 好数的数量
+* 思路&步骤：
+** $\because 9$是最小的正奇合数，而$\lceil 2005 \div 9 \rceil = 223$
+** $\therefore n < 223$
+:PROPERTIES:
+:background-color: #978626
+:END:
+** 又，$2 \nmid n$
+** $\therefore n \le 221$
+** 又，$9 \times 220 + 25 = 2005$
+** $\therefore 221$是好数
+** 又，当$(2k + 1) \times 9$是正奇合数时，$(2k - 1) \times 9 + 9 + 9 = (2k + 1) \times 9$也是正奇合数
+:PROPERTIES:
+:background-color: #978626
+:END:
+** $\therefore n = 221, 219, \dots , 5, 3$
+** 又，2005本身也是正奇合数
+** $\therefore n$还可取1。
+** 综上，好数有$(221 - 1) \div 2 + 1 = 111$个。
+*

@@ -1,0 +1,15 @@
+* 一个四位数与它的四个数字之和等于2001，求这个四位数。 #数学
+* 思路&步骤：
+** 设此数为$\overline{abcd}$，则$\overline{abcd}+a+b+c+d=2001$，且$0 \le a,b,c,d<10$。
+** $\therefore 1000a+100b+10c+d+a+b+c+d=2001$
+** $\therefore 1001a+101b+11c+2d=2001$
+** $\therefore a=1,b=9$
+** 如果$c=8$，则$2d=3$，不符合题意，舍去。
+:PROPERTIES:
+:background-color: #978626
+:END:
+** 如果$c=7$，则$d=7$。
+** 综上，这个四位数是$1977$。
+* 坑点：
+** 当这个数等于$\overline{198x}$时，$x$*不是整数*，所以要试$\overline {197x}$。
+*

@@ -1,11 +1,11 @@
 * estimate #card #词汇积累
 :PROPERTIES:
-:card-last-interval: 8.88
-:card-repeats: 3
-:card-ease-factor: 2.22
-:card-next-schedule: 2022-08-03T21:52:56.814Z
-:card-last-reviewed: 2022-07-26T00:52:56.814Z
-:card-last-score: 3
+:card-last-interval: 21.53
+:card-repeats: 4
+:card-ease-factor: 2.32
+:card-next-schedule: 2022-08-25T12:45:02.252Z
+:card-last-reviewed: 2022-08-04T00:45:02.253Z
+:card-last-score: 5
 :END:
 ** 释义： {{cloze v.估计；估算；估价/n.估价；（对大小、数量、成本等的）估计；估计的成本}}
 ** 读音： {{cloze 'estɪmeɪt}}

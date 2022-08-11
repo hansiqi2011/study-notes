@@ -1,0 +1,26 @@
+* 基本比较 #card #分数
+** $\dfrac{x}{m}:\dfrac{y}{m}=x:y$，即若分母相同，分子大的较大。
+:PROPERTIES:
+:id: 62f4658e-1e82-4edb-b6f6-312a421dbd7d
+:END:
+** $\dfrac{m}{x}:\dfrac{m}{y}=y:x$，即若分子相同，分母小的较大。
+:PROPERTIES:
+:id: 62f465d4-1933-494c-963a-fdd684d3260f
+:END:
+* 通分 #card #分数
+** 通分母，转换成 ((62f4658e-1e82-4edb-b6f6-312a421dbd7d)) 的情况。
+** 通分子，转换成 ((62f465d4-1933-494c-963a-fdd684d3260f)) 的情况。
+* 交叉相乘 #card #分数
+** $\dfrac{a}{c}:\dfrac{b}{d}=ac:bd$
+* 求商 #card #分数
+** 设$x=\dfrac{a}{c} \div \dfrac{b}{d}$。
+** 若$x<0$，则$\dfrac{a}{c}<\dfrac{b}{d}$。
+** 若$x=0$，则$\dfrac{a}{c}=\dfrac{b}{d}$。
+** 若$x>0$，则$\dfrac{a}{c}>\dfrac{b}{d}$。
+* 比较倒数 #card #分数
+** $\dfrac{a}{c} \div \dfrac{b}{d}=\dfrac{1}{\space \dfrac{c}{a} \div \dfrac{d}{b} \space}$
+* 作差/和比较 #card #分数
+** 举例：
+** $\dfrac{999}{1000} < \dfrac{1000}{1001}$
+** 因为$\dfrac{1}{1000} > \dfrac{1}{1001}$，而$\dfrac{999}{1000} = 1-\dfrac{1}{1000}$，$\dfrac{1000}{1001} = 1-\dfrac{1}{1001}$。
+*

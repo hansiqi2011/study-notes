@@ -1,0 +1,14 @@
+* duty #card #词汇积累
+:PROPERTIES:
+:card-last-interval: 48.9
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-09-28T21:14:05.850Z
+:card-last-reviewed: 2022-08-11T00:14:05.850Z
+:card-last-score: 5
+:END:
+** 释义： {{cloze n.责任；职责；义务；值班}}
+** 读音： {{cloze ˈduːti}}
+** =固定搭配=： {{cloze on duty}} 值班
+** 例句： /The policeman on *duty* told him that.../
+**

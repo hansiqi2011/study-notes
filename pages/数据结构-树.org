@@ -1,15 +1,55 @@
 * 树能够很好的描述 {{cloze 有分支和层次特性}}的数据集合 #card #数据结构
+:PROPERTIES:
+:card-last-interval: 48.9
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-09-28T21:18:17.849Z
+:card-last-reviewed: 2022-08-11T00:18:17.849Z
+:card-last-score: 5
+:END:
 * 树的定义：一棵树是由n(n>0)个元素组成的有限集合 #card #数据结构
+:PROPERTIES:
+:card-last-interval: 48.9
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-09-26T21:34:02.917Z
+:card-last-reviewed: 2022-08-09T00:34:02.917Z
+:card-last-score: 5
+:END:
 ** 每个元素称为 {{cloze 节点node}}
 ** 有一个特定的节点，称为 {{cloze 根节点或树根root}}
 ** 除根节点外，其余节点能够分成m(m>=0)个互不相交的有限集合$T_0, T_1, \dots, T_{m-1}$, 其中每个自己又都是一棵树，称为这棵树的 {{cloze 子树}}
 * 除根节点外，每个结点都有唯一一个 {{cloze 前驱节点}}，0或者多个 {{cloze 后继节点}} #card #数据结构
+:PROPERTIES:
+:card-last-interval: 48.9
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-09-26T21:37:56.302Z
+:card-last-reviewed: 2022-08-09T00:37:56.304Z
+:card-last-score: 5
+:END:
 * 一个节点的 {{cloze 子树个数}}，称为这个节点的度degree  #card #数据结构
+:PROPERTIES:
+:card-last-interval: 48.9
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-09-27T21:26:10.530Z
+:card-last-reviewed: 2022-08-10T00:26:10.530Z
+:card-last-score: 5
+:END:
 ** 度数为0的节点称为 {{cloze 叶节点leaf}}
 ** 度数不为0的节点称为 {{cloze 分支节点branch}}
 ** 根结点以外的分支节点又称为 {{cloze 内部节点}}
 ** 树中各节点的度的 {{cloze 最大值}}称为这棵树的度
 * 树相关的重要概念 #card #数据结构
+:PROPERTIES:
+:card-last-interval: 48.9
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-09-26T21:32:37.102Z
+:card-last-reviewed: 2022-08-09T00:32:37.103Z
+:card-last-score: 5
+:END:
 ** 节点之间的连线称为边 edge
 ** 父节点parent和子节点children
 ** 祖先节点ancestor，子孙节点descendant
@@ -18,6 +58,14 @@
 ** 森林forest是多个互不相交的树的集合
 * 常见的树的遍历 Tree Traversal
 ** 树的遍历——深度优先(Depth First Search)  #card #数据结构
+:PROPERTIES:
+:card-last-interval: 48.9
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-09-26T21:39:31.035Z
+:card-last-reviewed: 2022-08-09T00:39:31.036Z
+:card-last-score: 5
+:END:
 *** 前序(根)遍历 preorder traversal
 **** 根->左->右：按照当前根节点，左子树，右子树的顺序，递归地处理每一个节点
 *** 后序(根)遍历 postorder traversal
@@ -25,21 +73,69 @@
 *** 中序(根)遍历 inorder traversal
 **** 左->根->右：按照当前左子树，根节点，右子树的顺序，递归地处理每一个节点
 ** 树的遍历——广度优先(Breadth First Search) #card #数据结构
+:PROPERTIES:
+:card-last-interval: 48.9
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-09-26T21:31:16.525Z
+:card-last-reviewed: 2022-08-09T00:31:16.526Z
+:card-last-score: 5
+:END:
 *** 层序遍历 levelorder traversal
-**** 层序就是按照节点的高度给树分层，逐层地处理从左到右的每个节点
+**** 层序就是按照节点的高度给树 {{cloze 分层}}， {{cloze 逐层地处理从左到右的每个节点}}
 * 二叉树 binary tree
 ** 二叉树是一种特殊的、度数为2的树
 ** 在二叉树的第i层上最多有多少个节点？  #card #数据结构
+:PROPERTIES:
+:card-last-interval: 48.9
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-09-26T21:33:46.637Z
+:card-last-reviewed: 2022-08-09T00:33:46.640Z
+:card-last-score: 5
+:END:
 *** $2^{i-1}, i \ge 1$
 ** 深度为k的二叉树最多有多少个节点？  #card #数据结构
+:PROPERTIES:
+:card-last-interval: 48.9
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-09-26T21:38:29.230Z
+:card-last-reviewed: 2022-08-09T00:38:29.230Z
+:card-last-score: 5
+:END:
 *** $2^k-1, k \ge 1$
 *** 一个深度为k，而且节点数量为$2^k-1$的二叉树称为*完全二叉树*
 ** 对于任意一个二叉树，如果其叶子节点数量为$n_0$，度数为2的节点数量为$n_2$，则一定满足：  #card #数据结构
+:PROPERTIES:
+:card-last-interval: 48.9
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-09-26T21:33:28.579Z
+:card-last-reviewed: 2022-08-09T00:33:28.579Z
+:card-last-score: 5
+:END:
 *** $n_0 = n_2 + 1$
 ** 具有n个节点的完全二叉树的深度为   #card #数据结构
+:PROPERTIES:
+:card-last-interval: 48.9
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-09-28T21:18:31.073Z
+:card-last-reviewed: 2022-08-11T00:18:31.074Z
+:card-last-score: 5
+:END:
 *** $floor(\log_2 n) + 1$
 * 若对一棵有n个节点的完全二叉树进行顺序编号（1≤i≤n），那么，对于编号为i（i≥1）的节点：   #card #数据结构
-** 当i=1时，该节点为根，它无父节点
-** 当i>1时，该节点的父节点的编号为i/2
-** 若2i≤n，则有编号为2i的左节点，否则没有左节点
-** 若2i+1≤n，则有编号为2i+1的右节点，否则没有右节点
+:PROPERTIES:
+:card-last-interval: 2.47
+:card-repeats: 2
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-08-12T11:22:39.358Z
+:card-last-reviewed: 2022-08-10T00:22:39.358Z
+:card-last-score: 3
+:END:
+** 当i=1时，该节点为根， {{cloze 它无父节点}}
+** 当i>1时，该节点的父节点的编号为 {{cloze i/2}}
+** 若2i≤n，则有编号为 {{cloze 2i}}的左节点，否则 {{cloze 没有左节点}}
+** 若2i+1≤n，则有编号为 {{cloze 2i+1}}的右节点，否则 {{cloze 没有右节点}}

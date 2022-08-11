@@ -1,0 +1,33 @@
+* 例题：试求出两两互素的不同的三个正整数x、y、z。使得其中任意两个的和能被第三个数整除。
+* 条件：
+** $x \ne y \ne z$
+** $(x,y)=1$
+** $(y,z)=1$
+** $(x,z)=1$
+** $x \mid y+z$
+** $y \mid x+z$
+** $z \mid x+y$
+* 求：
+** x、y、和z
+* 思路&步骤：
+** 设$x<y<z$，则$\dfrac{x+y}{z}$、$\dfrac{y+z}{x}$、$\dfrac{x+z}{y}$均为正整数。
+** 其中$\dfrac{x+y}{z}$最小，$\therefore 1 \le \dfrac{x+y}{z} < \dfrac{z+z}{z}=2$。
+:PROPERTIES:
+:background-color: #978626
+:END:
+** $\therefore \dfrac{x+y}{z}=1,z=x+y$
+** $\therefore \dfrac{x+z}{y}=\dfrac{2x+y}{y}$
+** $\therefore y \mid 2x$
+:PROPERTIES:
+:background-color: #978626
+:END:
+** $\therefore 1 \le \dfrac{2x}{y}<\dfrac{2y}{y}=2$
+:PROPERTIES:
+:background-color: #978626
+:END:
+** $\therefore y=2x$
+** $\therefore z=3x$
+** 又，x、y和z两两互素
+** $\therefore x=1$
+** $\therefore \begin{cases} x=1 \\ y=2 \\ z=3 \end{cases}$
+*

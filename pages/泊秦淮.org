@@ -1,0 +1,13 @@
+* 泊秦淮 #card #诗词
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-08-11T16:00:00.000Z
+:card-last-reviewed: 2022-08-11T00:12:54.873Z
+:card-last-score: 1
+:END:
+** 杜牧 〔唐代〕
+** 烟笼寒水月笼沙，夜泊秦淮近酒家。
+商女不知亡国恨，隔江犹唱后庭花。
+*

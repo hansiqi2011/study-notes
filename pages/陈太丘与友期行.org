@@ -1,10 +1,10 @@
 * 陈太丘与友期行 #card #古文
 :PROPERTIES:
-:card-last-interval: 10.52
-:card-repeats: 3
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-07-29T12:40:40.423Z
-:card-last-reviewed: 2022-07-19T00:40:40.423Z
+:card-last-interval: 30.25
+:card-repeats: 4
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-08-29T18:00:10.345Z
+:card-last-reviewed: 2022-07-30T12:00:10.346Z
 :card-last-score: 5
 :END:
 ** 南北朝·刘义庆

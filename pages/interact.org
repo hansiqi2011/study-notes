@@ -1,0 +1,13 @@
+* interact #card #词汇积累
+:PROPERTIES:
+:card-last-interval: 44.11
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-09-18T02:41:10.192Z
+:card-last-reviewed: 2022-08-05T00:41:10.193Z
+:card-last-score: 5
+:END:
+** 释义： {{cloze v.相互作用；交流；相互影响；沟通}}
+** 读音： {{cloze ɪntər'ækt}}
+** 例句： /This thing was not just a music player. It was a sculpture. It was something that you wanna to touch, you wanna to *interact* with./
+*

@@ -1,10 +1,10 @@
 * 咏雪 #card #古文 #诗词
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 2
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-08-01T03:28:29.319Z
-:card-last-reviewed: 2022-07-28T00:28:29.319Z
+:card-last-interval: 11
+:card-repeats: 3
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-08-13T00:13:27.548Z
+:card-last-reviewed: 2022-08-02T00:13:27.549Z
 :card-last-score: 5
 :END:
 ** 南北朝·刘义庆

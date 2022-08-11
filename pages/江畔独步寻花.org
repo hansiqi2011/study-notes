@@ -1,11 +1,11 @@
 * 江畔独步寻花·其五 #card #诗词
 :PROPERTIES:
 :id: 62afe8b6-0247-4cd5-8759-db735a115de4
-:card-last-interval: 29.26
-:card-repeats: 4
-:card-ease-factor: 2.66
-:card-next-schedule: 2022-08-08T16:34:13.748Z
-:card-last-reviewed: 2022-07-10T10:34:13.748Z
+:card-last-interval: 84.1
+:card-repeats: 5
+:card-ease-factor: 2.76
+:card-next-schedule: 2022-11-01T03:10:22.934Z
+:card-last-reviewed: 2022-08-09T01:10:22.934Z
 :card-last-score: 5
 :END:
 ** 唐·[[杜甫]]

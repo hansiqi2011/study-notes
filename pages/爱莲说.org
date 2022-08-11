@@ -1,11 +1,11 @@
 * 爱莲说 #card #古文
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.5
-:card-next-schedule: 2022-07-29T16:00:00.000Z
-:card-last-reviewed: 2022-07-29T00:19:59.166Z
-:card-last-score: 1
+:card-last-interval: 9.28
+:card-repeats: 3
+:card-ease-factor: 2.32
+:card-next-schedule: 2022-08-18T06:39:51.687Z
+:card-last-reviewed: 2022-08-09T00:39:51.688Z
+:card-last-score: 5
 :END:
 ** 宋·周敦颐
 ** 水陆草木之花，可爱者甚蕃。晋陶渊明独爱菊。自李唐来，世人甚爱牡丹。 {{cloze 予独爱莲之出淤泥而不染，濯清涟而不妖，中通外直，不蔓不枝，香远益清，亭亭净植，可远观而不可亵玩焉}}。

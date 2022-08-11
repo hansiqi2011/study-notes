@@ -1,0 +1,15 @@
+* strike #card #词汇积累
+:PROPERTIES:
+:card-last-interval: 48.9
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-09-28T21:15:38.806Z
+:card-last-reviewed: 2022-08-11T00:15:38.808Z
+:card-last-score: 5
+:END:
+** 释义： {{cloze v.罢工；击；攻击；打/n.罢工；打击；袭击；罢课}}
+** 读音： {{cloze straɪk}}
+** =搭配用法=：
+*** {{cloze on strike}}在罢工
+*** {{cloze go on strike}}参加罢工
+** 例句： /The union has voted to *strike* for a pay increase of 6%./

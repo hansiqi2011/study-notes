@@ -31,12 +31,12 @@
 :END:
 **** 默而识之， {{cloze 学而不厌}}， {{cloze 诲人不倦}}。 #card
 :PROPERTIES:
-:card-last-interval: 28.3
-:card-repeats: 4
-:card-ease-factor: 2.66
-:card-next-schedule: 2022-08-09T07:42:09.766Z
-:card-last-reviewed: 2022-07-12T00:42:09.766Z
-:card-last-score: 3
+:card-last-interval: 84.1
+:card-repeats: 5
+:card-ease-factor: 2.76
+:card-next-schedule: 2022-11-02T02:21:29.890Z
+:card-last-reviewed: 2022-08-10T00:21:29.891Z
+:card-last-score: 5
 :END:
 **** 我非 {{cloze 生而知之者}}，好（hao4，释义： {{cloze 喜欢}}）古， {{cloze 敏以求之者也}}。 #card
 :PROPERTIES:
@@ -49,11 +49,11 @@
 :END:
 **** 学如不及， {{cloze 唯恐失之}}。 #card
 :PROPERTIES:
-:card-last-interval: 29.26
-:card-repeats: 4
-:card-ease-factor: 2.66
-:card-next-schedule: 2022-08-08T16:33:45.187Z
-:card-last-reviewed: 2022-07-10T10:33:45.187Z
+:card-last-interval: 84.1
+:card-repeats: 5
+:card-ease-factor: 2.76
+:card-next-schedule: 2022-11-01T03:10:16.337Z
+:card-last-reviewed: 2022-08-09T01:10:16.337Z
 :card-last-score: 5
 :END:
 ***** 翻译： {{cloze 学习不如别人，就像跑步跟不上别人；学习超过了别人，又怕再次落后}}。

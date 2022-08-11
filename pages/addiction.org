@@ -1,0 +1,13 @@
+* addiction #card #词汇积累
+:PROPERTIES:
+:card-last-interval: 30.76
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-09-02T18:13:15.215Z
+:card-last-reviewed: 2022-08-03T00:13:15.216Z
+:card-last-score: 5
+:END:
+** 释义： {{cloze n.瘾；嗜好；入迷}}
+** 读音： {{cloze ə'dɪkʃ(ə)n}}
+** 例句： /Many scientists believe our love of sugar may actually be an *addiction*./
+*

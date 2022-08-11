@@ -70,11 +70,11 @@ st.clear();//清空set
 #+END_SRC
 * 怎样判断一个set是否为空？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 4.59
-:card-repeats: 2
-:card-ease-factor: 2.46
-:card-next-schedule: 2022-08-02T14:23:36.327Z
-:card-last-reviewed: 2022-07-29T00:23:36.327Z
+:card-last-interval: 10.89
+:card-repeats: 3
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-08-13T21:23:12.740Z
+:card-last-reviewed: 2022-08-03T00:23:12.740Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++
