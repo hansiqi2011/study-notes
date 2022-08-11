@@ -4,7 +4,7 @@
 | 插入排序 | Insertion | $n^2$ | $n^2$ | $n$ | 1 | 稳|
 | 堆排序 | Heap | $n \log_2n$ | $n \log_2n$ | $n \log_2n$ | 1 | 不稳|
 | 归并排序 | Merge | $n \log_2n$ | $n \log_2n$ | $n \log_2n$ | $n$ | 稳|
-| 快速排序 | Quick | $n \log_2n$ | $n^2$ | $n \log_2n$ | $n \log_2n$ | 不稳|
+| 快速排序 | Quick | $n \log_2n$ | $n^2$ | $n \log_2n$ | $\log_2n$ | 不稳|
 | 桶排序 | Bucket | $n+k$ | $n^2$ | $n$ | $n+k$ | 稳|
 | 计数排序 | Counting | $n+k$ | $n+k$ | $n+k$ | $n+k$ | 稳|
 | 基数排序 | Radix  | $n \times k$ | $n \times k$ | $n \times k$ | $n+k$ | 稳|
