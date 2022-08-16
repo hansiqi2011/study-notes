@@ -65,11 +65,11 @@
 :END:
 ** 子曰：“饭疏食，饮水， {{cloze 曲肱而枕之}}，乐亦在其中矣。 {{cloze 不义而富且贵，于我如浮云}}。”《述而》 #card
 :PROPERTIES:
-:card-last-interval: 11
-:card-repeats: 3
-:card-ease-factor: 2.66
-:card-next-schedule: 2022-08-15T00:42:06.763Z
-:card-last-reviewed: 2022-08-04T00:42:06.763Z
+:card-last-interval: 30.47
+:card-repeats: 4
+:card-ease-factor: 2.76
+:card-next-schedule: 2022-09-14T12:55:46.572Z
+:card-last-reviewed: 2022-08-15T01:55:46.573Z
 :card-last-score: 5
 :END:
 ** 子曰：“三人行， {{cloze 必有我师焉}}。择其善者而从之， {{cloze 其不善者而改之}}。”《述而》 #card

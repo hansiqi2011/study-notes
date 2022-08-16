@@ -1,12 +1,12 @@
 * 移位（左移和右移）的语法 #card #编程
 :PROPERTIES:
 :card-last-score: 5
-:card-repeats: 4
-:card-next-schedule: 2022-08-15T19:40:33.468Z
+:card-repeats: 5
+:card-next-schedule: 2022-12-09T22:32:44.551Z
 :background-color: #264c9b
-:card-last-interval: 34.8
-:card-ease-factor: 2.9
-:card-last-reviewed: 2022-07-12T00:40:33.468Z
+:card-last-interval: 115.92
+:card-ease-factor: 3
+:card-last-reviewed: 2022-08-16T00:32:44.554Z
 :END:
 ** #+BEGIN_SRC c
 int i = 1;//0001
@@ -17,7 +17,7 @@ i >>= 1;//右移 right rotate
 //0100 => 0010
 // i is 2 now
 #+END_SRC
-** 知识点：$$i$$左移$$n$$位与$$i \times 2^n$$同义；$$i$$右移$$n$$位与$$i \div 2^n$$同义。  #NOI
+** 知识点：$$i$$左移$$n$$位与$$i \times 2^n$$同义；$$i$$右移$$n$$位与$$i \div 2^n$$同义。 #编程 #NOI
 :PROPERTIES:
 :query-table: true
 :background-color: #978626

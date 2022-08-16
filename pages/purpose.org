@@ -1,11 +1,11 @@
 * purpose #card #词汇积累
 :PROPERTIES:
-:card-last-interval: 34.8
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-08-15T19:46:11.898Z
-:card-last-reviewed: 2022-07-12T00:46:11.898Z
-:card-last-score: 5
+:card-last-interval: 77.9
+:card-repeats: 5
+:card-ease-factor: 2.76
+:card-next-schedule: 2022-11-01T21:36:28.946Z
+:card-last-reviewed: 2022-08-16T00:36:28.947Z
+:card-last-score: 3
 :END:
 ** 释义：
 *** (countable noun) {{cloze 目的}}； {{cloze 用途}}； {{cloze 目标}}； {{cloze 意图}}

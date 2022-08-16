@@ -1,13 +1,13 @@
 * involve #card #词汇积累
 :PROPERTIES:
-:card-last-interval: 31.36
-:card-repeats: 4
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-08-11T08:24:23.941Z
-:card-last-reviewed: 2022-07-11T00:24:23.942Z
+:card-last-interval: 133.35
+:card-repeats: 5
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-12-23T08:37:12.288Z
+:card-last-reviewed: 2022-08-12T00:37:12.289Z
 :card-last-score: 5
 :END:
-** 释义：transitive verb {{cloze 需要；包含；牵涉；影响}}
+** 释义：(transitive verb) {{cloze 需要；包含；牵涉；影响}}
 ** 发音： {{cloze ɪnˈvɒlv}}
 ** 例句： /Eating competitions can *involve* various foods--pizza, pies, ice cream, chili peppers./
 *

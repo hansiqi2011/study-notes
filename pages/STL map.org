@@ -21,11 +21,11 @@
 #+END_SRC
 * 怎样定义一个map？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 10.89
-:card-repeats: 3
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-08-13T21:21:27.195Z
-:card-last-reviewed: 2022-08-03T00:21:27.195Z
+:card-last-interval: 31.35
+:card-repeats: 4
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-09-14T22:00:03.128Z
+:card-last-reviewed: 2022-08-14T14:00:03.131Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++
@@ -33,11 +33,11 @@ map<string, int> mp; //定义一个将string映射成int的map
 #+END_SRC
 * 怎样向map中添加元素？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 10.89
-:card-repeats: 3
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-08-13T21:24:05.295Z
-:card-last-reviewed: 2022-08-03T00:24:05.296Z
+:card-last-interval: 31.35
+:card-repeats: 4
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-09-14T22:00:42.841Z
+:card-last-reviewed: 2022-08-14T14:00:42.842Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++

@@ -1,11 +1,11 @@
 * investigator #card #词汇积累
 :PROPERTIES:
-:card-last-interval: 24.2
-:card-repeats: 4
-:card-ease-factor: 2.42
-:card-next-schedule: 2022-08-14T04:33:19.135Z
-:card-last-reviewed: 2022-07-21T00:33:19.136Z
-:card-last-score: 3
+:card-last-interval: 66.3
+:card-repeats: 5
+:card-ease-factor: 2.52
+:card-next-schedule: 2022-10-19T21:02:42.632Z
+:card-last-reviewed: 2022-08-14T14:02:42.633Z
+:card-last-score: 5
 :END:
 ** 释义： {{cloze 调查者；侦查员}}
 ** 读音： {{cloze ɪnˈvestɪˌɡeɪtə}}

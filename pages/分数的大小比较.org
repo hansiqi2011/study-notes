@@ -1,4 +1,12 @@
 * 基本比较 #card #分数
+:PROPERTIES:
+:card-last-interval: 48.9
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-09-29T21:36:34.516Z
+:card-last-reviewed: 2022-08-12T00:36:34.516Z
+:card-last-score: 5
+:END:
 ** $\dfrac{x}{m}:\dfrac{y}{m}=x:y$，即若分母相同，分子大的较大。
 :PROPERTIES:
 :id: 62f4658e-1e82-4edb-b6f6-312a421dbd7d
@@ -8,18 +16,58 @@
 :id: 62f465d4-1933-494c-963a-fdd684d3260f
 :END:
 * 通分 #card #分数
+:PROPERTIES:
+:card-last-interval: 48.9
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-09-29T21:33:29.650Z
+:card-last-reviewed: 2022-08-12T00:33:29.650Z
+:card-last-score: 5
+:END:
 ** 通分母，转换成 ((62f4658e-1e82-4edb-b6f6-312a421dbd7d)) 的情况。
 ** 通分子，转换成 ((62f465d4-1933-494c-963a-fdd684d3260f)) 的情况。
 * 交叉相乘 #card #分数
+:PROPERTIES:
+:card-last-interval: 48.9
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-09-29T21:33:20.839Z
+:card-last-reviewed: 2022-08-12T00:33:20.841Z
+:card-last-score: 5
+:END:
 ** $\dfrac{a}{c}:\dfrac{b}{d}=ac:bd$
 * 求商 #card #分数
+:PROPERTIES:
+:card-last-interval: 48.9
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-09-29T21:25:13.888Z
+:card-last-reviewed: 2022-08-12T00:25:13.889Z
+:card-last-score: 5
+:END:
 ** 设$x=\dfrac{a}{c} \div \dfrac{b}{d}$。
 ** 若$x<0$，则$\dfrac{a}{c}<\dfrac{b}{d}$。
 ** 若$x=0$，则$\dfrac{a}{c}=\dfrac{b}{d}$。
 ** 若$x>0$，则$\dfrac{a}{c}>\dfrac{b}{d}$。
 * 比较倒数 #card #分数
+:PROPERTIES:
+:card-last-interval: 48.9
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-09-29T21:36:27.861Z
+:card-last-reviewed: 2022-08-12T00:36:27.863Z
+:card-last-score: 5
+:END:
 ** $\dfrac{a}{c} \div \dfrac{b}{d}=\dfrac{1}{\space \dfrac{c}{a} \div \dfrac{d}{b} \space}$
 * 作差/和比较 #card #分数
+:PROPERTIES:
+:card-last-interval: 48.9
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-09-29T21:25:06.079Z
+:card-last-reviewed: 2022-08-12T00:25:06.080Z
+:card-last-score: 5
+:END:
 ** 举例：
 ** $\dfrac{999}{1000} < \dfrac{1000}{1001}$
 ** 因为$\dfrac{1}{1000} > \dfrac{1}{1001}$，而$\dfrac{999}{1000} = 1-\dfrac{1}{1000}$，$\dfrac{1000}{1001} = 1-\dfrac{1}{1001}$。

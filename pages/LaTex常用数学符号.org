@@ -27,4 +27,5 @@ $$\sum_{i=0}^{100}i$$
 $$\prod_{i=0}^{100}i$$
 ** 阶乘 $n!$
 * 上下横线 $\overline{12ABC}$, $\underline{12ABC}$
+* 取整$\lfloor x \rfloor \lceil y \rceil [z]$
 *
