@@ -1,0 +1,15 @@
+* 黄鹤楼 #card #诗词
+:PROPERTIES:
+:card-last-interval: 87.75
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-11-23T06:23:47.639Z
+:card-last-reviewed: 2022-08-27T12:23:47.642Z
+:card-last-score: 5
+:END:
+** 崔颢 〔唐代〕
+** 昔人已乘黄鹤去，此地空余黄鹤楼。
+黄鹤一去不复返，白云千载空悠悠。
+晴川历历汉阳树，芳草萋萋鹦鹉洲。
+日暮乡关何处是？烟波江上使人愁。
+*

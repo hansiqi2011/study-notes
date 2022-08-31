@@ -1,13 +1,13 @@
 * 书戴嵩画牛 #card #古文
 :PROPERTIES:
-:card-last-interval: 29.21
-:card-repeats: 5
-:card-ease-factor: 1.94
-:card-next-schedule: 2022-08-27T05:21:56.411Z
-:card-last-reviewed: 2022-07-29T00:21:56.412Z
-:card-last-score: 3
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.04
+:card-next-schedule: 2022-09-01T00:19:44.646Z
+:card-last-reviewed: 2022-08-28T00:19:44.647Z
+:card-last-score: 5
 :END:
 ** 宋·[[苏轼]]
-*** 蜀中有杜处士 ，好书画，所宝以百数。有戴嵩《牛》一轴，尤所爱，锦囊玉轴，常以自随。
-一日曝（pu4，释义： {{cloze 晒}}）书画，有一牧童见之，拊（fu3，释义： {{cloze 拍}}）掌大笑曰：“此画斗牛也。牛斗，力在角，尾搐入两股间，今乃掉尾而斗，谬矣（句子释义： {{cloze 真是荒唐}}）。”处士笑而然之。古语有云：“耕当问奴，织当问婢。”不可改也。
+** 蜀中有杜处士 ，好书画，所宝以百数。 {{cloze 有戴嵩《牛》一轴，尤所爱，锦囊玉轴，常以自随}}。
+一日曝（pu4，释义： {{cloze 晒}}）书画，有一牧童见之，拊（fu3，释义： {{cloze 拍}}）掌大笑曰：“ {{cloze 此画斗牛也。牛斗，力在角，尾搐入两股间，今乃掉尾而斗}}，谬矣（句子释义： {{cloze 真是荒唐}}）。”处士笑而然之。古语有云：“ {{cloze 耕当问奴，织当问婢}}。”不可改也。
 *

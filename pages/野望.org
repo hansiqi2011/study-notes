@@ -1,0 +1,14 @@
+* 野望 #card #诗词
+:PROPERTIES:
+:card-last-interval: 2.47
+:card-repeats: 2
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-08-31T12:00:02.853Z
+:card-last-reviewed: 2022-08-29T01:00:02.854Z
+:card-last-score: 3
+:END:
+** 王绩 〔唐代〕
+** 东皋（读音： {{cloze gao1}}，释义： {{cloze 高地}}）薄暮望，徙倚欲何依。
+{{cloze 树树皆秋色，山山唯落晖}}。
+牧人驱犊返，猎马带禽归。
+{{cloze 相顾无相识，长歌怀采薇}}。

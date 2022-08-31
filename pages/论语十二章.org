@@ -2,11 +2,11 @@
 ** 孔子及其弟子 〔先秦〕
 ** 子曰：“学而时习之， {{cloze 不亦说乎}}？有朋自远方来，不亦乐乎？ {{cloze 人不知而不愠，不亦君子乎？}}”《学而》 #card
 :PROPERTIES:
-:card-last-interval: 24.2
-:card-repeats: 4
-:card-ease-factor: 2.42
-:card-next-schedule: 2022-08-23T16:06:15.462Z
-:card-last-reviewed: 2022-07-30T12:06:15.462Z
+:card-last-interval: 63.66
+:card-repeats: 5
+:card-ease-factor: 2.52
+:card-next-schedule: 2022-10-26T14:35:39.839Z
+:card-last-reviewed: 2022-08-23T23:35:39.839Z
 :card-last-score: 5
 :END:
 ** 曾子曰：“吾日三省吾身： {{cloze 为人谋而不忠乎？与朋友交而不信乎？传不习乎？}}”《学而》 #card

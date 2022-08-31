@@ -1,10 +1,10 @@
 * 秋词二首·其一 #card #诗词
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-08-18T17:22:11.881Z
-:card-last-reviewed: 2022-08-07T13:22:11.882Z
+:card-last-interval: 42.76
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-09-30T18:17:25.114Z
+:card-last-reviewed: 2022-08-19T00:17:25.115Z
 :card-last-score: 5
 :END:
 ** 唐·刘禹锡

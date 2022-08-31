@@ -16,22 +16,22 @@
 **** 增加减少
 * 数轴填空题应该注意什么？ #card #数学
 :PROPERTIES:
-:card-last-interval: 36.08
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-08-27T01:35:49.543Z
-:card-last-reviewed: 2022-07-22T00:35:49.544Z
+:card-last-interval: 133.31
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2023-01-07T19:50:16.895Z
+:card-last-reviewed: 2022-08-27T12:50:16.896Z
 :card-last-score: 5
 :END:
 ** 把零点标记出来
 ** 在填空处附近的大格子做标记
 * 解应用题要标记什么？ #card #数学
 :PROPERTIES:
-:card-last-interval: 35.13
-:card-repeats: 3
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-08-16T03:47:06.428Z
-:card-last-reviewed: 2022-07-12T00:47:06.428Z
+:card-last-interval: 31.36
+:card-repeats: 4
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-17T08:19:12.275Z
+:card-last-reviewed: 2022-08-17T00:19:12.275Z
 :card-last-score: 5
 :END:
 ** 标记重要条件，和未知数，尤其注意单位
@@ -47,11 +47,11 @@
 ** 把条件和未知数用数学符号表示
 * 解数学题最重要的是什么？ #card #数学
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-08-19T01:55:38.221Z
-:card-last-reviewed: 2022-08-15T01:55:38.221Z
+:card-last-interval: 14.25
+:card-repeats: 3
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-09-03T06:16:24.159Z
+:card-last-reviewed: 2022-08-20T00:16:24.160Z
 :card-last-score: 5
 :END:
 ** 不能怕麻烦跳步骤

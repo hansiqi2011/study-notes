@@ -1,10 +1,10 @@
 * qualified #card #词汇积累
 :PROPERTIES:
-:card-last-interval: 34.8
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-08-18T19:50:54.099Z
-:card-last-reviewed: 2022-07-15T00:50:54.099Z
+:card-last-interval: 115.92
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-12-12T23:21:52.401Z
+:card-last-reviewed: 2022-08-19T01:21:52.401Z
 :card-last-score: 5
 :END:
 ** 释义：

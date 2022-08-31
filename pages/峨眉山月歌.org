@@ -1,10 +1,10 @@
 * 峨眉山月歌 #card #诗词
 :PROPERTIES:
-:card-last-interval: 11
-:card-repeats: 3
-:card-ease-factor: 2.66
-:card-next-schedule: 2022-08-24T02:01:54.458Z
-:card-last-reviewed: 2022-08-13T02:01:54.459Z
+:card-last-interval: 30.47
+:card-repeats: 4
+:card-ease-factor: 2.76
+:card-next-schedule: 2022-09-24T10:42:42.623Z
+:card-last-reviewed: 2022-08-24T23:42:42.624Z
 :card-last-score: 5
 :END:
 ** 唐·李白

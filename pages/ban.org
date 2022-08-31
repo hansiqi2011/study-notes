@@ -1,11 +1,11 @@
 * ban #card #词汇积累
 :PROPERTIES:
-:card-last-interval: 28.75
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-28T05:56:28.389Z
-:card-last-reviewed: 2022-07-30T11:56:28.391Z
-:card-last-score: 5
+:card-last-interval: 4.87
+:card-repeats: 2
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-09-02T20:36:45.437Z
+:card-last-reviewed: 2022-08-29T00:36:45.437Z
+:card-last-score: 3
 :END:
 ** 释义： {{cloze v.下令禁止；查禁/n.禁令}}
 ** 读音： {{cloze bæn}}

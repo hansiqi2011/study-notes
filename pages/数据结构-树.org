@@ -128,12 +128,12 @@
 *** $floor(\log_2 n) + 1$
 * 若对一棵有n个节点的完全二叉树进行顺序编号（1≤i≤n），那么，对于编号为i（i≥1）的节点：   #card #数据结构
 :PROPERTIES:
-:card-last-interval: 8.88
-:card-repeats: 3
-:card-ease-factor: 2.22
-:card-next-schedule: 2022-08-21T23:03:24.966Z
-:card-last-reviewed: 2022-08-13T02:03:24.966Z
-:card-last-score: 3
+:card-last-interval: 21.53
+:card-repeats: 4
+:card-ease-factor: 2.32
+:card-next-schedule: 2022-09-12T11:13:27.295Z
+:card-last-reviewed: 2022-08-21T23:13:27.295Z
+:card-last-score: 5
 :END:
 ** 当i=1时，该节点为根， {{cloze 它无父节点}}
 ** 当i>1时，该节点的父节点的编号为 {{cloze i/2}}

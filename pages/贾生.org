@@ -1,10 +1,10 @@
 * 贾生 #card #诗词
 :PROPERTIES:
-:card-last-interval: 10.5
-:card-repeats: 3
-:card-ease-factor: 2.46
-:card-next-schedule: 2022-08-25T02:03:01.060Z
-:card-last-reviewed: 2022-08-14T14:03:01.060Z
+:card-last-interval: 70.44
+:card-repeats: 4
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-11-04T09:32:55.562Z
+:card-last-reviewed: 2022-08-25T23:32:55.562Z
 :card-last-score: 5
 :END:
 ** 李商隐 〔唐代〕

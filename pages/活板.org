@@ -1,11 +1,11 @@
 * 活板 #card #诗词
 :PROPERTIES:
-:card-last-interval: 8.88
-:card-repeats: 3
-:card-ease-factor: 2.22
-:card-next-schedule: 2022-08-21T23:05:45.560Z
-:card-last-reviewed: 2022-08-13T02:05:45.561Z
-:card-last-score: 3
+:card-last-interval: 21.53
+:card-repeats: 4
+:card-ease-factor: 2.32
+:card-next-schedule: 2022-09-12T11:15:43.227Z
+:card-last-reviewed: 2022-08-21T23:15:43.228Z
+:card-last-score: 5
 :END:
 ** 沈括 〔宋代〕
 ** 板印书籍，唐人尚未盛为之。自冯瀛王始印五经，已后典籍皆为板本。

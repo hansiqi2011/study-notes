@@ -1,10 +1,10 @@
 * 使用STL string需要include那个头文件？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 31.07
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-26T01:39:10.057Z
-:card-last-reviewed: 2022-07-26T00:39:10.057Z
+:card-last-interval: 4.09
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-08-31T14:37:16.241Z
+:card-last-reviewed: 2022-08-27T12:37:16.242Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++
@@ -12,11 +12,11 @@
 #+END_SRC
 * 怎样定义一个string？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 29.79
-:card-repeats: 2
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-25T18:28:54.957Z
-:card-last-reviewed: 2022-07-27T00:28:54.957Z
+:card-last-interval: 423.6
+:card-repeats: 3
+:card-ease-factor: 2.7
+:card-next-schedule: 2023-10-23T13:49:22.562Z
+:card-last-reviewed: 2022-08-25T23:49:22.563Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++
@@ -25,11 +25,11 @@ string str("abcabc");
 #+END_SRC
 * 怎样操作string尾部的字符？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 31.07
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-26T01:47:20.063Z
-:card-last-reviewed: 2022-07-26T00:47:20.065Z
+:card-last-interval: 4.09
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-08-31T14:43:56.483Z
+:card-last-reviewed: 2022-08-27T12:43:56.484Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++
@@ -39,11 +39,11 @@ str.pop_back();//删除string尾部的字符，"abcabc"
 #+END_SRC
 * 怎样返回string第一个和最后一个字符? #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 31.07
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-26T01:29:25.367Z
-:card-last-reviewed: 2022-07-26T00:29:25.368Z
+:card-last-interval: 4.09
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-08-31T14:28:52.540Z
+:card-last-reviewed: 2022-08-27T12:28:52.540Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++
@@ -52,11 +52,11 @@ str.back();
 #+END_SRC
 * 怎样获得string某个位置的字符？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 31.07
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-26T01:27:14.366Z
-:card-last-reviewed: 2022-07-26T00:27:14.366Z
+:card-last-interval: 4.09
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-08-31T14:27:44.341Z
+:card-last-reviewed: 2022-08-27T12:27:44.341Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++
@@ -66,11 +66,11 @@ str.at(2); // 'c'
 #+END_SRC
 * 怎样获取string的长度？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 31.07
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-26T01:24:51.170Z
-:card-last-reviewed: 2022-07-26T00:24:51.170Z
+:card-last-interval: 4.09
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-08-31T14:27:28.715Z
+:card-last-reviewed: 2022-08-27T12:27:28.716Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++
@@ -79,11 +79,11 @@ str.size();//作用与length()相同
 #+END_SRC
 * 怎样查询字符串是否为空？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 31.07
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-26T01:36:48.809Z
-:card-last-reviewed: 2022-07-26T00:36:48.809Z
+:card-last-interval: 4.09
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-08-31T14:29:29.933Z
+:card-last-reviewed: 2022-08-27T12:29:29.934Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++
@@ -91,11 +91,11 @@ str.empty();//返回string是否为空，若为空返回true否则返回false
 #+END_SRC
 * 怎样获得string的子串？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 31.07
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-26T01:38:43.313Z
-:card-last-reviewed: 2022-07-26T00:38:43.313Z
+:card-last-interval: 4.09
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-08-31T14:37:02.227Z
+:card-last-reviewed: 2022-08-27T12:37:02.227Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++
@@ -105,11 +105,11 @@ str.substr(0, 2);//返回string中从下标为0开始长度为2的子串，"ab"
 #+END_SRC
 * 怎样在string中插入字符或字符串？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 31.07
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-26T01:37:58.235Z
-:card-last-reviewed: 2022-07-26T00:37:58.235Z
+:card-last-interval: 4.09
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-08-31T14:30:46.756Z
+:card-last-reviewed: 2022-08-27T12:30:46.756Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++
@@ -119,11 +119,11 @@ str.insert(1, "yy");//在下标为1的字符前插入字符串"yy"，"ayyxxbcabc
 #+END_SRC
 * 怎样删除string中的指定位置的字符？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 31.07
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-26T01:47:27.136Z
-:card-last-reviewed: 2022-07-26T00:47:27.137Z
+:card-last-interval: 4.09
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-08-31T14:44:08.342Z
+:card-last-reviewed: 2022-08-27T12:44:08.342Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++
@@ -134,11 +134,11 @@ str2.erase(6, 11);//从第6个元素(包括)开始往后删除11个元素，"I l
 #+END_SRC
 * 怎样删除string中出现的所有某个字符？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 31.07
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-26T01:49:00.452Z
-:card-last-reviewed: 2022-07-26T00:49:00.452Z
+:card-last-interval: 4.09
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-08-31T14:44:33.783Z
+:card-last-reviewed: 2022-08-27T12:44:33.784Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++
@@ -148,11 +148,11 @@ str5.erase(std::remove(str5.begin(), str5.end(), 'n'), str5.end());
 #+END_SRC
 * 怎样查找string中出现的字符或字符串？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 31.07
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-26T01:46:48.588Z
-:card-last-reviewed: 2022-07-26T00:46:48.588Z
+:card-last-interval: 4.09
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-01T02:18:57.904Z
+:card-last-reviewed: 2022-08-28T00:18:57.904Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++
@@ -169,11 +169,11 @@ str.rfind("bc", 3);//返回1
 #+END_SRC
 * 怎样将字符串转换成整型、浮点型？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 28.75
-:card-repeats: 2
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-24T18:31:00.707Z
-:card-last-reviewed: 2022-07-27T00:31:00.707Z
+:card-last-interval: 423.6
+:card-repeats: 3
+:card-ease-factor: 2.7
+:card-next-schedule: 2023-10-22T14:03:07.906Z
+:card-last-reviewed: 2022-08-25T00:03:07.906Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++
@@ -183,11 +183,11 @@ stof("123.9"); //返回浮点数123.9
 #+END_SRC
 * 怎样将其他类型转换成字符串？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 31.07
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-26T01:47:31.701Z
-:card-last-reviewed: 2022-07-26T00:47:31.702Z
+:card-last-interval: 4.09
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-08-31T14:44:16.631Z
+:card-last-reviewed: 2022-08-27T12:44:16.632Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++

@@ -1,19 +1,19 @@
 * STL set适用于 {{cloze 经常查找一个元素}}是否在某群集中且 {{cloze 需要排序}}的场景 #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 28.75
-:card-repeats: 2
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-25T18:27:00.962Z
-:card-last-reviewed: 2022-07-28T00:27:00.962Z
+:card-last-interval: 423.6
+:card-repeats: 3
+:card-ease-factor: 2.7
+:card-next-schedule: 2023-10-23T13:47:47.170Z
+:card-last-reviewed: 2022-08-25T23:47:47.170Z
 :card-last-score: 5
 :END:
 * 使用STL set应该include哪个头文件？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 31.07
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-26T01:49:04.277Z
-:card-last-reviewed: 2022-07-26T00:49:04.277Z
+:card-last-interval: 4.09
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-08-31T14:44:45.941Z
+:card-last-reviewed: 2022-08-27T12:44:45.941Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++
@@ -21,11 +21,11 @@
 #+END_SRC
 * 怎样定义一个set？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 31.07
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-26T01:24:05.418Z
-:card-last-reviewed: 2022-07-26T00:24:05.418Z
+:card-last-interval: 4.09
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-08-31T14:27:24.300Z
+:card-last-reviewed: 2022-08-27T12:27:24.300Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++
@@ -33,11 +33,11 @@ set<int> st; //定义一个set，其中的元素类型为int
 #+END_SRC
 * 怎样向set中插入元素？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 28.75
-:card-repeats: 2
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-24T18:30:36.631Z
-:card-last-reviewed: 2022-07-27T00:30:36.631Z
+:card-last-interval: 423.6
+:card-repeats: 3
+:card-ease-factor: 2.7
+:card-next-schedule: 2023-10-22T14:02:01.113Z
+:card-last-reviewed: 2022-08-25T00:02:01.113Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++
@@ -46,11 +46,11 @@ st.insert(6); //插入元素6
 #+END_SRC
 * 怎样获得set的元素个数？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 31.07
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-26T01:45:57.444Z
-:card-last-reviewed: 2022-07-26T00:45:57.444Z
+:card-last-interval: 4.09
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-08-31T14:43:34.949Z
+:card-last-reviewed: 2022-08-27T12:43:34.950Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++
@@ -58,11 +58,11 @@ st.size();//返回set中元素的个数
 #+END_SRC
 * 怎样清空一个set？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 31.07
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-26T01:46:00.446Z
-:card-last-reviewed: 2022-07-26T00:46:00.446Z
+:card-last-interval: 4.09
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-08-31T14:43:38.333Z
+:card-last-reviewed: 2022-08-27T12:43:38.334Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++
@@ -82,11 +82,11 @@ st.empty();//返回set是否为空，若为空返回true否则返回false
 #+END_SRC
 * 怎样删除set中的元素？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 31.07
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-26T01:36:52.950Z
-:card-last-reviewed: 2022-07-26T00:36:52.950Z
+:card-last-interval: 4.09
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-08-31T14:29:34.941Z
+:card-last-reviewed: 2022-08-27T12:29:34.941Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++
@@ -94,11 +94,11 @@ st.erase(6);//清除元素6
 #+END_SRC
 * 怎样查找set中的元素？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 31.07
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-26T01:28:00.265Z
-:card-last-reviewed: 2022-07-26T00:28:00.265Z
+:card-last-interval: 4.09
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-08-31T14:28:42.749Z
+:card-last-reviewed: 2022-08-27T12:28:42.750Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++
@@ -107,11 +107,11 @@ st.count(5);//返回元素5的个数1，由于set元素不会重复，因此coun
 #+END_SRC
 * 怎样使用迭代器遍历set？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 28.75
-:card-repeats: 2
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-25T18:27:07.255Z
-:card-last-reviewed: 2022-07-28T00:27:07.255Z
+:card-last-interval: 423.6
+:card-repeats: 3
+:card-ease-factor: 2.7
+:card-next-schedule: 2023-10-23T13:47:50.095Z
+:card-last-reviewed: 2022-08-25T23:47:50.096Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC  c++

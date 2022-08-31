@@ -1,11 +1,11 @@
 * 迢迢牵牛星 #card #诗词
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-08-16T16:00:00.000Z
-:card-last-reviewed: 2022-08-16T00:37:07.153Z
-:card-last-score: 1
+:card-last-interval: 14.25
+:card-repeats: 3
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-09-04T20:02:51.682Z
+:card-last-reviewed: 2022-08-21T14:02:51.683Z
+:card-last-score: 5
 :END:
 ** 汉·佚名
 ** *迢迢*牵牛星，*皎皎*河汉女。

@@ -10,11 +10,11 @@
 ** 生动形象，有画面感，便于理解。
 * 比喻的恰当 #card #语文
 :PROPERTIES:
-:card-last-interval: 34.18
-:card-repeats: 4
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-08-28T04:15:40.527Z
-:card-last-reviewed: 2022-07-25T00:15:40.530Z
+:card-last-interval: 166.07
+:card-repeats: 5
+:card-ease-factor: 2.66
+:card-next-schedule: 2023-02-11T01:36:35.461Z
+:card-last-reviewed: 2022-08-29T00:36:35.462Z
 :card-last-score: 5
 :END:
 ** 本体和喻体应该有共同点、便于联想；比喻要贴近生活、符合上下文和思想感情。

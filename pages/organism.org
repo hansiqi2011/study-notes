@@ -1,10 +1,10 @@
 * organism #card #词汇积累
 :PROPERTIES:
-:card-last-interval: 10.36
-:card-repeats: 3
-:card-ease-factor: 2.42
-:card-next-schedule: 2022-08-24T21:49:21.774Z
-:card-last-reviewed: 2022-08-14T13:49:21.776Z
+:card-last-interval: 28.17
+:card-repeats: 4
+:card-ease-factor: 2.52
+:card-next-schedule: 2022-09-22T04:03:16.780Z
+:card-last-reviewed: 2022-08-25T00:03:16.780Z
 :card-last-score: 5
 :END:
 ** 释义： {{cloze n.生物；有机体；有机组织；（尤指）微生物}}

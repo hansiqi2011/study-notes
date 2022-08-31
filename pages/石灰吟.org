@@ -1,10 +1,10 @@
 * 石灰吟 #card #诗词
 :PROPERTIES:
-:card-last-interval: 34.8
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-08-19T20:03:00.322Z
-:card-last-reviewed: 2022-07-16T01:03:00.322Z
+:card-last-interval: 119.88
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-12-17T21:24:00.380Z
+:card-last-reviewed: 2022-08-20T00:24:00.382Z
 :card-last-score: 5
 :END:
 ** 明·于谦
