@@ -1,4 +1,4 @@
-* 真分数的定义 #card #数学
+* 真分数(proper fraction)的定义 #card #数学
 :PROPERTIES:
 :card-last-interval: 115.92
 :card-repeats: 5

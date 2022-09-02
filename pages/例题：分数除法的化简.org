@@ -1,0 +1,9 @@
+* $$7\dfrac{4480}{8333} \div \dfrac{21934}{25909} \div 1\dfrac{18556}{35255}$$
+* $$= \dfrac{(7 \times 8333) + 4480 }{8333} \times \dfrac{25909}{21934} \times \dfrac{35255}{18556+35255} $$
+* $$= \dfrac{(7 \times 8333) + 4480 }{13 \times 641} \times \dfrac{13 \times 1993}{11 \times 2 \times 997} \times \dfrac{11 \times 5 \times 641}{18556+35255} $$
+* $$= ((7 \times 8333) + 4480 ) \times \dfrac{1993}{2 \times 997} \times \dfrac{5}{53811} $$
+* $$= ((7 \times 8333) + 4480 ) \times \dfrac{1993}{2 \times 997} \times \dfrac{5}{3\times3\times3\times1993} $$
+* $$= 62811 \times \dfrac{1993}{2 \times 997} \times \dfrac{5}{3\times3\times3\times1993} $$
+* $$=\dfrac{7\times3\times3\times997\times5}{2\times997\times3\times3\times3}$$
+* $$=\dfrac{35}{6}$$
+* 这里题目主要就是分解质因数，消去分子分母相同的因子，这道题计算量大了一些
