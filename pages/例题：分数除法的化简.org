@@ -6,3 +6,4 @@
 * $$= 62811 \times \dfrac{1993}{2 \times 997} \times \dfrac{5}{3\times3\times3\times1993} $$
 * $$=\dfrac{7\times3\times3\times997\times5}{2\times997\times3\times3\times3}$$
 * $$=\dfrac{35}{6}$$
+* 这里题目主要就是分解质因数，消去分子分母相同的因子，这道题计算量大了一些
