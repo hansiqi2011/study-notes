@@ -1,11 +1,11 @@
 * 记承天寺夜游 #card #古文
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.22
-:card-next-schedule: 2022-08-31T12:45:24.599Z
-:card-last-reviewed: 2022-08-27T12:45:24.599Z
-:card-last-score: 3
+:card-last-interval: 9.28
+:card-repeats: 3
+:card-ease-factor: 2.32
+:card-next-schedule: 2022-09-10T05:09:31.686Z
+:card-last-reviewed: 2022-08-31T23:09:31.687Z
+:card-last-score: 5
 :END:
 ** 宋·苏轼
 ** 元丰六年十月十二日夜， {{cloze 解衣欲睡，月色入户，欣然起行}}。念无与为乐者，遂至承天寺寻张怀民。怀民亦未寝，相与步于中庭。 {{cloze 庭下如积水空明，水中藻、荇交横，盖竹柏影也}}。何夜无月？何处无竹柏？ {{cloze 但少闲人如吾两人者耳}}。

@@ -6,3 +6,16 @@
 ** [[STL stack]]
 ** [[STL queue]]
 * [[file:./常用stl算法.org][常用STL算法]]
+* 使用STL的所有功能需要include哪个头文件？ #card
+:PROPERTIES:
+:card-last-interval: 341.31
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2023-08-08T16:14:07.804Z
+:card-last-reviewed: 2022-09-01T09:14:07.805Z
+:card-last-score: 5
+:END:
+** #+BEGIN_SRC c++
+#include <bits/stdc++.h>
+#+END_SRC
+*

@@ -3,8 +3,8 @@
 :card-last-interval: -1
 :card-repeats: 1
 :card-ease-factor: 2.5
-:card-next-schedule: 2022-08-31T16:00:00.000Z
-:card-last-reviewed: 2022-08-30T23:02:27.983Z
+:card-next-schedule: 2022-09-02T16:00:00.000Z
+:card-last-reviewed: 2022-09-01T23:11:38.355Z
 :card-last-score: 1
 :END:
 ** 王维 〔唐代〕

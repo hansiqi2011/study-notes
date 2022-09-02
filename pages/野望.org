@@ -1,11 +1,11 @@
 * 野望 #card #诗词
 :PROPERTIES:
-:card-last-interval: 2.47
+:card-last-interval: 4.87
 :card-repeats: 2
-:card-ease-factor: 2.36
-:card-next-schedule: 2022-08-31T12:00:02.853Z
-:card-last-reviewed: 2022-08-29T01:00:02.854Z
-:card-last-score: 3
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-09-06T19:12:14.539Z
+:card-last-reviewed: 2022-09-01T23:12:14.539Z
+:card-last-score: 5
 :END:
 ** 王绩 〔唐代〕
 ** 东皋（读音： {{cloze gao1}}，释义： {{cloze 高地}}）薄暮望，徙倚欲何依。

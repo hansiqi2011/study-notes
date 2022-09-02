@@ -1,19 +1,19 @@
 * STL vector适用于对象 {{cloze 简单}}，变化 {{cloze 较小}}，并且 {{cloze 频繁随机访问}}的场景  #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 4.09
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-09-01T02:18:54.889Z
-:card-last-reviewed: 2022-08-28T00:18:54.891Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-12T13:23:47.861Z
+:card-last-reviewed: 2022-09-01T09:23:47.861Z
 :card-last-score: 5
 :END:
 * 使用STL vector应该include那个头文件？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 4.09
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-08-31T14:43:59.050Z
-:card-last-reviewed: 2022-08-27T12:43:59.050Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-12T13:21:12.738Z
+:card-last-reviewed: 2022-09-01T09:21:12.739Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++
@@ -37,11 +37,11 @@ vector<int> v2(v1);//用v1给v2赋值，v1的类型为vector<int>
 #+END_SRC
 * 怎样定义一个二维vector? #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 4.09
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-08-31T14:26:41.317Z
-:card-last-reviewed: 2022-08-27T12:26:41.317Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-12T03:10:55.697Z
+:card-last-reviewed: 2022-08-31T23:10:55.698Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC
@@ -49,11 +49,11 @@ vector<vector<int> > vec; //注意：在某些环境中> >之间要加空格
 #+END_SRC
 * 怎样操作vector尾部的元素？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 4.09
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-08-31T14:27:19.415Z
-:card-last-reviewed: 2022-08-27T12:27:19.415Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-12T03:11:37.511Z
+:card-last-reviewed: 2022-08-31T23:11:37.511Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++
@@ -77,11 +77,11 @@ v.back(); // 3
 #+END_SRC
 * 怎样访问vector指定位置的元素？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 4.09
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-08-31T14:29:19.191Z
-:card-last-reviewed: 2022-08-27T12:29:19.192Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-12T03:12:38.088Z
+:card-last-reviewed: 2022-08-31T23:12:38.089Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++
@@ -91,11 +91,11 @@ v.at(2); // 3
 #+END_SRC
 * 怎样获得vector的元素个数？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 4.09
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-08-31T14:28:57.365Z
-:card-last-reviewed: 2022-08-27T12:28:57.366Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-12T03:12:31.365Z
+:card-last-reviewed: 2022-08-31T23:12:31.365Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++
@@ -103,11 +103,11 @@ v.size(); //返回vector中元素的个数
 #+END_SRC
 * 怎样判断vector是否为空？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 4.09
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-08-31T14:29:27.734Z
-:card-last-reviewed: 2022-08-27T12:29:27.734Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-12T03:12:41.578Z
+:card-last-reviewed: 2022-08-31T23:12:41.579Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++
@@ -115,11 +115,11 @@ v.empty(); //返回vector是否为空，若为空则返回true否则返回false
 #+END_SRC
 * 怎样清空一个vector？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 4.09
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-08-31T14:25:14.261Z
-:card-last-reviewed: 2022-08-27T12:25:14.261Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-12T03:10:28.515Z
+:card-last-reviewed: 2022-08-31T23:10:28.516Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++
@@ -139,11 +139,11 @@ v.insert(v.begin(), 1);//在迭代器it所指向的位置前插入元素1，返�
 #+END_SRC
 * 怎样删除vector中的某些元素？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 4.09
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-08-31T14:44:22.105Z
-:card-last-reviewed: 2022-08-27T12:44:22.106Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-12T13:22:02.651Z
+:card-last-reviewed: 2022-09-01T09:22:02.652Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++
@@ -165,11 +165,11 @@ for (int i = 0; i < v.size(); i++)
 #+END_SRC
 * 怎样使用迭代器遍历vector？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 4.09
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-08-31T14:40:39.861Z
-:card-last-reviewed: 2022-08-27T12:40:39.862Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-12T13:18:20.322Z
+:card-last-reviewed: 2022-09-01T09:18:20.323Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC  c++

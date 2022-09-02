@@ -9,11 +9,11 @@
 :END:
 * 使用STL set应该include哪个头文件？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 4.09
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-08-31T14:44:45.941Z
-:card-last-reviewed: 2022-08-27T12:44:45.941Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-12T13:23:04.011Z
+:card-last-reviewed: 2022-09-01T09:23:04.012Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++
@@ -21,11 +21,11 @@
 #+END_SRC
 * 怎样定义一个set？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 4.09
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-08-31T14:27:24.300Z
-:card-last-reviewed: 2022-08-27T12:27:24.300Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-12T03:11:48.700Z
+:card-last-reviewed: 2022-08-31T23:11:48.700Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++
@@ -46,11 +46,11 @@ st.insert(6); //插入元素6
 #+END_SRC
 * 怎样获得set的元素个数？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 4.09
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-08-31T14:43:34.949Z
-:card-last-reviewed: 2022-08-27T12:43:34.950Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-12T13:21:02.161Z
+:card-last-reviewed: 2022-09-01T09:21:02.161Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++
@@ -58,11 +58,11 @@ st.size();//返回set中元素的个数
 #+END_SRC
 * 怎样清空一个set？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 4.09
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-08-31T14:43:38.333Z
-:card-last-reviewed: 2022-08-27T12:43:38.334Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-12T13:21:03.962Z
+:card-last-reviewed: 2022-09-01T09:21:03.962Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++
@@ -82,11 +82,11 @@ st.empty();//返回set是否为空，若为空返回true否则返回false
 #+END_SRC
 * 怎样删除set中的元素？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 4.09
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-08-31T14:29:34.941Z
-:card-last-reviewed: 2022-08-27T12:29:34.941Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-12T03:12:46.438Z
+:card-last-reviewed: 2022-08-31T23:12:46.438Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++
@@ -94,11 +94,11 @@ st.erase(6);//清除元素6
 #+END_SRC
 * 怎样查找set中的元素？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 4.09
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-08-31T14:28:42.749Z
-:card-last-reviewed: 2022-08-27T12:28:42.750Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-12T03:12:12.593Z
+:card-last-reviewed: 2022-08-31T23:12:12.594Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++

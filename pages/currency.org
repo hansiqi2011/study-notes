@@ -1,11 +1,11 @@
 * currency #card #词汇积累
 :PROPERTIES:
-:card-last-interval: 4.87
-:card-repeats: 2
-:card-ease-factor: 2.46
-:card-next-schedule: 2022-09-01T08:50:07.290Z
-:card-last-reviewed: 2022-08-27T12:50:07.290Z
-:card-last-score: 3
+:card-last-interval: 13.87
+:card-repeats: 3
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-09-15T05:24:30.425Z
+:card-last-reviewed: 2022-09-01T09:24:30.425Z
+:card-last-score: 5
 :END:
 ** 释义： {{cloze n.货币；通货；通用；流行}}
 ** 读音： {{cloze 'kʌrənsi}}

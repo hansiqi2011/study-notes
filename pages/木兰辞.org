@@ -1,10 +1,10 @@
 * 木兰辞 #card #古文 #诗词
 :PROPERTIES:
-:card-last-interval: 4.09
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-08-31T14:42:48.748Z
-:card-last-reviewed: 2022-08-27T12:42:48.749Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-12T13:19:52.118Z
+:card-last-reviewed: 2022-09-01T09:19:52.118Z
 :card-last-score: 5
 :END:
 ** 乐府诗集 〔南北朝〕
