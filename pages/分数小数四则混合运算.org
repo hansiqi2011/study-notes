@@ -1,4 +1,12 @@
 * 分数、小数互化的一般原则 #card #数学
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-09-04T16:00:00.000Z
+:card-last-reviewed: 2022-09-04T13:37:54.290Z
+:card-last-score: 1
+:END:
 ** 分数能够化成*有限小数*的，化成小数计算比较方便
 ** 分数不能化成有限小数的，则把小数化成分数再计算
 * 常用互化分数、小数 #card #数学

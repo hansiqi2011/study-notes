@@ -1,4 +1,12 @@
 * 什么是假分数(improper fraction)？ #card #数学
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-09-08T13:29:15.676Z
+:card-last-reviewed: 2022-09-04T13:29:15.676Z
+:card-last-score: 5
+:END:
 ** 分子^^大于或者等于^^分母的分数叫假分数，假分数大于或等于1
 * 假分数和[[真分数]]相对
 * 一个正整数和一个真分数合并成的分数叫做带分数（Mixed Fraction）

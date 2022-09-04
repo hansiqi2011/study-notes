@@ -1,6 +1,14 @@
 * 什么是单位分数？#card #数学
 ** 分子是1，分母是正整数的分数叫做单位分数，记作 $\dfrac{1}{n}$
 * 如何将$\dfrac{1}{n}$拆分成两个单位分数的和？ #card #数学
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-09-04T16:00:00.000Z
+:card-last-reviewed: 2022-09-04T13:35:07.269Z
+:card-last-score: 1
+:END:
 ** 1. 写出n的约数n_1, n_2, n_3, \dots ，选出两个约数n_1, n_2
 2. $\dfrac{1}{n}$分子分母同时乘以(n1+n2)，即$\dfrac{1}{n} = \dfrac{n_1+n_2}{n(n_1+n_2)}$
 3. 拆成两个分数之和: $\dfrac{1}{n} = \dfrac{n_1}{n(n_1+n_2)} + \dfrac{n_2}{n(n_1+n_2)}$
