@@ -145,3 +145,10 @@ Eh? Didn't Mary get on the same bus with you? But she {{cloze was able to}} get 
 :END:
 ** The experiment {{cloze proved}}(prove) to be successful. We were very happy. #card #英语 #错题
 ** Say would *rather* {{cloze stay}}(stay) at home than {{cloze go}}(go) out to play. #card #英语 #错题
+* NCE2 Lesson 95
+** These kids had a wonderful time during the three-day winter camp.
+These kids {{cloze enjoyed themselves}} during the three-day winter camp.
+** The kids reviewed the story several times before they gave the performance.
+The kids {{cloze went over}} the story several times before they gave the performance.
+** They wash the buses of the company twice a week.(改为被动语态)
+The buses of the company {{cloze are washed}} twice a day.
