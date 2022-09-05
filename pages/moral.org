@@ -1,11 +1,11 @@
 * moral #card #词汇积累
 :PROPERTIES:
-:card-last-interval: 10.13
-:card-repeats: 3
-:card-ease-factor: 2.46
-:card-next-schedule: 2022-09-03T02:33:25.143Z
-:card-last-reviewed: 2022-08-23T23:33:25.144Z
-:card-last-score: 3
+:card-last-interval: 26.21
+:card-repeats: 4
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-10-01T04:16:06.712Z
+:card-last-reviewed: 2022-09-04T23:16:06.713Z
+:card-last-score: 5
 :END:
 ** 释义： {{cloze n.道德；adj.道德的}}
 :PROPERTIES:

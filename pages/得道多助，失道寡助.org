@@ -1,3 +1,11 @@
 * 得道多助，失道寡助 #card #古文
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-09-05T16:00:00.000Z
+:card-last-reviewed: 2022-09-04T23:08:39.944Z
+:card-last-score: 1
+:END:
 ** 孟子〔先秦〕
 ** {{cloze 天时不如地利，地利不如人和}}。三里之城，七里之郭，环而攻之而不胜。夫环而攻之，必有得天时者矣，然而不胜者， {{cloze 是天时不如地利也}}。城 {{cloze 非不高也}}，池 {{cloze 非不深也}}，兵革 {{cloze 非不坚利也}}，米粟 {{cloze 非不多也}}，委而去之， {{cloze 是地利不如人和也}}。故曰： {{cloze 域民不以封疆之界，固国不以山溪之险，威天下不以兵革之利}}。 {{cloze 得道者多助，失道者寡助}}。寡助之至，亲戚畔之；多助之至，天下顺之。 {{cloze 以天下之所顺，攻亲戚之所畔，故君子有不战，战必胜矣}}。

@@ -18,11 +18,11 @@
 :END:
 * 若素数$p \mid ab$，则必有 {{cloze p | a或p | b}}。 #card #数学 #整除
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-09-03T23:02:30.673Z
-:card-last-reviewed: 2022-08-30T23:02:30.674Z
+:card-last-interval: 11.6
+:card-repeats: 3
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-09-16T13:16:35.299Z
+:card-last-reviewed: 2022-09-04T23:16:35.299Z
 :card-last-score: 5
 :END:
 * 若正整数$a$、$b$的积是素数$p$，则必有 {{cloze a = p或b = p}} #card #数学

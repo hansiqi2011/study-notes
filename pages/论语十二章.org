@@ -47,11 +47,11 @@
 :END:
 ** 子曰：“贤哉，回也！ {{cloze 一箪食，一瓢饮，在陋巷，人不堪其忧，回也不改其乐}}。贤哉，回也！”《雍也》 #card
 :PROPERTIES:
-:card-last-interval: 36.59
-:card-repeats: 4
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-09-02T14:30:02.582Z
-:card-last-reviewed: 2022-07-28T00:30:02.583Z
+:card-last-interval: 75.28
+:card-repeats: 5
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-11-19T05:13:17.079Z
+:card-last-reviewed: 2022-09-04T23:13:17.079Z
 :card-last-score: 5
 :END:
 ** 子曰：“知之者 {{cloze 不如好之者}}，好之者 {{cloze 不如乐之者}}。”《雍也》 #card
@@ -101,11 +101,11 @@
 :END:
 ** 子夏曰：“ {{cloze 博学而笃志，切问而近思}}，仁在其中矣。”《子张》 #card
 :PROPERTIES:
-:card-last-interval: 36.59
-:card-repeats: 4
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-09-03T14:27:57.937Z
-:card-last-reviewed: 2022-07-29T00:27:57.938Z
+:card-last-interval: 75.28
+:card-repeats: 5
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-11-19T05:16:26.991Z
+:card-last-reviewed: 2022-09-04T23:16:26.992Z
 :card-last-score: 5
 :END:
 *

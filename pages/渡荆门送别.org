@@ -3,8 +3,8 @@
 :card-last-interval: -1
 :card-repeats: 1
 :card-ease-factor: 2.5
-:card-next-schedule: 2022-09-02T16:00:00.000Z
-:card-last-reviewed: 2022-09-01T23:13:22.666Z
+:card-next-schedule: 2022-09-05T16:00:00.000Z
+:card-last-reviewed: 2022-09-04T23:13:41.754Z
 :card-last-score: 1
 :END:
 ** 李白 〔唐代〕

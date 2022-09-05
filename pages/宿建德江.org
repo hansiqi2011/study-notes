@@ -1,11 +1,11 @@
 * 宿建德江 #card #诗词
 :PROPERTIES:
-:card-last-interval: 10.88
-:card-repeats: 3
-:card-ease-factor: 2.72
-:card-next-schedule: 2022-09-02T20:40:30.914Z
-:card-last-reviewed: 2022-08-22T23:40:30.917Z
-:card-last-score: 5
+:card-last-interval: 26.63
+:card-repeats: 4
+:card-ease-factor: 2.58
+:card-next-schedule: 2022-10-01T14:14:45.454Z
+:card-last-reviewed: 2022-09-04T23:14:45.455Z
+:card-last-score: 3
 :END:
 ** 唐·[[孟浩然]]
 ** 移舟泊烟渚（zhu3，释义： {{cloze 小洲}}），日暮客愁新。
