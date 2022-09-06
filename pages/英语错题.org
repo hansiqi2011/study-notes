@@ -1,12 +1,12 @@
 * NCE2 Lesson 79
 ** 对某事感到害怕 {{cloze be frightened at something}}  #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.5
-:card-next-schedule: 2022-09-05T16:00:00.000Z
-:card-last-reviewed: 2022-09-04T23:10:00.715Z
-:card-last-score: 1
+:card-last-interval: 341.31
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2023-08-13T06:13:48.039Z
+:card-last-reviewed: 2022-09-05T23:13:48.040Z
+:card-last-score: 5
 :END:
 ** Wood {{cloze is used to}}(use) make paper.  #card #英语 #错题
 :PROPERTIES:
@@ -148,12 +148,12 @@
 :END:
 ** Fishermen claim to have seen monsters. They {{cloze state}} that they have.  #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.5
-:card-next-schedule: 2022-09-04T16:00:00.000Z
-:card-last-reviewed: 2022-09-04T13:34:22.845Z
-:card-last-score: 1
+:card-last-interval: 341.31
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2023-08-13T06:08:02.856Z
+:card-last-reviewed: 2022-09-05T23:08:02.856Z
+:card-last-score: 5
 :END:
 * NCE2 Lesson 83
 ** He has been an opponent. He has been opposed {{cloze to}} it. #card #英语 #错题
@@ -178,12 +178,12 @@
 * NCE2 Lesson 85
 ** mark the occasion {{cloze 纪念某个时刻}}  #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.5
-:card-next-schedule: 2022-09-04T16:00:00.000Z
-:card-last-reviewed: 2022-09-04T13:36:05.525Z
-:card-last-score: 1
+:card-last-interval: 341.31
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2023-08-13T06:09:12.738Z
+:card-last-reviewed: 2022-09-05T23:09:12.738Z
+:card-last-score: 5
 :END:
 ** 通知某人某事 {{cloze inform somebody of something}}  #card #英语 #错题
 :PROPERTIES:
@@ -217,8 +217,8 @@
 :card-last-interval: -1
 :card-repeats: 1
 :card-ease-factor: 2.5
-:card-next-schedule: 2022-09-05T16:00:00.000Z
-:card-last-reviewed: 2022-09-04T23:09:50.678Z
+:card-next-schedule: 2022-09-06T16:00:00.000Z
+:card-last-reviewed: 2022-09-05T23:13:41.583Z
 :card-last-score: 1
 :END:
 * NCE2 Lesson 86
@@ -233,40 +233,40 @@
 :END:
 ** There are many {{cloze women designers}}(女设计师) in our company. #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.5
-:card-next-schedule: 2022-09-04T16:00:00.000Z
-:card-last-reviewed: 2022-09-04T13:33:15.778Z
-:card-last-score: 1
+:card-last-interval: 341.31
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2023-08-13T06:07:34.094Z
+:card-last-reviewed: 2022-09-05T23:07:34.094Z
+:card-last-score: 5
 :END:
 ** The teacher gave us {{cloze a piece of advice}} on how to protect ourselves online. #card #英语 #错题
 :PROPERTIES:
 :card-last-interval: -1
 :card-repeats: 1
 :card-ease-factor: 2.5
-:card-next-schedule: 2022-09-04T16:00:00.000Z
-:card-last-reviewed: 2022-09-04T13:33:56.360Z
+:card-next-schedule: 2022-09-06T16:00:00.000Z
+:card-last-reviewed: 2022-09-05T23:07:46.832Z
 :card-last-score: 1
 :END:
 * NCE2 Lesson 87
 ** 自杀 {{cloze commit suicide}}  #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.5
-:card-next-schedule: 2022-09-04T16:00:00.000Z
-:card-last-reviewed: 2022-09-04T13:35:31.447Z
-:card-last-score: 1
+:card-last-interval: 341.31
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2023-08-13T06:08:34.850Z
+:card-last-reviewed: 2022-09-05T23:08:34.851Z
+:card-last-score: 5
 :END:
 ** My employer will {{cloze certify}} that I was there on time. #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.5
-:card-next-schedule: 2022-09-04T16:00:00.000Z
-:card-last-reviewed: 2022-09-04T13:36:36.060Z
-:card-last-score: 1
+:card-last-interval: 341.31
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2023-08-13T06:09:18.454Z
+:card-last-reviewed: 2022-09-05T23:09:18.455Z
+:card-last-score: 5
 :END:
 ** And you didn't notice anything unusual? {{cloze Certainly}} not. #card #英语 #错题
 :PROPERTIES:
@@ -300,21 +300,21 @@ He asked his mother {{cloze how she had}} found it.
 There is no need. He {{cloze has woke}}(wake) up.
 ** Without the internet, life {{cloze would be}}(be) quite different nowadays. #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.5
-:card-next-schedule: 2022-09-04T16:00:00.000Z
-:card-last-reviewed: 2022-09-04T13:33:25.804Z
-:card-last-score: 1
+:card-last-interval: 341.31
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2023-08-13T06:07:36.632Z
+:card-last-reviewed: 2022-09-05T23:07:36.632Z
+:card-last-score: 5
 :END:
 ** Without your help, we would {{cloze not have made}}(not make) such rapid progress.  #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.5
-:card-next-schedule: 2022-09-04T16:00:00.000Z
-:card-last-reviewed: 2022-09-04T13:33:38.455Z
-:card-last-score: 1
+:card-last-interval: 341.31
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2023-08-13T06:07:46.377Z
+:card-last-reviewed: 2022-09-05T23:07:46.377Z
+:card-last-score: 5
 :END:
 ** The children are beginning {{cloze to develop}}(develop) sense of responsibility.  #card #英语 #错题
 :PROPERTIES:
@@ -355,12 +355,12 @@ There is no need. He {{cloze has woke}}(wake) up.
 :END:
 ** 来来回回  {{cloze up and down}} #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.5
-:card-next-schedule: 2022-09-05T16:00:00.000Z
-:card-last-reviewed: 2022-09-04T23:10:55.979Z
-:card-last-score: 1
+:card-last-interval: 341.31
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2023-08-13T06:14:10.155Z
+:card-last-reviewed: 2022-09-05T23:14:10.155Z
+:card-last-score: 5
 :END:
 ** 在值班、值日 {{cloze on duty}} #card #英语 #错题
 :PROPERTIES:
@@ -393,22 +393,22 @@ Nobody! She taught {{cloze herself}}.  #card #英语 #错题
 :END:
 ** 无意中撞到、碰到 {{cloze bump into}}  #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.5
-:card-next-schedule: 2022-09-05T16:00:00.000Z
-:card-last-reviewed: 2022-09-04T23:08:58.735Z
-:card-last-score: 1
+:card-last-interval: 341.31
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2023-08-13T06:13:35.212Z
+:card-last-reviewed: 2022-09-05T23:13:35.213Z
+:card-last-score: 5
 :END:
 * NCE2 L91
 ** They teach each scout how to survive in difficult environments. (改为被动语态)  #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.5
-:card-next-schedule: 2022-09-04T16:00:00.000Z
-:card-last-reviewed: 2022-09-04T13:35:53.010Z
-:card-last-score: 1
+:card-last-interval: 341.31
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2023-08-13T06:09:02.708Z
+:card-last-reviewed: 2022-09-05T23:09:02.708Z
+:card-last-score: 5
 :END:
 Each scout {{cloze is taught}} how to survive in difficult environments.
 * NCE2 Lesson 91
@@ -498,12 +498,12 @@ Eh? Didn't Mary get on the same bus with you? But she {{cloze was able to}} get 
 :END:
 ** Say would *rather* {{cloze stay}}(stay) at home than {{cloze go}}(go) out to play. #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.5
-:card-next-schedule: 2022-09-04T16:00:00.000Z
-:card-last-reviewed: 2022-09-04T13:35:21.495Z
-:card-last-score: 1
+:card-last-interval: 341.31
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2023-08-13T06:08:32.458Z
+:card-last-reviewed: 2022-09-05T23:08:32.458Z
+:card-last-score: 5
 :END:
 * NCE2 Lesson 95
 ** These kids had a wonderful time during the three-day winter camp.

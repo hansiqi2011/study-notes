@@ -1,11 +1,11 @@
 * evidence #card #词汇积累
 :PROPERTIES:
-:card-last-interval: 32.92
-:card-repeats: 2
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-04T22:24:20.282Z
-:card-last-reviewed: 2022-08-03T00:24:20.282Z
-:card-last-score: 5
+:card-last-interval: 10.86
+:card-repeats: 3
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-09-16T19:10:17.771Z
+:card-last-reviewed: 2022-09-05T23:10:17.771Z
+:card-last-score: 3
 :END:
 ** 释义： {{cloze n.证据；证明；物证；根据/v.证明；表明；作为…的证据}}
 ** 读音： {{cloze ˈevɪd(ə)ns}}

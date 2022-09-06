@@ -1,11 +1,11 @@
 * 渡荆门送别 #card #诗词
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.5
-:card-next-schedule: 2022-09-05T16:00:00.000Z
-:card-last-reviewed: 2022-09-04T23:13:41.754Z
-:card-last-score: 1
+:card-last-interval: 341.31
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2023-08-13T06:12:19.051Z
+:card-last-reviewed: 2022-09-05T23:12:19.051Z
+:card-last-score: 5
 :END:
 ** 李白 〔唐代〕
 ** 渡远荆门外，来从楚国游。

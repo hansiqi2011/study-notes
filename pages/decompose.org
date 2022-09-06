@@ -1,10 +1,10 @@
 * decompose #card #词汇积累
 :PROPERTIES:
-:card-last-interval: 15.05
-:card-repeats: 4
-:card-ease-factor: 1.94
-:card-next-schedule: 2022-09-05T14:58:02.873Z
-:card-last-reviewed: 2022-08-21T13:58:02.874Z
+:card-last-interval: 23.33
+:card-repeats: 5
+:card-ease-factor: 1.8
+:card-next-schedule: 2022-09-29T06:11:27.254Z
+:card-last-reviewed: 2022-09-05T23:11:27.254Z
 :card-last-score: 3
 :END:
 ** 释义： {{cloze v.分解；(使)分解；(使)腐烂；衰变}}

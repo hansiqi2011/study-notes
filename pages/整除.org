@@ -166,6 +166,15 @@
 :card-last-reviewed: 2022-08-20T00:18:39.530Z
 :card-last-score: 5
 :END:
+** 若一个整数的 {{cloze 末三位与末三位之前的数的差能被7，11或13整除}}，则这个数能够被7，11或13整除  #card #数学
+:PROPERTIES:
+:card-last-interval: 341.31
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2023-08-13T06:07:32.066Z
+:card-last-reviewed: 2022-09-05T23:07:32.067Z
+:card-last-score: 5
+:END:
 ** 若一个整数 {{cloze 能被3和4整除}}，则这个数能被12整除  #card #数学
 :PROPERTIES:
 :card-last-interval: 42.76

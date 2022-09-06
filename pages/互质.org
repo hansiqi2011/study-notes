@@ -1,4 +1,4 @@
-* *互质*的定义 #card
+* *互质*的定义 #card #数学
 :PROPERTIES:
 :card-last-interval: 115.92
 :card-repeats: 5

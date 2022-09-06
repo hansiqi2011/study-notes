@@ -1,0 +1,11 @@
+* 常用分数应用题建模
+** 求a的$\dfrac{p}{q}$是多少如何建模？ #card #数学
+*** 建模成$$ a \times \dfrac{p}{q} $$
+** 已知一个数的$\dfrac{p}{q}$是a，这个数是多少？如何建模？ #card #数学
+*** 建模成$$ a \div \dfrac{p}{q} $$
+** 求a是b的几分之几或者a占b的几分之几，如何建模？ #card #数学
+*** 建模成$\dfrac{a}{b}$
+** 求a比b多几分之几，如何建模？ #card #数学
+*** 建模成$(a-b) \div b = \dfrac{a-b}{b}$
+** 求a比b少几分之几，如何建模？ #card #数学
+*** 建模成 $(b-a) \div b = \dfrac{b-a}{a}$
