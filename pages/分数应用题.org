@@ -1,11 +1,51 @@
 * 常用分数应用题建模
 ** 求a的$\dfrac{p}{q}$是多少如何建模？ #card #数学
+:PROPERTIES:
+:card-last-interval: 305.47
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2023-07-09T10:03:56.329Z
+:card-last-reviewed: 2022-09-06T23:03:56.330Z
+:card-last-score: 5
+:END:
 *** 建模成$$ a \times \dfrac{p}{q} $$
 ** 已知一个数的$\dfrac{p}{q}$是a，这个数是多少？如何建模？ #card #数学
+:PROPERTIES:
+:card-last-interval: 305.47
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2023-07-09T10:04:02.418Z
+:card-last-reviewed: 2022-09-06T23:04:02.418Z
+:card-last-score: 5
+:END:
 *** 建模成$$ a \div \dfrac{p}{q} $$
 ** 求a是b的几分之几或者a占b的几分之几，如何建模？ #card #数学
+:PROPERTIES:
+:card-last-interval: 305.47
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2023-07-09T10:04:32.445Z
+:card-last-reviewed: 2022-09-06T23:04:32.445Z
+:card-last-score: 5
+:END:
 *** 建模成$\dfrac{a}{b}$
 ** 求a比b多几分之几，如何建模？ #card #数学
+:PROPERTIES:
+:card-last-interval: 305.47
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2023-07-09T10:04:47.027Z
+:card-last-reviewed: 2022-09-06T23:04:47.028Z
+:card-last-score: 5
+:END:
 *** 建模成$(a-b) \div b = \dfrac{a-b}{b}$
 ** 求a比b少几分之几，如何建模？ #card #数学
+:PROPERTIES:
+:card-last-interval: 305.47
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2023-07-09T10:05:43.445Z
+:card-last-reviewed: 2022-09-06T23:05:43.445Z
+:card-last-score: 5
+:END:
 *** 建模成 $(b-a) \div b = \dfrac{b-a}{a}$

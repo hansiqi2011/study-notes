@@ -46,6 +46,14 @@
 ** $x=p_1^{r_1} \times p_2^{r_2} \times p_3^{r_3} \times ... \times p_n^{r_n}$
 ** 其中$p_1<p_2<p_3<...<p_n$都是素数，$r_1,r_2,r_3,...,r_n$都是正整数。
 * 合数的约数个数与约数和公式 #card #数学
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-09-07T16:00:00.000Z
+:card-last-reviewed: 2022-09-06T23:06:22.711Z
+:card-last-score: 1
+:END:
 ** 对于大于1的正整数n，分解素因数$n= \prod_{i=1}^kp_i^{a_i} = p_1^{a_1} \cdot p_2^{a_2} \dots p_k^{a_k}$
 ** n的正约数的个数为：$\prod_{i=1}^{k}(a_i+1) = (a_1+1)(a_2+1) \dots (a_k+1)$
 ** n的正约数的和为：$(1+p_1+p_1^2+ \dots + p_1^{a_1})(1+p_2+p_2^2+ \dots + p_x^{a_2}) \dots (1+p_k+p_k^2+ \dots + p_k^{a_k})$

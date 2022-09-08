@@ -38,8 +38,24 @@
 *** 例如 $\dfrac{1}{5\times7} + \dfrac{1}{7\times9} + \dots + \dfrac{1}{13\times15} = \dfrac{1}{2} (\dfrac{1}{5} - \dfrac{1}{15}) = \dfrac{1}{15}$
 *** 更多细节，参见 ((630eca2f-16e3-443c-bb3a-94a46f9451fb))
 ** $\dfrac{1}{a \times b}(a<b)$如何裂项？ #card #数学
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-09-07T16:00:00.000Z
+:card-last-reviewed: 2022-09-06T23:07:43.904Z
+:card-last-score: 1
+:END:
 *** $\dfrac{1}{a \times b} = \dfrac{1}{b-a}(\dfrac{1}{a} - \dfrac{1}{b})，特例\dfrac{1}{n \times (n+1)} = (\dfrac{1}{n} - \dfrac{1}{n+1})$
 ** “裂和”型计算 #card #数学
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-09-07T16:00:00.000Z
+:card-last-reviewed: 2022-09-06T23:08:23.507Z
+:card-last-score: 1
+:END:
 *** $\dfrac{a+b}{a \times b} = \dfrac{a}{ab} + \dfrac{b}{ab} = \dfrac{1}{a} + \dfrac{1}{b}$
 *** $\dfrac{a^2+b^2}{a \times b} = \dfrac{a^2}{ab} + \dfrac{b^2}{ab} = \dfrac{b}{a} + \dfrac{a}{b}$
 ** 延伸阅读
