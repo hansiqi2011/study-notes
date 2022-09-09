@@ -10,11 +10,11 @@
 * 循环小数化为分数的技巧
 ** 纯循环小数化为分数 #card #数学
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-08T13:30:22.218Z
-:card-last-reviewed: 2022-09-04T13:30:22.219Z
+:card-last-interval: 4.38
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-12T22:47:26.514Z
+:card-last-reviewed: 2022-09-08T13:47:26.515Z
 :card-last-score: 5
 :END:
 *** 例如$$0.\dot{a} = \dfrac{a}{9}，注意0.\dot{9}=1$$
@@ -22,11 +22,11 @@
 *** 例如$$0.\dot{a}b\dot{c} = \dfrac{abc}{999}，例如0.\dot{2}0\dot{6} = \dfrac{206}{999}$$
 ** 混循环小数化为分数 #card #数学
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-08T13:32:50.856Z
-:card-last-reviewed: 2022-09-04T13:32:50.857Z
+:card-last-interval: 4.38
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-12T22:48:25.853Z
+:card-last-reviewed: 2022-09-08T13:48:25.853Z
 :card-last-score: 5
 :END:
 *** 例如$$0.a\dot{b}\dot{c} = \dfrac{abc-a}{990}，最后化简$$

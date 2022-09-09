@@ -3,8 +3,8 @@
 :card-last-interval: -1
 :card-repeats: 1
 :card-ease-factor: 2.5
-:card-next-schedule: 2022-09-06T16:00:00.000Z
-:card-last-reviewed: 2022-09-05T23:09:47.635Z
+:card-next-schedule: 2022-09-09T16:00:00.000Z
+:card-last-reviewed: 2022-09-08T23:10:02.234Z
 :card-last-score: 1
 :END:
 ** 白居易〔唐代〕

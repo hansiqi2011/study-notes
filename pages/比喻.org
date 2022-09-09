@@ -1,10 +1,10 @@
 * 比喻的表达效果 #card #语文
 :PROPERTIES:
-:card-last-interval: 36.08
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-09-07T01:13:56.785Z
-:card-last-reviewed: 2022-08-02T00:13:56.786Z
+:card-last-interval: 133.31
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2023-01-19T20:40:45.101Z
+:card-last-reviewed: 2022-09-08T13:40:45.102Z
 :card-last-score: 5
 :END:
 ** 生动形象，有画面感，便于理解。
@@ -20,11 +20,11 @@
 ** 本体和喻体应该有共同点、便于联想；比喻要贴近生活、符合上下文和思想感情。
 * 怎样写出恰当的比喻 #card #语文
 :PROPERTIES:
-:card-last-interval: 36.08
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-09-07T01:13:51.688Z
-:card-last-reviewed: 2022-08-02T00:13:51.689Z
-:card-last-score: 5
+:card-last-interval: 86.58
+:card-repeats: 5
+:card-ease-factor: 2.76
+:card-next-schedule: 2022-12-04T02:40:41.085Z
+:card-last-reviewed: 2022-09-08T13:40:41.085Z
+:card-last-score: 3
 :END:
 ** 经常观察事物、积累语言。

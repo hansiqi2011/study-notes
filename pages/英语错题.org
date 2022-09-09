@@ -20,66 +20,66 @@
 * NCE2 Lesson 80
 ** 多种多样的 {{cloze a variety of}}  #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-08T13:39:47.051Z
-:card-last-reviewed: 2022-09-04T13:39:47.051Z
+:card-last-interval: 4.38
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-12T22:50:20.094Z
+:card-last-reviewed: 2022-09-08T13:50:20.094Z
 :card-last-score: 5
 :END:
 * NCE2 Lesson 81
 ** 越狱 {{cloze break prison}}  #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-08T13:35:38.665Z
-:card-last-reviewed: 2022-09-04T13:35:38.665Z
+:card-last-interval: 4.38
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-12T22:48:56.511Z
+:card-last-reviewed: 2022-09-08T13:48:56.511Z
 :card-last-score: 5
 :END:
 ** 某人做某事很大胆 {{cloze it's bold of sb. to do sth.}}  #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-08T13:36:00.140Z
-:card-last-reviewed: 2022-09-04T13:36:00.141Z
+:card-last-interval: 4.38
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-12T22:49:01.180Z
+:card-last-reviewed: 2022-09-08T13:49:01.180Z
 :card-last-score: 5
 :END:
 ** French differs {{cloze from}} English in many aspects.  #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-08T13:36:12.479Z
-:card-last-reviewed: 2022-09-04T13:36:12.479Z
+:card-last-interval: 4.38
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-12T22:49:07.569Z
+:card-last-reviewed: 2022-09-08T13:49:07.570Z
 :card-last-score: 5
 :END:
 ** Many people object {{cloze to}} doing experiments on animals.  #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-08T13:36:54.743Z
-:card-last-reviewed: 2022-09-04T13:36:54.744Z
+:card-last-interval: 4.38
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-12T22:49:17.964Z
+:card-last-reviewed: 2022-09-08T13:49:17.964Z
 :card-last-score: 5
 :END:
 ** The boy was to blame {{cloze for}} breaking the neighbor's window.  #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-08T13:37:17.379Z
-:card-last-reviewed: 2022-09-04T13:37:17.380Z
+:card-last-interval: 4.38
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-12T22:49:34.412Z
+:card-last-reviewed: 2022-09-08T13:49:34.412Z
 :card-last-score: 5
 :END:
 ** Alan has always been very keen {{cloze on}} swimming and running.  #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-08T13:37:26.222Z
-:card-last-reviewed: 2022-09-04T13:37:26.222Z
+:card-last-interval: 4.38
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-13T08:08:23.266Z
+:card-last-reviewed: 2022-09-08T23:08:23.266Z
 :card-last-score: 5
 :END:
 * NCE2 Lesson 82
@@ -94,29 +94,29 @@
 :END:
 ** 远视 {{cloze far sighted/long sighted}}  #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-08T13:29:09.551Z
-:card-last-reviewed: 2022-09-04T13:29:09.552Z
+:card-last-interval: 4.38
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-12T22:46:21.692Z
+:card-last-reviewed: 2022-09-08T13:46:21.693Z
 :card-last-score: 5
 :END:
 ** 在……的深度 {{cloze at a depth of}}  #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-08T13:29:25.802Z
-:card-last-reviewed: 2022-09-04T13:29:25.803Z
+:card-last-interval: 4.38
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-12T22:46:35.044Z
+:card-last-reviewed: 2022-09-08T13:46:35.045Z
 :card-last-score: 5
 :END:
 ** the laboring people {{cloze 劳动人民}}  #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-08T13:30:46.735Z
-:card-last-reviewed: 2022-09-04T13:30:46.735Z
+:card-last-interval: 4.38
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-12T22:47:29.572Z
+:card-last-reviewed: 2022-09-08T13:47:29.572Z
 :card-last-score: 5
 :END:
 ** 对做过的某事感到抱歉 {{cloze be sorry to have done sth.}}  #card #英语 #错题
@@ -130,20 +130,20 @@
 :END:
 ** 被认为已经做过某事 {{cloze be believed to have done sth.}}  #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.36
-:card-next-schedule: 2022-09-08T13:31:26.728Z
-:card-last-reviewed: 2022-09-04T13:31:26.728Z
-:card-last-score: 3
+:card-last-interval: 4.87
+:card-repeats: 2
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-09-13T09:48:07.098Z
+:card-last-reviewed: 2022-09-08T13:48:07.098Z
+:card-last-score: 5
 :END:
 ** The lost boy {{cloze hasn't been found}} so far.  #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-08T13:32:19.498Z
-:card-last-reviewed: 2022-09-04T13:32:19.498Z
+:card-last-interval: 4.38
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-12T22:48:14.177Z
+:card-last-reviewed: 2022-09-08T13:48:14.178Z
 :card-last-score: 5
 :END:
 ** Fishermen claim to have seen monsters. They {{cloze state}} that they have.  #card #英语 #错题
@@ -168,11 +168,11 @@
 * NCE2 Lesson 84
 ** Now the Channel Tunnel {{cloze enables}}(able) people to travel from Paris to London by train in about three hours. #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-08T13:29:38.233Z
-:card-last-reviewed: 2022-09-04T13:29:38.234Z
+:card-last-interval: 4.38
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-12T22:46:49.427Z
+:card-last-reviewed: 2022-09-08T13:46:49.428Z
 :card-last-score: 5
 :END:
 * NCE2 Lesson 85
@@ -187,20 +187,20 @@
 :END:
 ** 通知某人某事 {{cloze inform somebody of something}}  #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-08T13:37:09.177Z
-:card-last-reviewed: 2022-09-04T13:37:09.178Z
+:card-last-interval: 4.38
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-13T08:08:27.818Z
+:card-last-reviewed: 2022-09-08T23:08:27.818Z
 :card-last-score: 5
 :END:
 ** I can visit you at 5. We {{cloze will have finished}}(finish) the game by then.  #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-08T13:39:32.452Z
-:card-last-reviewed: 2022-09-04T13:39:32.453Z
+:card-last-interval: 4.38
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-12T22:50:10.917Z
+:card-last-reviewed: 2022-09-08T13:50:10.917Z
 :card-last-score: 5
 :END:
 ** I suppose the concert {{cloze will be finished}}(finish) about 6.  #card #英语 #错题
@@ -214,12 +214,12 @@
 :END:
 ** By the time you arrive she {{cloze will have gone}}(go). #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.5
-:card-next-schedule: 2022-09-06T16:00:00.000Z
-:card-last-reviewed: 2022-09-05T23:13:41.583Z
-:card-last-score: 1
+:card-last-interval: 577.56
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2024-04-08T12:09:23.876Z
+:card-last-reviewed: 2022-09-08T23:09:23.876Z
+:card-last-score: 5
 :END:
 * NCE2 Lesson 86
 ** 脱落、离开 {{cloze come away}}  #card #英语 #错题
@@ -242,12 +242,12 @@
 :END:
 ** The teacher gave us {{cloze a piece of advice}} on how to protect ourselves online. #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.5
-:card-next-schedule: 2022-09-06T16:00:00.000Z
-:card-last-reviewed: 2022-09-05T23:07:46.832Z
-:card-last-score: 1
+:card-last-interval: 294.78
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2023-06-30T07:39:35.912Z
+:card-last-reviewed: 2022-09-08T13:39:35.913Z
+:card-last-score: 5
 :END:
 * NCE2 Lesson 87
 ** 自杀 {{cloze commit suicide}}  #card #英语 #错题
@@ -270,11 +270,11 @@
 :END:
 ** And you didn't notice anything unusual? {{cloze Certainly}} not. #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-08T13:39:42.936Z
-:card-last-reviewed: 2022-09-04T13:39:42.936Z
+:card-last-interval: 4.38
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-12T22:50:17.359Z
+:card-last-reviewed: 2022-09-08T13:50:17.360Z
 :card-last-score: 5
 :END:
 ** He asked, "How did you find it, mother?" -- 改为间接引语 #card #英语 #错题
@@ -290,11 +290,11 @@ He asked his mother {{cloze how she had}} found it.
 * NCE2 Lesson 88
 ** Turn off the radio, dear. Baby is sleeping. #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-08T13:31:17.213Z
-:card-last-reviewed: 2022-09-04T13:31:17.213Z
+:card-last-interval: 4.38
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-12T22:48:00.756Z
+:card-last-reviewed: 2022-09-08T13:48:00.757Z
 :card-last-score: 5
 :END:
 There is no need. He {{cloze has woke}}(wake) up.
@@ -318,11 +318,11 @@ There is no need. He {{cloze has woke}}(wake) up.
 :END:
 ** The children are beginning {{cloze to develop}}(develop) sense of responsibility.  #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-08T13:34:11.615Z
-:card-last-reviewed: 2022-09-04T13:34:11.616Z
+:card-last-interval: 4.38
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-12T22:48:54.094Z
+:card-last-reviewed: 2022-09-08T13:48:54.094Z
 :card-last-score: 5
 :END:
 * NCE2 Lesson 89
@@ -384,11 +384,11 @@ Nobody! She taught {{cloze herself}}.  #card #英语 #错题
 * NCE2 Lesson 90
 ** 喜剧表演 {{cloze comedy show}}  #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-08T13:39:12.160Z
-:card-last-reviewed: 2022-09-04T13:39:12.161Z
+:card-last-interval: 4.38
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-12T22:49:57.595Z
+:card-last-reviewed: 2022-09-08T13:49:57.595Z
 :card-last-score: 5
 :END:
 ** 无意中撞到、碰到 {{cloze bump into}}  #card #英语 #错题
@@ -423,11 +423,11 @@ Each scout {{cloze is taught}} how to survive in difficult environments.
 :END:
 ** Bob is only 11 months old, but he {{cloze can}} stand up by himself. #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-08T13:28:57.412Z
-:card-last-reviewed: 2022-09-04T13:28:57.414Z
+:card-last-interval: 4.38
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-12T22:46:18.578Z
+:card-last-reviewed: 2022-09-08T13:46:18.579Z
 :card-last-score: 5
 :END:
 ** Look! He {{cloze is able to}} talk without drinking all the time. #card #英语 #错题
@@ -452,20 +452,20 @@ Eh? Didn't Mary get on the same bus with you? But she {{cloze was able to}} get 
 * NCE2 Lesson 93
 ** 把……拆卸开 {{cloze take ... to pieces}}  #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-08T13:36:16.766Z
-:card-last-reviewed: 2022-09-04T13:36:16.766Z
+:card-last-interval: 4.38
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-12T22:49:09.599Z
+:card-last-reviewed: 2022-09-08T13:49:09.600Z
 :card-last-score: 5
 :END:
 ** The bridge {{cloze built}}(build) last year is important in this area's traffic. #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-08T13:39:06.368Z
-:card-last-reviewed: 2022-09-04T13:39:06.369Z
+:card-last-interval: 4.38
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-12T22:49:55.027Z
+:card-last-reviewed: 2022-09-08T13:49:55.028Z
 :card-last-score: 5
 :END:
 ** There are many {{cloze fallen}}(fall) leaves on the ground.  #card #英语 #错题
@@ -480,20 +480,20 @@ Eh? Didn't Mary get on the same bus with you? But she {{cloze was able to}} get 
 * NCE2 Lesson 94
 ** I have been accustomed to {{cloze washing}}(washing/wash) before going to sleep. #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-08T13:29:22.050Z
-:card-last-reviewed: 2022-09-04T13:29:22.051Z
+:card-last-interval: 4.38
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-12T22:46:32.492Z
+:card-last-reviewed: 2022-09-08T13:46:32.493Z
 :card-last-score: 5
 :END:
 ** The experiment {{cloze proved}}(prove) to be successful. We were very happy. #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-08T13:33:03.152Z
-:card-last-reviewed: 2022-09-04T13:33:03.152Z
+:card-last-interval: 4.38
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-12T22:48:31.161Z
+:card-last-reviewed: 2022-09-08T13:48:31.162Z
 :card-last-score: 5
 :END:
 ** Say would *rather* {{cloze stay}}(stay) at home than {{cloze go}}(go) out to play. #card #英语 #错题
