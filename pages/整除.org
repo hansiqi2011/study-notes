@@ -123,11 +123,11 @@
 :END:
 ** 若一个数割去 {{cloze 末位数字}}，再从留下来的数中 {{cloze 减去所割去数字的2倍}}，这样 {{cloze 一次次减下去}}，如果最后的结果是 {{cloze 7的倍数（包括0）}}，则这个数能被7整除   #card #数学
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-09-10T03:58:55.694Z
-:card-last-reviewed: 2022-08-29T23:58:55.696Z
+:card-last-interval: 45.89
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-10-27T21:46:02.011Z
+:card-last-reviewed: 2022-09-12T00:46:02.012Z
 :card-last-score: 5
 :END:
 ** 若一个整数的 {{cloze 末尾三位数能被8整除}}，则这个数能被8整除  #card #数学

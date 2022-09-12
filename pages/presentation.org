@@ -1,10 +1,10 @@
 * presentation #card #词汇积累
 :PROPERTIES:
-:card-last-interval: 11.04
-:card-repeats: 3
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-09-11T23:10:06.028Z
-:card-last-reviewed: 2022-08-31T23:10:06.028Z
+:card-last-interval: 33.86
+:card-repeats: 4
+:card-ease-factor: 2.86
+:card-next-schedule: 2022-10-15T20:49:34.633Z
+:card-last-reviewed: 2022-09-12T00:49:34.634Z
 :card-last-score: 5
 :END:
 ** 释义： (countable noun) {{cloze 演出；发布会；提交；颁发}}

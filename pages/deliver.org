@@ -1,11 +1,11 @@
 * deliver #card #词汇积累
 :PROPERTIES:
-:card-last-interval: 51.19
-:card-repeats: 3
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.7
-:card-next-schedule: 2022-09-10T04:34:24.795Z
-:card-last-reviewed: 2022-07-21T00:34:24.795Z
-:card-last-score: 5
+:card-next-schedule: 2022-09-12T16:00:00.000Z
+:card-last-reviewed: 2022-09-12T00:46:07.477Z
+:card-last-score: 1
 :END:
 ** 释义：(transitive verb) {{cloze 交付；发表；兑现；传送}}
 ** 读音： {{cloze dɪˈlɪvə}}
