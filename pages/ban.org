@@ -1,10 +1,10 @@
 * ban #card #词汇积累
 :PROPERTIES:
-:card-last-interval: 10.24
-:card-repeats: 3
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-09-15T04:13:47.046Z
-:card-last-reviewed: 2022-09-04T23:13:47.047Z
+:card-last-interval: 42.72
+:card-repeats: 4
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-10-28T06:28:56.637Z
+:card-last-reviewed: 2022-09-15T13:28:56.638Z
 :card-last-score: 5
 :END:
 ** 释义： {{cloze v.下令禁止；查禁/n.禁令}}

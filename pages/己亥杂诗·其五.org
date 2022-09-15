@@ -1,11 +1,11 @@
 * 己亥杂诗·其五 #card #诗词
 :PROPERTIES:
-:card-last-interval: 4.87
-:card-repeats: 2
-:card-ease-factor: 2.46
-:card-next-schedule: 2022-09-13T09:38:47.443Z
-:card-last-reviewed: 2022-09-08T13:38:47.443Z
-:card-last-score: 3
+:card-last-interval: 13.38
+:card-repeats: 3
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-09-28T22:24:57.535Z
+:card-last-reviewed: 2022-09-15T13:24:57.536Z
+:card-last-score: 5
 :END:
 ** 龚自珍 〔清代〕
 ** 浩荡离愁白日斜，吟鞭东指即天涯。

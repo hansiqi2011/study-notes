@@ -1,10 +1,10 @@
 * hold (sth.) up #card #词组积累
 :PROPERTIES:
-:card-last-interval: 36.08
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-09-12T14:17:41.210Z
-:card-last-reviewed: 2022-08-07T13:17:41.210Z
+:card-last-interval: 133.31
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2023-01-26T20:10:27.434Z
+:card-last-reviewed: 2022-09-15T13:10:27.434Z
 :card-last-score: 5
 :END:
 ** 释义： {{cloze 支持；举起}}

@@ -37,11 +37,11 @@
 ** 标记重要条件，和未知数，尤其注意单位
 * 解应用题的首要步骤是什么？ #card #数学
 :PROPERTIES:
-:card-last-interval: 31.36
-:card-repeats: 4
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-09-14T21:56:28.547Z
-:card-last-reviewed: 2022-08-14T13:56:28.547Z
+:card-last-interval: 923.82
+:card-repeats: 5
+:card-ease-factor: 2.9
+:card-next-schedule: 2025-03-27T08:27:46.065Z
+:card-last-reviewed: 2022-09-15T13:27:46.065Z
 :card-last-score: 5
 :END:
 ** 把条件和未知数用数学符号表示

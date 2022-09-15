@@ -1,64 +1,64 @@
 * 计算机的结构分为 {{cloze 软件}}和 {{cloze 硬件}}两大部分。 #card #NOI
 :PROPERTIES:
-:card-last-interval: 36.08
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-09-12T14:18:20.214Z
-:card-last-reviewed: 2022-08-07T13:18:20.214Z
+:card-last-interval: 133.31
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2023-01-26T20:12:04.892Z
+:card-last-reviewed: 2022-09-15T13:12:04.892Z
 :card-last-score: 5
 :END:
 * 硬件分为 {{cloze 主机}}和 {{cloze 外部设备}}。 #card #NOI
 :PROPERTIES:
-:card-last-interval: 36.08
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-09-12T14:19:27.092Z
-:card-last-reviewed: 2022-08-07T13:19:27.092Z
+:card-last-interval: 133.31
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2023-01-26T20:14:35.565Z
+:card-last-reviewed: 2022-09-15T13:14:35.566Z
 :card-last-score: 5
 :END:
 * 主机包括 {{cloze CPU}}、 {{cloze Cache（高速缓存）}}、 {{cloze 内存}}。 #card #NOI
 :PROPERTIES:
-:card-last-interval: 36.08
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-09-12T14:18:27.877Z
-:card-last-reviewed: 2022-08-07T13:18:27.877Z
+:card-last-interval: 133.31
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2023-01-26T20:12:09.980Z
+:card-last-reviewed: 2022-09-15T13:12:09.980Z
 :card-last-score: 5
 :END:
 * CPU分为 {{cloze 运算器}}、 {{cloze 寄存器}}和 {{cloze 控制器}}。 #card #NOI
 :PROPERTIES:
-:card-last-interval: 36.08
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-09-12T14:18:52.336Z
-:card-last-reviewed: 2022-08-07T13:18:52.336Z
+:card-last-interval: 133.31
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2023-01-26T20:13:44.375Z
+:card-last-reviewed: 2022-09-15T13:13:44.375Z
 :card-last-score: 5
 :END:
 * CPU的主要性能指标是 {{cloze 字长}}和 {{cloze 主频}} #card #硬件
 :PROPERTIES:
-:card-last-interval: 36.08
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-09-12T14:19:04.260Z
-:card-last-reviewed: 2022-08-07T13:19:04.261Z
+:card-last-interval: 133.31
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2023-01-26T20:14:07.230Z
+:card-last-reviewed: 2022-09-15T13:14:07.230Z
 :card-last-score: 5
 :END:
 * 内存包括 {{cloze RAM（随机存储器）}}和 {{cloze ROM（只读存储器）}}。 #card #NOI
 :PROPERTIES:
-:card-last-interval: 36.08
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-09-12T14:18:35.735Z
-:card-last-reviewed: 2022-08-07T13:18:35.735Z
+:card-last-interval: 133.31
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2023-01-26T20:12:17.202Z
+:card-last-reviewed: 2022-09-15T13:12:17.202Z
 :card-last-score: 5
 :END:
 * 外部设备包括 {{cloze 输入设备}}、 {{cloze 外部存储器}}和 {{cloze 输出设备}}。 #card #NOI
 :PROPERTIES:
-:card-last-interval: 36.08
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-09-12T14:18:04.223Z
-:card-last-reviewed: 2022-08-07T13:18:04.223Z
+:card-last-interval: 133.31
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2023-01-26T20:10:51.550Z
+:card-last-reviewed: 2022-09-15T13:10:51.550Z
 :card-last-score: 5
 :END:
 * 软件包括 {{cloze 系统软件}}和 {{cloze 应用软件}}。 #card
@@ -81,20 +81,20 @@
 :END:
 * 数据库系统包括 {{cloze 数据库}}和 {{cloze 数据库管理系统}}。 #card #NOI
 :PROPERTIES:
-:card-last-interval: 36.08
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-09-12T14:18:12.311Z
-:card-last-reviewed: 2022-08-07T13:18:12.311Z
+:card-last-interval: 133.31
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2023-01-26T20:11:35.980Z
+:card-last-reviewed: 2022-09-15T13:11:35.980Z
 :card-last-score: 5
 :END:
 * 存储容量的单位有哪些 #card #NOI
 :PROPERTIES:
-:card-last-interval: 36.08
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-09-12T14:18:14.915Z
-:card-last-reviewed: 2022-08-07T13:18:14.915Z
+:card-last-interval: 133.31
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2023-01-26T20:11:54.209Z
+:card-last-reviewed: 2022-09-15T13:11:54.210Z
 :card-last-score: 5
 :collapsed: true
 :END:
@@ -106,11 +106,11 @@
 ** 1PB = 1024TB
 * 总线 #card #硬件
 :PROPERTIES:
-:card-last-interval: 36.08
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-09-12T14:18:00.168Z
-:card-last-reviewed: 2022-08-07T13:18:00.168Z
+:card-last-interval: 133.31
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2023-01-26T20:10:42.644Z
+:card-last-reviewed: 2022-09-15T13:10:42.644Z
 :card-last-score: 5
 :collapsed: true
 :END:

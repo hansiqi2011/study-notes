@@ -1,10 +1,10 @@
 * 西江月·夜行黄沙道中 #card #诗词
 :PROPERTIES:
-:card-last-interval: 27.46
-:card-repeats: 4
-:card-ease-factor: 2.62
-:card-next-schedule: 2022-09-14T11:14:32.741Z
-:card-last-reviewed: 2022-08-18T00:14:32.741Z
+:card-last-interval: 80.49
+:card-repeats: 5
+:card-ease-factor: 2.72
+:card-next-schedule: 2022-12-05T00:27:08.925Z
+:card-last-reviewed: 2022-09-15T13:27:08.925Z
 :card-last-score: 5
 :END:
 ** 宋·辛弃疾
