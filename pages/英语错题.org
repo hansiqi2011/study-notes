@@ -187,12 +187,12 @@
 :END:
 ** 通知某人某事 {{cloze inform somebody of something}}  #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-09-15T16:00:00.000Z
-:card-last-reviewed: 2022-09-15T13:24:18.225Z
-:card-last-score: 1
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-19T23:01:38.256Z
+:card-last-reviewed: 2022-09-15T23:01:38.256Z
+:card-last-score: 5
 :END:
 ** I can visit you at 5. We {{cloze will have finished}}(finish) the game by then.  #card #英语 #错题
 :PROPERTIES:
@@ -290,12 +290,12 @@ He asked his mother {{cloze how she had}} found it.
 * NCE2 Lesson 88
 ** Turn off the radio, dear. Baby is sleeping. #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-09-15T16:00:00.000Z
-:card-last-reviewed: 2022-09-15T13:20:28.034Z
-:card-last-score: 1
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-19T23:02:05.672Z
+:card-last-reviewed: 2022-09-15T23:02:05.673Z
+:card-last-score: 5
 :END:
 There is no need. He {{cloze has woke}}(wake) up.
 ** Without the internet, life {{cloze would be}}(be) quite different nowadays. #card #英语 #错题
