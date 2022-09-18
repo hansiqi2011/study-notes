@@ -1,0 +1,31 @@
+#+ALIAS: 质数
+
+* 100以内的素数有？ #card #数学
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-09-18T16:00:00.000Z
+:card-last-reviewed: 2022-09-18T13:39:07.207Z
+:card-last-score: 1
+:END:
+** 2，3，5，7，11，13，17，19，
+** 23，29，31，37，41，43，47，
+** 53，59，61，67，71，73，79，73，89，97
+* 100以内素数记忆口诀？ #card #数学
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-09-18T16:00:00.000Z
+:card-last-reviewed: 2022-09-18T13:36:38.465Z
+:card-last-score: 1
+:END:
+** 二、三、五、七、一十一；
+** 一三、一九、一十七；
+** 二三、二九、三十七；
+** 三一、四一、四十七；
+** 四三、五三、五十九；
+** 六一、七一、六十七；
+** 七三、八三、八十九；
+** 再加七九、九十七，25个素数要牢记
