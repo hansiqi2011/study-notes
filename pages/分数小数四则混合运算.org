@@ -16,11 +16,11 @@
 *** 先约分再计算
 * 常用互化分数、小数 #card #数学
 :PROPERTIES:
-:card-last-interval: 4.38
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-09-16T09:41:47.991Z
-:card-last-reviewed: 2022-09-12T00:41:47.991Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-29T17:41:45.133Z
+:card-last-reviewed: 2022-09-18T13:41:45.133Z
 :card-last-score: 5
 :END:
 ** $0.2=\frac{1}{5}$

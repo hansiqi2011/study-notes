@@ -27,11 +27,11 @@
 ** 在填空处附近的大格子做标记
 * 解应用题要标记什么？ #card #数学
 :PROPERTIES:
-:card-last-interval: 31.36
-:card-repeats: 4
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-09-17T08:19:12.275Z
-:card-last-reviewed: 2022-08-17T00:19:12.275Z
+:card-last-interval: 1215.46
+:card-repeats: 5
+:card-ease-factor: 2.9
+:card-next-schedule: 2026-01-16T00:43:36.143Z
+:card-last-reviewed: 2022-09-18T13:43:36.143Z
 :card-last-score: 5
 :END:
 ** 标记重要条件，和未知数，尤其注意单位

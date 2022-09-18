@@ -47,11 +47,11 @@
 * 关于最大公因数的推论 #card #数学
 :PROPERTIES:
 :id: 62e38aca-71c2-4932-bb7b-a51f6493ef90
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-09-16T03:13:02.202Z
-:card-last-reviewed: 2022-09-04T23:13:02.203Z
+:card-last-interval: 45.89
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-11-03T10:39:21.405Z
+:card-last-reviewed: 2022-09-18T13:39:21.406Z
 :card-last-score: 5
 :END:
 ** 若$a \mid m$且$a \mid n$，则必有$a \mid (m, n)$。

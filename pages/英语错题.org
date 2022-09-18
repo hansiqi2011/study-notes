@@ -10,11 +10,11 @@
 :END:
 ** Wood {{cloze is used to}}(use) make paper.  #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 4.38
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-09-16T09:42:01.837Z
-:card-last-reviewed: 2022-09-12T00:42:01.837Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-29T17:41:55.565Z
+:card-last-reviewed: 2022-09-18T13:41:55.566Z
 :card-last-score: 5
 :END:
 * NCE2 Lesson 80
@@ -85,11 +85,11 @@
 * NCE2 Lesson 82
 ** 近视 {{cloze near sighted/short sighted}} #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 4.38
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-09-16T09:42:36.178Z
-:card-last-reviewed: 2022-09-12T00:42:36.179Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-29T17:42:14.691Z
+:card-last-reviewed: 2022-09-18T13:42:14.692Z
 :card-last-score: 5
 :END:
 ** 远视 {{cloze far sighted/long sighted}}  #card #英语 #错题
@@ -205,11 +205,11 @@
 :END:
 ** I suppose the concert {{cloze will be finished}}(finish) about 6.  #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 4.38
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-09-16T09:41:39.454Z
-:card-last-reviewed: 2022-09-12T00:41:39.455Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-29T17:41:39.105Z
+:card-last-reviewed: 2022-09-18T13:41:39.106Z
 :card-last-score: 5
 :END:
 ** By the time you arrive she {{cloze will have gone}}(go). #card #英语 #错题
@@ -328,29 +328,29 @@ There is no need. He {{cloze has woke}}(wake) up.
 * NCE2 Lesson 89
 ** 感到失望 {{cloze feel disappointed}}  #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 4.38
-:card-repeats: 2
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.7
-:card-next-schedule: 2022-09-16T09:41:53.569Z
-:card-last-reviewed: 2022-09-12T00:41:53.569Z
-:card-last-score: 5
+:card-next-schedule: 2022-09-18T16:00:00.000Z
+:card-last-reviewed: 2022-09-18T13:41:47.513Z
+:card-last-score: 1
 :END:
 ** 发脾气 {{cloze lose one's temper}} #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 4.38
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-09-16T09:41:56.198Z
-:card-last-reviewed: 2022-09-12T00:41:56.199Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-29T17:41:51.936Z
+:card-last-reviewed: 2022-09-18T13:41:51.936Z
 :card-last-score: 5
 :END:
 ** 举行罢工  {{cloze go on strike}} #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 4.38
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-09-16T09:42:05.054Z
-:card-last-reviewed: 2022-09-12T00:42:05.055Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-29T17:41:57.268Z
+:card-last-reviewed: 2022-09-18T13:41:57.268Z
 :card-last-score: 5
 :END:
 ** 来来回回  {{cloze up and down}} #card #英语 #错题
@@ -364,20 +364,20 @@ There is no need. He {{cloze has woke}}(wake) up.
 :END:
 ** 在值班、值日 {{cloze on duty}} #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 4.38
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-09-16T09:42:16.473Z
-:card-last-reviewed: 2022-09-12T00:42:16.473Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-29T17:41:58.927Z
+:card-last-reviewed: 2022-09-18T13:41:58.927Z
 :card-last-score: 5
 :END:
 ** She speaks English very well. Who taught {{cloze her}}?  #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 4.38
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-09-16T09:42:28.784Z
-:card-last-reviewed: 2022-09-12T00:42:28.785Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-29T17:42:08.813Z
+:card-last-reviewed: 2022-09-18T13:42:08.813Z
 :card-last-score: 5
 :END:
 Nobody! She taught {{cloze herself}}.  #card #英语 #错题
@@ -414,11 +414,11 @@ Each scout {{cloze is taught}} how to survive in difficult environments.
 * NCE2 Lesson 91
 ** 设法做某事 {{cloze manage to do}}  #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 4.38
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-09-16T09:42:19.876Z
-:card-last-reviewed: 2022-09-12T00:42:19.876Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-29T17:42:00.757Z
+:card-last-reviewed: 2022-09-18T13:42:00.757Z
 :card-last-score: 5
 :END:
 ** Bob is only 11 months old, but he {{cloze can}} stand up by himself. #card #英语 #错题
@@ -470,11 +470,11 @@ Eh? Didn't Mary get on the same bus with you? But she {{cloze was able to}} get 
 :END:
 ** There are many {{cloze fallen}}(fall) leaves on the ground.  #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 4.38
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-09-16T09:41:44.807Z
-:card-last-reviewed: 2022-09-12T00:41:44.807Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-29T17:41:42.960Z
+:card-last-reviewed: 2022-09-18T13:41:42.960Z
 :card-last-score: 5
 :END:
 * NCE2 Lesson 94

@@ -96,7 +96,6 @@
 :card-next-schedule: 2023-01-26T20:11:54.209Z
 :card-last-reviewed: 2022-09-15T13:11:54.210Z
 :card-last-score: 5
-:collapsed: true
 :END:
 ** 1B = 8b
 ** 1KB = 1024B
@@ -112,7 +111,6 @@
 :card-next-schedule: 2023-01-26T20:10:42.644Z
 :card-last-reviewed: 2022-09-15T13:10:42.644Z
 :card-last-score: 5
-:collapsed: true
 :END:
 ** 总线是 {{cloze 在中央处理器和其他硬件组成部分之间传输数据的线}}。
 ** 总线的分类有 {{cloze 数据总线、地址总线和控制总线}}
