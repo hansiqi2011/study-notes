@@ -328,12 +328,12 @@ There is no need. He {{cloze has woke}}(wake) up.
 * NCE2 Lesson 89
 ** 感到失望 {{cloze feel disappointed}}  #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-09-18T16:00:00.000Z
-:card-last-reviewed: 2022-09-18T13:41:47.513Z
-:card-last-score: 1
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-22T23:01:38.491Z
+:card-last-reviewed: 2022-09-18T23:01:38.491Z
+:card-last-score: 5
 :END:
 ** 发脾气 {{cloze lose one's temper}} #card #英语 #错题
 :PROPERTIES:

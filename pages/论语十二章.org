@@ -11,12 +11,12 @@
 :END:
 ** 曾子曰：“吾日三省吾身： {{cloze 为人谋而不忠乎？与朋友交而不信乎？传不习乎？}}”《学而》 #card
 :PROPERTIES:
-:card-last-interval: 56.78
-:card-repeats: 3
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-09-18T18:30:00.934Z
-:card-last-reviewed: 2022-07-24T00:30:00.934Z
-:card-last-score: 5
+:card-last-interval: 78.13
+:card-repeats: 4
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-12-06T02:03:14.002Z
+:card-last-reviewed: 2022-09-18T23:03:14.002Z
+:card-last-score: 3
 :END:
 ** 子曰：“ {{cloze 吾十有五而志于学}}，三十而立，四十而不惑， {{cloze 五十而知天命}}，六十而耳顺， {{cloze 七十而从心所欲，不逾矩}}。”《为政》 #card
 :PROPERTIES:
