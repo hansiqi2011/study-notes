@@ -33,11 +33,11 @@ stack<int> stk;//定义一个stack，其中元素的类型为int
 #+END_SRC
 * 常见的stack操作都有哪些？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 30.47
-:card-repeats: 4
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-09-21T00:57:08.904Z
-:card-last-reviewed: 2022-08-21T13:57:08.905Z
+:card-last-interval: 96.85
+:card-repeats: 5
+:card-ease-factor: 2.86
+:card-next-schedule: 2022-12-27T19:04:35.834Z
+:card-last-reviewed: 2022-09-21T23:04:35.835Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++

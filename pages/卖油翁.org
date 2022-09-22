@@ -1,11 +1,11 @@
 * 卖油翁 #card #古文
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.66
-:card-next-schedule: 2022-09-19T13:18:16.100Z
-:card-last-reviewed: 2022-09-15T13:18:16.100Z
-:card-last-score: 3
+:card-last-interval: 11.04
+:card-repeats: 3
+:card-ease-factor: 2.76
+:card-next-schedule: 2022-09-30T23:06:25.567Z
+:card-last-reviewed: 2022-09-19T23:06:25.568Z
+:card-last-score: 5
 :END:
 ** 宋·欧阳修
 ** 陈康肃公善射，当世无双 ， {{cloze 公亦以此自矜}}。尝射于家圃，有卖油翁释（释义： {{cloze 放下}}）担而立，睨之久而不去。见其发矢十中八九，但微颔之（句子释义： {{cloze 只是微微地点了几下头}}）。

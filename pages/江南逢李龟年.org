@@ -1,10 +1,10 @@
 * 江南逢李龟年 #card #诗词
 :PROPERTIES:
-:card-last-interval: 45.06
-:card-repeats: 4
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-09-19T01:41:20.044Z
-:card-last-reviewed: 2022-08-05T00:41:20.044Z
+:card-last-interval: 260.14
+:card-repeats: 5
+:card-ease-factor: 2.66
+:card-next-schedule: 2023-06-07T02:04:34.341Z
+:card-last-reviewed: 2022-09-19T23:04:34.342Z
 :card-last-score: 5
 :END:
 ** 唐·杜甫

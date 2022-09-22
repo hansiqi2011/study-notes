@@ -158,11 +158,11 @@
 * NCE2 Lesson 83
 ** He has been an opponent. He has been opposed {{cloze to}} it. #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 4.53
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-09-20T01:18:59.242Z
-:card-last-reviewed: 2022-09-15T13:18:59.243Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-10-02T03:03:07.115Z
+:card-last-reviewed: 2022-09-20T23:03:07.116Z
 :card-last-score: 5
 :END:
 * NCE2 Lesson 84
@@ -187,11 +187,11 @@
 :END:
 ** 通知某人某事 {{cloze inform somebody of something}}  #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-09-19T23:01:38.256Z
-:card-last-reviewed: 2022-09-15T23:01:38.256Z
+:card-last-interval: 14.25
+:card-repeats: 3
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-10-04T05:07:08.495Z
+:card-last-reviewed: 2022-09-19T23:07:08.496Z
 :card-last-score: 5
 :END:
 ** I can visit you at 5. We {{cloze will have finished}}(finish) the game by then.  #card #英语 #错题
@@ -279,22 +279,22 @@
 :END:
 ** He asked, "How did you find it, mother?" -- 改为间接引语 #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 4.38
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-09-19T22:15:33.166Z
-:card-last-reviewed: 2022-09-15T13:15:33.166Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-10-01T03:07:04.329Z
+:card-last-reviewed: 2022-09-19T23:07:04.329Z
 :card-last-score: 5
 :END:
 He asked his mother {{cloze how she had}} found it.
 * NCE2 Lesson 88
 ** Turn off the radio, dear. Baby is sleeping. #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-09-19T23:02:05.672Z
-:card-last-reviewed: 2022-09-15T23:02:05.673Z
+:card-last-interval: 14.25
+:card-repeats: 3
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-10-04T05:07:11.601Z
+:card-last-reviewed: 2022-09-19T23:07:11.602Z
 :card-last-score: 5
 :END:
 There is no need. He {{cloze has woke}}(wake) up.
