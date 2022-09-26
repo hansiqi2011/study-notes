@@ -1,10 +1,10 @@
 * 寒食 #card #诗词
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.24
-:card-next-schedule: 2022-09-24T23:04:53.429Z
-:card-last-reviewed: 2022-09-20T23:04:53.430Z
+:card-last-interval: 9.36
+:card-repeats: 3
+:card-ease-factor: 2.34
+:card-next-schedule: 2022-10-04T21:44:39.573Z
+:card-last-reviewed: 2022-09-25T13:44:39.574Z
 :card-last-score: 5
 :END:
 ** 唐·韩翃（hong2）

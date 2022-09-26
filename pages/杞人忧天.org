@@ -1,10 +1,10 @@
 * 杞人忧天 #card #古文
 :PROPERTIES:
-:card-last-interval: 38.63
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-09-23T15:26:22.583Z
-:card-last-reviewed: 2022-08-16T00:26:22.633Z
+:card-last-interval: 133.31
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2023-02-05T20:42:39.490Z
+:card-last-reviewed: 2022-09-25T13:42:39.490Z
 :card-last-score: 5
 :END:
 ** 《列子》 〔先秦〕

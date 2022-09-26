@@ -1,10 +1,10 @@
 * 望岳 #card #诗词
 :PROPERTIES:
-:card-last-interval: 33.55
-:card-repeats: 4
-:card-ease-factor: 2.66
-:card-next-schedule: 2022-09-22T13:21:19.585Z
-:card-last-reviewed: 2022-08-20T00:21:19.585Z
+:card-last-interval: 84.1
+:card-repeats: 5
+:card-ease-factor: 2.76
+:card-next-schedule: 2022-12-16T01:08:53.217Z
+:card-last-reviewed: 2022-09-22T23:08:53.217Z
 :card-last-score: 5
 :END:
 ** 唐·杜甫

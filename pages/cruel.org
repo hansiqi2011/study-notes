@@ -1,11 +1,11 @@
 * cruel #card #词汇积累
 :PROPERTIES:
-:card-last-interval: 48.9
+:card-last-interval: -1
 :card-repeats: 1
 :card-ease-factor: 2.6
-:card-next-schedule: 2022-09-25T10:12:57.888Z
-:card-last-reviewed: 2022-08-07T13:12:57.891Z
-:card-last-score: 5
+:card-next-schedule: 2022-09-25T16:00:00.000Z
+:card-last-reviewed: 2022-09-25T13:45:31.259Z
+:card-last-score: 1
 :END:
 ** 释义： {{cloze adj.残酷的；冷酷的；残忍的；残暴的}}
 ** 读音： {{cloze ˈkruːəl}}

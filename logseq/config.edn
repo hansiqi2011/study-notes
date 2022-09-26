@@ -166,7 +166,7 @@
 
  :ref/linked-references-collapsed-threshold 50
  :preferred-format :org
- :favorites ["例题：要使六位数15ABC6能被36整除" "解题技巧" "语文" "英语" "数学" "数学 #car"]
+ :favorites ["常用英语句型" "例题：要使六位数15ABC6能被36整除" "解题技巧" "语文" "英语" "数学" "数学 #car"]
  :mobile/toolbar-stats {:bold {:counts 0}, :brand-youtube {:counts 0}, :checkbox {:counts 0}, :parentheses {:counts 0}, :command {:counts 1}, :paint {:counts 3}, :list {:counts 3}, :link {:counts 0}, :strikethrough {:counts 0}, :code {:counts 0}, :camera {:counts 0}, :rotate {:counts 0}, :tag {:counts 0}, :brackets {:counts 0}, :italic {:counts 0}, :a-b {:counts 0}, :rotate-clockwise {:counts 0}}
  :journal/page-title-format "yyyy-MM-dd EEEE"
  :editor/logical-outdenting? false

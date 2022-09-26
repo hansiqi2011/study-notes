@@ -1,4 +1,7 @@
 * 常用分数应用题建模
+:PROPERTIES:
+:id: 632cea95-264b-4022-901e-8d3dfd5a946b
+:END:
 ** 求a的$\dfrac{p}{q}$是多少如何建模？ #card #数学
 :PROPERTIES:
 :card-last-interval: 305.47

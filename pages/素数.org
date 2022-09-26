@@ -2,12 +2,12 @@
 
 * 100以内的素数有？ #card #数学
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.36
-:card-next-schedule: 2022-09-22T16:00:00.000Z
-:card-last-reviewed: 2022-09-21T23:06:42.474Z
-:card-last-score: 1
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.22
+:card-next-schedule: 2022-09-29T13:40:49.999Z
+:card-last-reviewed: 2022-09-25T13:40:50.000Z
+:card-last-score: 3
 :END:
 ** 2，3，5，7，11，13，17，19，
 ** 23，29，31，37，41，43，47，
