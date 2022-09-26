@@ -1,0 +1,72 @@
+* 有理数计算题最重要的原则是什么？ #card #数学 #解题技巧
+:PROPERTIES:
+:card-last-interval: 688.35
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2024-08-13T21:32:09.582Z
+:card-last-reviewed: 2022-09-25T13:32:09.583Z
+:card-last-score: 5
+:END:
+** 每行只写一步，只做一件事
+** 让一行的复杂度不超过4
+*** 复杂度=操作数的数量 + 操作数种类 + 操作符的种类
+* 有理数计算题的一步都有哪些动作？ #card #数学 #解题技巧
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-09-25T16:00:00.000Z
+:card-last-reviewed: 2022-09-25T13:32:17.812Z
+:card-last-score: 1
+:END:
+** 减少操作数的种类
+** 减少操作数的个数
+** 减少操作符的种类
+** 交换律、结合律、分配率的一次使用
+** 用字母代替子表达式
+* 怎样减少操作数的数量？ #card #数学 #解题技巧
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-09-25T16:00:00.000Z
+:card-last-reviewed: 2022-09-25T13:34:12.034Z
+:card-last-score: 1
+:END:
+** 加法：正负数抵消
+** 乘法：分子分母相同因子抵消
+** 凑整、[[巧算]]
+* 怎样减少操作数的种类？ #card #数学 #解题技巧
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-09-25T16:00:00.000Z
+:card-last-reviewed: 2022-09-25T13:34:54.216Z
+:card-last-score: 1
+:END:
+** 加法运算中，带分数拆成整数和真分数部分，并把整数和真分数分别分组
+** 乘法运算中，带分数、整数变成假分数
+** 小数变成真/假分数
+*** 有些时候分数变成小数也许更方便—— [[分数和小数的互化]]
+* 怎样减少操作符的种类？ #card #数学 #解题技巧
+:PROPERTIES:
+:card-last-interval: 688.35
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2024-08-13T21:35:03.697Z
+:card-last-reviewed: 2022-09-25T13:35:03.698Z
+:card-last-score: 5
+:END:
+** 减法变成加法 —— 加上相反数
+** 除法变成乘法 —— 乘上倒数
+* 怎样减少抄写错误？ #card #数学 #解题技巧
+:PROPERTIES:
+:card-last-interval: 688.35
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2024-08-13T21:35:12.512Z
+:card-last-reviewed: 2022-09-25T13:35:12.512Z
+:card-last-score: 5
+:END:
+** 用字母代表子表达式，分别计算子表达式的值，最后计算总表达式的值

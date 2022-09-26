@@ -1,0 +1,10 @@
+* 宁愿做A也不愿意做B #card #英语 #句型
+:PROPERTIES:
+:card-last-interval: 688.35
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2024-08-13T21:37:09.819Z
+:card-last-reviewed: 2022-09-25T13:37:09.820Z
+:card-last-score: 5
+:END:
+** would rather do A than do B

@@ -1,0 +1,50 @@
+* 什么叫做主谓一致？ #card #英语
+:PROPERTIES:
+:card-last-interval: 688.35
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2024-08-13T21:36:46.211Z
+:card-last-reviewed: 2022-09-25T13:36:46.211Z
+:card-last-score: 5
+:END:
+** 主语数量和谓语动词的单复数保持一致
+* 不定代词的主谓一致 #card #英语
+:PROPERTIES:
+:title: 主谓一致
+:card-last-interval: 688.35
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2024-08-13T21:38:49.841Z
+:card-last-reviewed: 2022-09-25T13:38:49.841Z
+:card-last-score: 5
+:END:
+** Both 2/2两者都 动词用 {{cloze 复数}}
+** Either 1/2 要么…要么 动词用 {{cloze 单数}}
+** Neither 0/2两者都不 动词用 {{cloze 单数}}
+*** Neither of them/ they neither 动词用 {{cloze 单数}}
+* 主谓一致的就近原则 #card #英语
+:PROPERTIES:
+:card-last-interval: 688.35
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2024-08-13T21:32:55.651Z
+:card-last-reviewed: 2022-09-25T13:32:55.652Z
+:card-last-score: 5
+:END:
+** Neither A nor B  + v.
+** Either A or B  + v.
+** there be
+*** example: There is a ruler and  two pencils.
+** not only A but also B + v.
+**
+* 主谓一致的就远原则 #card #英语
+:PROPERTIES:
+:card-last-interval: 688.35
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2024-08-13T21:36:39.803Z
+:card-last-reviewed: 2022-09-25T13:36:39.804Z
+:card-last-score: 5
+:END:
+** 例子：Bob as long as Jerry is professor
+** 标志词：along with；as long as；together with；with

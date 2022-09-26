@@ -1,0 +1,72 @@
+* 池塘生春草， {{cloze 园柳变鸣禽}}。—— {{cloze 南北朝·谢灵运 《登池上楼》}} #card #诗词
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-09-25T16:00:00.000Z
+:card-last-reviewed: 2022-09-25T13:37:04.177Z
+:card-last-score: 1
+:END:
+* 余霞散成绮， {{cloze 澄江静如练}}。—— 南北朝·谢脁《晚登三山还望京邑》 #card #诗词
+:PROPERTIES:
+:card-last-interval: 2.65
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-09-28T04:37:40.792Z
+:card-last-reviewed: 2022-09-25T13:37:40.792Z
+:card-last-score: 3
+:END:
+* 蝉噪林逾静， {{cloze 鸟鸣山更幽}}。—— 南北朝·王藉 《入若耶溪》 #card #诗词
+:PROPERTIES:
+:card-last-interval: 688.35
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2024-08-13T21:37:44.222Z
+:card-last-reviewed: 2022-09-25T13:37:44.222Z
+:card-last-score: 5
+:END:
+* {{cloze 浮香绕曲岸，圆影覆华池}}。常恐秋风早，飘零君不知。—— 唐代·卢照邻《曲池荷》 #card #诗词
+:PROPERTIES:
+:card-last-interval: 688.35
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2024-08-13T21:37:51.541Z
+:card-last-reviewed: 2022-09-25T13:37:51.542Z
+:card-last-score: 5
+:END:
+* 江流天地外， {{cloze 山色有无中}}。——唐代·王维《汉江临泛》 #card #诗词
+:PROPERTIES:
+:card-last-interval: 688.35
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2024-08-13T21:37:56.475Z
+:card-last-reviewed: 2022-09-25T13:37:56.475Z
+:card-last-score: 5
+:END:
+* 秋风生渭水， {{cloze 落叶满长安}}。——唐代·贾岛《忆江上吴处士》 #card #诗词
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-09-25T16:00:00.000Z
+:card-last-reviewed: 2022-09-25T13:35:34.119Z
+:card-last-score: 1
+:END:
+* 棠梨叶落 {{cloze 胭脂色}}，荞麦花开 {{cloze 白雪香}}。——宋代·王禹偁《村行》 #card #诗词
+:PROPERTIES:
+:card-last-interval: 688.35
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2024-08-13T21:39:01.812Z
+:card-last-reviewed: 2022-09-25T13:39:01.813Z
+:card-last-score: 5
+:END:
+* 一夕轻雷落万丝，霁光浮瓦碧参差。 {{cloze 有情芍药含春泪，无力蔷薇卧晓枝}}。——宋代·秦观《春日》 #card #诗词
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-09-25T16:00:00.000Z
+:card-last-reviewed: 2022-09-25T13:36:29.549Z
+:card-last-score: 1
+:END:

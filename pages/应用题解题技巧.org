@@ -1,0 +1,58 @@
+* 解应用题的步骤是？  #card #数学 #解题技巧
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-09-25T16:00:00.000Z
+:card-last-reviewed: 2022-09-25T13:38:39.347Z
+:card-last-score: 1
+:END:
+** 1. 条件、问题划线编号
+2. 重点词画圈
+3. 把条件、问题依编号翻译成数学语言
+4. 探索和确定思路
+5. 执行推理步骤，一步只做一件事
+6. 书写答句
+* 对条件和问题进行划线编号的时候，要注意什么？  #card #数学 #解题技巧
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-09-25T16:00:00.000Z
+:card-last-reviewed: 2022-09-25T13:33:07.307Z
+:card-last-score: 1
+:END:
+** 给每个条件和问题编号，例如① ② ③，Q1，Q2
+** 颗粒度尽量细，便于机械式建模、翻译，便于将来的组合
+** 避免遗漏
+* 要对哪些重点词画圈？  #card #数学 #解题技巧
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-09-25T16:00:00.000Z
+:card-last-reviewed: 2022-09-25T13:36:21.096Z
+:card-last-score: 1
+:END:
+** 对于条件
+*** 数字
+*** 度量单位
+*** 关系
+**** 和、差、积、商、余
+**** 大于、小于、等于
+**** 几倍、几分之几
+**** 多了、少了
+**** 盈利、亏损
+**** 提前、延后
+**** 整除
+*** 如果是几何题，可能还要在图形中利用数形结合找到隐含条件
+** 对于问题
+*** 数字
+*** 单位
+*** 各、总
+* 数学建模翻译
+** “3x平方”是\(3x^2\)，而不是\((3x)^2\);
+** “3x的平方”是\((3x)^2\)，而不是\(3x^2\);
+** \(3^x\)应说成3的x次方，而不应说成3x次方。
+** ((632cea95-264b-4022-901e-8d3dfd5a946b))
+*
