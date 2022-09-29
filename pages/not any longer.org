@@ -1,0 +1,12 @@
+* not any longer = {{cloze not any more，意为再也不}} #card #词组积累
+:PROPERTIES:
+:card-last-interval: 616.07
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2024-06-06T13:52:39.901Z
+:card-last-reviewed: 2022-09-29T12:52:39.902Z
+:card-last-score: 5
+:END:
+** I'm not standing for it any longer.
+** 这种事我再也不能容忍了。
+*

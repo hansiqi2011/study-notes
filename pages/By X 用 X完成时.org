@@ -1,0 +1,15 @@
+* By 到…为止  #card #英语
+:PROPERTIES:
+:card-last-interval: 616.07
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2024-06-06T13:52:57.770Z
+:card-last-reviewed: 2022-09-29T12:52:57.771Z
+:card-last-score: 5
+:END:
+** 现在完成时 = 过去动作到现在为止
+** 所以
+*** by+  now -> 用 现在完成时
+*** by + 过去 -> 过去完成时
+*** by + 将来 -> 将来完成时
+*

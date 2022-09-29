@@ -1,10 +1,10 @@
 * 什么是假分数(improper fraction)？ #card #数学
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-09-26T17:19:17.543Z
-:card-last-reviewed: 2022-09-15T13:19:17.543Z
+:card-last-interval: 49.17
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-11-17T16:55:52.712Z
+:card-last-reviewed: 2022-09-29T12:55:52.712Z
 :card-last-score: 5
 :END:
 ** 分子^^大于或者等于^^分母的分数叫假分数，假分数大于或等于1

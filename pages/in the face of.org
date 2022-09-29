@@ -1,0 +1,13 @@
+* in the face of #card #词汇积累
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-09-29T16:00:00.000Z
+:card-last-reviewed: 2022-09-29T12:52:36.193Z
+:card-last-score: 1
+:END:
+** {{cloze 当着……的面、面对}}
+** She showed great courage in the face of danger.
+** 面对危险她表现出了巨大的勇气。
+**

@@ -1,10 +1,10 @@
 * lose one's temper #card #词组积累
 :PROPERTIES:
-:card-last-interval: 48.9
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-28T21:11:43.016Z
-:card-last-reviewed: 2022-08-11T00:11:43.020Z
+:card-last-interval: 3.86
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-10-03T09:06:48.388Z
+:card-last-reviewed: 2022-09-29T13:06:48.388Z
 :card-last-score: 5
 :END:
 ** 释义： {{cloze na.发脾气；发怒}}

@@ -1,11 +1,11 @@
 * aspect #card #词汇积累
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-09-25T16:00:00.000Z
-:card-last-reviewed: 2022-09-25T13:43:55.648Z
-:card-last-score: 1
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-10-03T12:54:29.735Z
+:card-last-reviewed: 2022-09-29T12:54:29.736Z
+:card-last-score: 5
 :END:
 ** 释义： {{cloze n.方面；层面；外观；方位}}
 ** 读音： {{cloze 'æspekt}}

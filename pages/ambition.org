@@ -1,0 +1,12 @@
+* Ambition #card #词汇积累
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-09-29T16:00:00.000Z
+:card-last-reviewed: 2022-09-29T12:52:45.208Z
+:card-last-score: 1
+:END:
+** {{cloze 追求的目标，抱负；雄心，野心；干劲}}
+** In my youth my ambition had been to be an inventor.
+** 在我年轻时我的抱负曾是当一名发明家。

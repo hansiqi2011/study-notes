@@ -29,11 +29,11 @@
 * 求最大公因数的方法 #card #数学
 :PROPERTIES:
 :id: 62b50631-cb0a-4fe1-a0b5-9cb5d849a674
-:card-last-interval: 14.25
-:card-repeats: 3
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-09-26T06:45:52.419Z
-:card-last-reviewed: 2022-09-12T00:45:52.419Z
+:card-last-interval: 44.44
+:card-repeats: 4
+:card-ease-factor: 3
+:card-next-schedule: 2022-11-12T22:55:37.447Z
+:card-last-reviewed: 2022-09-29T12:55:37.447Z
 :card-last-score: 5
 :END:
 ** 短除法
