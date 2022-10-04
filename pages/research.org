@@ -1,10 +1,10 @@
 * research #card #词汇积累
 :PROPERTIES:
-:card-last-interval: 42.76
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-09-30T18:15:42.518Z
-:card-last-reviewed: 2022-08-19T00:15:42.518Z
+:card-last-interval: 137.97
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2023-02-17T23:33:26.445Z
+:card-last-reviewed: 2022-10-03T00:33:26.445Z
 :card-last-score: 5
 :END:
 ** 释义： {{cloze n.研究；探索；调查/v.研究；调查；探讨}}

@@ -1,11 +1,11 @@
 * in the face of #card #词汇积累
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.5
-:card-next-schedule: 2022-09-29T16:00:00.000Z
-:card-last-reviewed: 2022-09-29T12:52:36.193Z
-:card-last-score: 1
+:card-last-interval: 980.72
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2025-06-09T17:24:15.589Z
+:card-last-reviewed: 2022-10-03T00:24:15.590Z
+:card-last-score: 5
 :END:
 ** {{cloze 当着……的面、面对}}
 ** She showed great courage in the face of danger.

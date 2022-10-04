@@ -1,11 +1,11 @@
 * 池塘生春草， {{cloze 园柳变鸣禽}}。—— {{cloze 南北朝·谢灵运 《登池上楼》}} #card #诗词
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.5
-:card-next-schedule: 2022-09-29T16:00:00.000Z
-:card-last-reviewed: 2022-09-29T12:53:38.567Z
-:card-last-score: 1
+:card-last-interval: 2.64
+:card-repeats: 2
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-10-05T15:26:47.604Z
+:card-last-reviewed: 2022-10-03T00:26:47.604Z
+:card-last-score: 3
 :END:
 * 余霞散成绮， {{cloze 澄江静如练}}。—— 南北朝·谢脁《晚登三山还望京邑》 #card #诗词
 :PROPERTIES:
@@ -48,8 +48,8 @@
 :card-last-interval: -1
 :card-repeats: 1
 :card-ease-factor: 2.5
-:card-next-schedule: 2022-09-29T16:00:00.000Z
-:card-last-reviewed: 2022-09-29T12:53:18.194Z
+:card-next-schedule: 2022-10-03T16:00:00.000Z
+:card-last-reviewed: 2022-10-03T00:27:37.522Z
 :card-last-score: 1
 :END:
 * 棠梨叶落 {{cloze 胭脂色}}，荞麦花开 {{cloze 白雪香}}。——宋代·王禹偁《村行》 #card #诗词

@@ -1,10 +1,10 @@
 * 卖油翁 #card #古文
 :PROPERTIES:
-:card-last-interval: 11.04
-:card-repeats: 3
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-09-30T23:06:25.567Z
-:card-last-reviewed: 2022-09-19T23:06:25.568Z
+:card-last-interval: 33.86
+:card-repeats: 4
+:card-ease-factor: 2.86
+:card-next-schedule: 2022-11-05T20:33:43.353Z
+:card-last-reviewed: 2022-10-03T00:33:43.353Z
 :card-last-score: 5
 :END:
 ** 宋·欧阳修

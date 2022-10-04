@@ -63,11 +63,11 @@
 :END:
 * 软件包括 {{cloze 系统软件}}和 {{cloze 应用软件}}。 #card
 :PROPERTIES:
-:card-last-interval: 38.44
-:card-repeats: 4
-:card-ease-factor: 3.1
-:card-next-schedule: 2022-10-02T09:42:40.706Z
-:card-last-reviewed: 2022-08-24T23:42:40.706Z
+:card-last-interval: 135.58
+:card-repeats: 5
+:card-ease-factor: 3.2
+:card-next-schedule: 2023-02-15T13:36:35.581Z
+:card-last-reviewed: 2022-10-03T00:36:35.581Z
 :card-last-score: 5
 :END:
 * 系统软件包括 {{cloze 操作系统}}、 {{cloze 语言处理程序}}和 {{cloze 数据库系统}}。 #card #NOI

@@ -1,10 +1,34 @@
-* 怎样用STL执行查询和搜索？ #card #[[C++ STL]]
+* 怎样用STL执行查找？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 45.89
+:card-last-score: 5
 :card-repeats: 4
-:card-ease-factor: 2.9
 :card-next-schedule: 2022-10-30T22:05:11.301Z
+:card-last-interval: 45.89
+:card-ease-factor: 2.9
 :card-last-reviewed: 2022-09-15T01:05:11.301Z
+:END:
+** #+BEGIN_SRC c++
+#include <algorithm>
+using namespace std;
+
+int a[5] = { 1, 2, 3, 4, 5 };
+find(a, a + 5, 3);//在区间[0, 5)内查找等于3的元素，返回迭代器，若不存在则返回end()
+
+vector<int> v = { 1, 2, 3, 4, 5 };
+find(v.begin(), v.end(), 3);//在区间[0, 5)内查找等于3的元素，返回迭代器，若不存在则返回end()
+
+bool IsOdd (int i) {
+  return ((i%2)==1);
+}
+find_if (v.begin(), v.end(), IsOdd); //在区间[0,5)查找第一个奇数，返回迭代起，若不存在返回end()
+#+END_SRC
+* 怎样使用STL进行二分查找 #card #[[C++ STL]]
+:PROPERTIES:
+:card-last-interval: 980.72
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2025-06-09T17:23:17.665Z
+:card-last-reviewed: 2022-10-03T00:23:17.665Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++
@@ -12,15 +36,29 @@
 using namespace std;
 
 int a[5] = { 1, 2, 3, 4, 5 };
-
-find(a, a + 5, 3);//在区间[0, 5)内查找等于3的元素，返回迭代器，若不存在则返回end()
 binary_search(a, a + 5, 2);//二分查找区间[0, 5)内是否存在元素2，若存在返回true否则返回false
+
+vector<int> v = { 1, 2, 3, 4, 5 };
+binary_search(v.begin(), v.end(), 2);//二分查找区间[0, 5)内是否存在元素2，若存在返回true否则返回false
+#+END_SRC
+* 怎么使用STL进行元素的计数 #card #[[C++ STL]]
+:PROPERTIES:
+:card-last-interval: 980.72
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2025-06-09T17:23:05.712Z
+:card-last-reviewed: 2022-10-03T00:23:05.714Z
+:card-last-score: 5
+:collapsed: true
+:END:
+** #+BEGIN_SRC c++
+#include <algorithm>
+using namespace std;
+
+int a[5] = { 1, 2, 3, 4, 5 };
 count(a, a + 5, 3);//返回区间[0, 5)内元素3的个数
 
 vector<int> v = { 1, 2, 3, 4, 5 };
-
-find(v.begin(), v.end(), 3);//在区间[0, 5)内查找等于3的元素，返回迭代器，若不存在则返回end()
-binary_search(v.begin(), v.end(), 2);//二分查找区间[0, 5)内是否存在元素2，若存在返回true否则返回false
 count(v.begin(), v.end(), 3);//返回区间[0, 5)内元素3的个数
 #+END_SRC
 * 怎样使用STL进行排序操作？ #card #[[C++ STL]]
@@ -37,26 +75,42 @@ count(v.begin(), v.end(), 3);//返回区间[0, 5)内元素3的个数
 using namespace std;
 
 int a[5] = { 1, 2, 3, 4, 5 };
-
 sort(a, a + 5);//将区间[0, 5)内元素按字典序从小到大排序
 sort(a, a + 5, greater<int>());//将区间[0, 5)内元素按字典序从大到小排序
+
+vector<int> v = { 1, 2, 3, 4, 5 };
+sort(v.begin(), v.end()); //将区间[0, 5)内元素按字典序从小到大排序
+sort(v.begin(), v.end(), greater<int>()); //将区间[0, 5)内元素按字典序从大到小排序
+#+END_SRC
+* 怎样使用STL进行逆序操作？ #card #[[C++ STL]]
+:PROPERTIES:
+:card-last-score: 5
+:card-repeats: 4
+:card-next-schedule: 2022-10-30T22:00:08.353Z
+:card-last-interval: 45.89
+:card-ease-factor: 2.9
+:card-last-reviewed: 2022-09-15T01:00:08.354Z
+:END:
+** #+BEGIN_SRC c++
+#include <algorithm>
+using namespace std;
+
+int a[5] = { 1, 2, 3, 4, 5 };
 reverse(a, a + 5);//将区间[0, 5)内元素翻转
 
 
 vector<int> v = { 1, 2, 3, 4, 5 };
-
-sort(v.begin(), v.end()); //将区间[0, 5)内元素按字典序从小到大排序
-sort(v.begin(), v.end(), greater<int>()); //将区间[0, 5)内元素按字典序从大到小排序
 reverse(v.begin(), v.end()); //将区间[0, 5)内元素翻转
 #+END_SRC
-* 怎样用STL进行比较操作？ #card #[[C++ STL]]
+* 怎样用STL进行min, max操作？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 423.6
-:card-repeats: 3
-:card-ease-factor: 2.7
-:card-next-schedule: 2023-10-23T13:49:15.573Z
-:card-last-reviewed: 2022-08-25T23:49:15.573Z
 :card-last-score: 5
+:card-repeats: 3
+:card-next-schedule: 2023-10-23T13:49:15.573Z
+:card-last-interval: 423.6
+:card-ease-factor: 2.7
+:card-last-reviewed: 2022-08-25T23:49:15.573Z
+:collapsed: true
 :END:
 ** #+BEGIN_SRC c++
 #include <algorithm>
@@ -85,6 +139,7 @@ vector<int> v1{ 10, 20, 30, 40, 50 };
 :card-next-schedule: 2022-10-30T22:04:22.824Z
 :card-last-reviewed: 2022-09-15T01:04:22.824Z
 :card-last-score: 5
+:collapsed: true
 :END:
 ** #+BEGIN_SRC c++
 #include <algorithm>
@@ -102,6 +157,7 @@ swap(a,b); // a==20, b==10 now
 :card-next-schedule: 2022-10-29T20:07:24.012Z
 :card-last-reviewed: 2022-09-13T23:07:24.012Z
 :card-last-score: 5
+:collapsed: true
 :END:
 ** #+BEGIN_SRC c++
 #include <algorithm>

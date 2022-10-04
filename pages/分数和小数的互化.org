@@ -1,11 +1,11 @@
 * 一个^^[[最简分数]]^^，如果 {{cloze 分母}}中只含有 {{cloze 素因数2或者5，再无其他素因数}}，那么这个分数可以化成有限小数。 #card #数学
 :PROPERTIES:
 :card-last-score: 5
-:card-repeats: 3
-:card-next-schedule: 2022-09-29T17:41:31.507Z
-:card-last-interval: 11.2
-:card-ease-factor: 2.8
-:card-last-reviewed: 2022-09-18T13:41:31.508Z
+:card-repeats: 4
+:card-next-schedule: 2022-11-21T04:28:24.004Z
+:card-last-interval: 49.17
+:card-ease-factor: 2.9
+:card-last-reviewed: 2022-10-03T00:28:24.004Z
 :END:
 * 循环小数化为分数的技巧
 ** 纯循环小数化为分数 #card #数学

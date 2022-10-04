@@ -1,11 +1,11 @@
 * 使至塞上 #card #诗词
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-09-29T16:00:00.000Z
-:card-last-reviewed: 2022-09-29T12:54:59.257Z
-:card-last-score: 1
+:card-last-score: 3
+:card-repeats: 2
+:card-next-schedule: 2022-10-07T10:25:24.433Z
+:card-last-interval: 4.43
+:card-ease-factor: 2.56
+:card-last-reviewed: 2022-10-03T00:25:24.433Z
 :END:
 ** 王维 〔唐代〕
 ** 单车欲问边，属国过居延。

@@ -62,12 +62,12 @@
 *** 起点和终点相同的路径称为回路或者环
 ** 完全图 #card #数据结构
 :PROPERTIES:
-:card-last-interval: 48.9
-:card-repeats: 2
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.6
-:card-next-schedule: 2022-09-29T21:37:24.296Z
-:card-last-reviewed: 2022-08-12T00:37:24.296Z
-:card-last-score: 5
+:card-next-schedule: 2022-10-03T16:00:00.000Z
+:card-last-reviewed: 2022-10-03T00:32:37.088Z
+:card-last-score: 1
 :END:
 *** 一个n个节点的完全无向图包含$n \times (n-1) \div 2$条边
 *** 一个n个节点的完全有向图包含$n \times (n-1)$条边

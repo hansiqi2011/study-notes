@@ -10,11 +10,11 @@
 :END:
 ** Wood {{cloze is used to}}(use) make paper.  #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-09-29T17:41:55.565Z
-:card-last-reviewed: 2022-09-18T13:41:55.566Z
+:card-last-interval: 49.17
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-11-21T04:28:47.407Z
+:card-last-reviewed: 2022-10-03T00:28:47.407Z
 :card-last-score: 5
 :END:
 * NCE2 Lesson 80
@@ -85,11 +85,11 @@
 * NCE2 Lesson 82
 ** 近视 {{cloze near sighted/short sighted}} #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-09-29T17:42:14.691Z
-:card-last-reviewed: 2022-09-18T13:42:14.692Z
+:card-last-interval: 49.17
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-11-21T04:29:07.363Z
+:card-last-reviewed: 2022-10-03T00:29:07.364Z
 :card-last-score: 5
 :END:
 ** 远视 {{cloze far sighted/long sighted}}  #card #英语 #错题
@@ -139,12 +139,12 @@
 :END:
 ** The lost boy {{cloze hasn't been found}} [[so far]] .  #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-09-29T16:00:00.000Z
-:card-last-reviewed: 2022-09-29T12:57:02.679Z
-:card-last-score: 1
+:card-last-interval: 4.28
+:card-repeats: 2
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-10-07T06:26:37.897Z
+:card-last-reviewed: 2022-10-03T00:26:37.897Z
+:card-last-score: 5
 :END:
 ** Fishermen claim to have seen monsters. They {{cloze state}} that they have.  #card #英语 #错题
 :PROPERTIES:
@@ -158,11 +158,11 @@
 * NCE2 Lesson 83
 ** He has been an opponent. He has been opposed {{cloze to}} it. #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-10-02T03:03:07.115Z
-:card-last-reviewed: 2022-09-20T23:03:07.116Z
+:card-last-interval: 49.17
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-11-21T04:36:33.575Z
+:card-last-reviewed: 2022-10-03T00:36:33.576Z
 :card-last-score: 5
 :END:
 * NCE2 Lesson 84
@@ -205,11 +205,11 @@
 :END:
 ** I suppose the concert {{cloze will be finished}}(finish) about 6.  #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-09-29T17:41:39.105Z
-:card-last-reviewed: 2022-09-18T13:41:39.106Z
+:card-last-interval: 49.17
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-11-21T04:28:31.349Z
+:card-last-reviewed: 2022-10-03T00:28:31.349Z
 :card-last-score: 5
 :END:
 ** By the time you arrive she {{cloze will have gone}}(go). #card #英语 #错题
@@ -279,11 +279,11 @@
 :END:
 ** He asked, "How did you find it, mother?" -- 改为间接引语 #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-10-01T03:07:04.329Z
-:card-last-reviewed: 2022-09-19T23:07:04.329Z
+:card-last-interval: 49.17
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-11-21T04:33:49.569Z
+:card-last-reviewed: 2022-10-03T00:33:49.569Z
 :card-last-score: 5
 :END:
 He asked his mother {{cloze how she had}} found it.
@@ -337,20 +337,20 @@ There is no need. He {{cloze has woke}}(wake) up.
 :END:
 ** 发脾气 {{cloze lose one's temper}} #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-09-29T17:41:51.936Z
-:card-last-reviewed: 2022-09-18T13:41:51.936Z
+:card-last-interval: 49.17
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-11-21T04:28:43.878Z
+:card-last-reviewed: 2022-10-03T00:28:43.878Z
 :card-last-score: 5
 :END:
 ** 举行罢工  {{cloze go on strike}} #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-09-29T17:41:57.268Z
-:card-last-reviewed: 2022-09-18T13:41:57.268Z
+:card-last-interval: 49.17
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-11-21T04:28:49.091Z
+:card-last-reviewed: 2022-10-03T00:28:49.091Z
 :card-last-score: 5
 :END:
 ** 来来回回  {{cloze up and down}} #card #英语 #错题
@@ -364,20 +364,20 @@ There is no need. He {{cloze has woke}}(wake) up.
 :END:
 ** 在值班、值日 {{cloze on duty}} #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-09-29T17:41:58.927Z
-:card-last-reviewed: 2022-09-18T13:41:58.927Z
+:card-last-interval: 49.17
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-11-21T04:28:52.459Z
+:card-last-reviewed: 2022-10-03T00:28:52.459Z
 :card-last-score: 5
 :END:
 ** She speaks English very well. Who taught {{cloze her}}?  #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-09-29T17:42:08.813Z
-:card-last-reviewed: 2022-09-18T13:42:08.813Z
+:card-last-interval: 49.17
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-11-21T04:29:02.952Z
+:card-last-reviewed: 2022-10-03T00:29:02.952Z
 :card-last-score: 5
 :END:
 Nobody! She taught {{cloze herself}}.  #card #英语 #错题
@@ -414,21 +414,21 @@ Each scout {{cloze is taught}} how to survive in difficult environments.
 * NCE2 Lesson 91
 ** 设法做某事 {{cloze manage to do}}  #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-09-29T17:42:00.757Z
-:card-last-reviewed: 2022-09-18T13:42:00.757Z
+:card-last-interval: 49.17
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-11-21T04:28:59.288Z
+:card-last-reviewed: 2022-10-03T00:28:59.288Z
 :card-last-score: 5
 :END:
 ** Bob is only 11 months old, but he {{cloze can}} stand up by himself. #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-09-29T16:00:00.000Z
-:card-last-reviewed: 2022-09-29T12:55:39.361Z
-:card-last-score: 1
+:card-last-interval: 4.28
+:card-repeats: 2
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-10-07T06:25:27.602Z
+:card-last-reviewed: 2022-10-03T00:25:27.602Z
+:card-last-score: 5
 :END:
 ** Look! He {{cloze is able to}} talk without drinking all the time. #card #英语 #错题
 :PROPERTIES:
@@ -470,11 +470,11 @@ Eh? Didn't Mary get on the same bus with you? But she {{cloze was able to}} get 
 :END:
 ** There are many {{cloze fallen}}(fall) leaves on the ground.  #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-09-29T17:41:42.960Z
-:card-last-reviewed: 2022-09-18T13:41:42.960Z
+:card-last-interval: 49.17
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-11-21T04:28:35.756Z
+:card-last-reviewed: 2022-10-03T00:28:35.756Z
 :card-last-score: 5
 :END:
 * NCE2 Lesson 94

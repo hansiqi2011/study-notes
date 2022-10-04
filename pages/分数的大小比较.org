@@ -1,10 +1,10 @@
 * 基本比较 #card #分数
 :PROPERTIES:
-:card-last-interval: 48.9
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-29T21:36:34.516Z
-:card-last-reviewed: 2022-08-12T00:36:34.516Z
+:card-last-interval: 3.72
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-10-06T17:31:59.790Z
+:card-last-reviewed: 2022-10-03T00:31:59.790Z
 :card-last-score: 5
 :END:
 ** $\dfrac{x}{m}:\dfrac{y}{m}=x:y$，即若分母相同，分子大的较大。
@@ -17,55 +17,55 @@
 :END:
 * 通分 #card #分数
 :PROPERTIES:
-:card-last-interval: 48.9
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-29T21:33:29.650Z
-:card-last-reviewed: 2022-08-12T00:33:29.650Z
+:card-last-interval: 3.72
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-10-06T17:31:24.678Z
+:card-last-reviewed: 2022-10-03T00:31:24.678Z
 :card-last-score: 5
 :END:
 ** 通分母，转换成 ((62f4658e-1e82-4edb-b6f6-312a421dbd7d)) 的情况。
 ** 通分子，转换成 ((62f465d4-1933-494c-963a-fdd684d3260f)) 的情况。
 * 交叉相乘 #card #分数
 :PROPERTIES:
-:card-last-interval: 48.9
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-29T21:33:20.839Z
-:card-last-reviewed: 2022-08-12T00:33:20.841Z
+:card-last-interval: 3.72
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-10-06T17:31:15.630Z
+:card-last-reviewed: 2022-10-03T00:31:15.631Z
 :card-last-score: 5
 :END:
 ** $\dfrac{a}{c}:\dfrac{b}{d}=ac:bd$
 * 求商 #card #分数
 :PROPERTIES:
-:card-last-interval: 48.9
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-29T21:25:13.888Z
-:card-last-reviewed: 2022-08-12T00:25:13.889Z
+:card-last-interval: 3.72
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-10-06T17:31:12.131Z
+:card-last-reviewed: 2022-10-03T00:31:12.131Z
 :card-last-score: 5
 :END:
 ** 设$x=\dfrac{a}{c} \div \dfrac{b}{d}$。
-** 若$x<0$，则$\dfrac{a}{c}<\dfrac{b}{d}$。
-** 若$x=0$，则$\dfrac{a}{c}=\dfrac{b}{d}$。
-** 若$x>0$，则$\dfrac{a}{c}>\dfrac{b}{d}$。
+** 若$x<1$，则$\dfrac{a}{c}<\dfrac{b}{d}$。
+** 若$x=1$，则$\dfrac{a}{c}=\dfrac{b}{d}$。
+** 若$x>1$，则$\dfrac{a}{c}>\dfrac{b}{d}$。
 * 比较倒数 #card #分数
 :PROPERTIES:
-:card-last-interval: 48.9
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-29T21:36:27.861Z
-:card-last-reviewed: 2022-08-12T00:36:27.863Z
+:card-last-interval: 3.72
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-10-06T17:31:37.684Z
+:card-last-reviewed: 2022-10-03T00:31:37.684Z
 :card-last-score: 5
 :END:
 ** $\dfrac{a}{c} \div \dfrac{b}{d}=\dfrac{1}{\space \dfrac{c}{a} \div \dfrac{d}{b} \space}$
 * 作差/和比较 #card #分数
 :PROPERTIES:
-:card-last-interval: 48.9
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-29T21:25:06.079Z
-:card-last-reviewed: 2022-08-12T00:25:06.080Z
+:card-last-interval: 3.72
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-10-06T17:29:38.152Z
+:card-last-reviewed: 2022-10-03T00:29:38.152Z
 :card-last-score: 5
 :END:
 ** 举例：
