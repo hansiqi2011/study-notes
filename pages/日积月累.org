@@ -1,19 +1,19 @@
 * 池塘生春草， {{cloze 园柳变鸣禽}}。—— {{cloze 南北朝·谢灵运 《登池上楼》}} #card #诗词
 :PROPERTIES:
-:card-last-interval: 2.64
-:card-repeats: 2
-:card-ease-factor: 2.36
-:card-next-schedule: 2022-10-05T15:26:47.604Z
-:card-last-reviewed: 2022-10-03T00:26:47.604Z
-:card-last-score: 3
+:card-last-interval: 10.75
+:card-repeats: 3
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-10-17T07:40:35.044Z
+:card-last-reviewed: 2022-10-06T13:40:35.044Z
+:card-last-score: 5
 :END:
 * 余霞散成绮， {{cloze 澄江静如练}}。—— 南北朝·谢脁《晚登三山还望京邑》 #card #诗词
 :PROPERTIES:
-:card-last-interval: 5.04
-:card-repeats: 2
-:card-ease-factor: 2.46
-:card-next-schedule: 2022-10-04T13:05:49.168Z
-:card-last-reviewed: 2022-09-29T13:05:49.168Z
+:card-last-interval: 13.38
+:card-repeats: 3
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-10-19T22:40:28.607Z
+:card-last-reviewed: 2022-10-06T13:40:28.608Z
 :card-last-score: 5
 :END:
 * 蝉噪林逾静， {{cloze 鸟鸣山更幽}}。—— 南北朝·王藉 《入若耶溪》 #card #诗词
@@ -45,12 +45,12 @@
 :END:
 * 秋风生渭水， {{cloze 落叶满长安}}。——唐代·贾岛《忆江上吴处士》 #card #诗词
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.5
-:card-next-schedule: 2022-10-03T16:00:00.000Z
-:card-last-reviewed: 2022-10-03T00:27:37.522Z
-:card-last-score: 1
+:card-last-interval: 991.81
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2025-06-24T08:36:21.949Z
+:card-last-reviewed: 2022-10-06T13:36:21.949Z
+:card-last-score: 5
 :END:
 * 棠梨叶落 {{cloze 胭脂色}}，荞麦花开 {{cloze 白雪香}}。——宋代·王禹偁《村行》 #card #诗词
 :PROPERTIES:

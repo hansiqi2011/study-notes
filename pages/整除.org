@@ -1,11 +1,11 @@
 * 整除的定义 #card #数学
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-10-03T16:00:00.000Z
-:card-last-reviewed: 2022-10-03T00:34:31.232Z
-:card-last-score: 1
+:card-last-interval: 13.29
+:card-repeats: 3
+:card-ease-factor: 3.1
+:card-next-schedule: 2022-10-19T19:40:12.332Z
+:card-last-reviewed: 2022-10-06T13:40:12.333Z
+:card-last-score: 5
 :END:
 ** 设a, b是两个整数，且$b \ne 0$
 ** 若存在整数q，使得$a=bq$，则称b整除a，或a被b整除，符号记作$b\mid a$
@@ -34,11 +34,11 @@
 :END:
 ** 若 m|a, m|b，则 {{cloze m|(a+b)}}， {{cloze m|(a-b)}}  #card #数学
 :PROPERTIES:
-:card-last-interval: 42.76
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-10-03T07:57:16.058Z
-:card-last-reviewed: 2022-08-21T13:57:16.059Z
+:card-last-interval: 137.97
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2023-02-21T12:24:31.070Z
+:card-last-reviewed: 2022-10-06T13:24:31.070Z
 :card-last-score: 5
 :END:
 ** 若a*b|m，则 {{cloze a|m, b|m}} #card #数学

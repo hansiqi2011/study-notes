@@ -1,10 +1,10 @@
 * [[分数]]的基本性质 #card
 :PROPERTIES:
-:card-last-interval: 3.86
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-10-03T09:04:36.703Z
-:card-last-reviewed: 2022-09-29T13:04:36.703Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-10-17T17:31:17.721Z
+:card-last-reviewed: 2022-10-06T13:31:17.722Z
 :card-last-score: 5
 :END:
 ** $$\dfrac{x}{y}=\dfrac{xm}{ym}$$

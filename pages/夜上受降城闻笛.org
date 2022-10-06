@@ -1,11 +1,11 @@
 * 夜上受降城闻笛 #card #诗词
 :PROPERTIES:
-:card-last-interval: 42.76
-:card-repeats: 4
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.9
-:card-next-schedule: 2022-10-03T07:57:28.983Z
-:card-last-reviewed: 2022-08-21T13:57:28.984Z
-:card-last-score: 5
+:card-next-schedule: 2022-10-06T16:00:00.000Z
+:card-last-reviewed: 2022-10-06T13:24:55.474Z
+:card-last-score: 1
 :END:
 ** 唐·李益
 ** 回乐烽前沙似雪，受降城外月如霜。(回乐烽 一作：回乐峰)

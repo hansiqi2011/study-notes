@@ -1,10 +1,10 @@
 * 十一月四日风雨大作·其二 #card #诗词
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-10-03T12:53:04.475Z
-:card-last-reviewed: 2022-09-29T12:53:04.475Z
+:card-last-interval: 11.84
+:card-repeats: 3
+:card-ease-factor: 2.86
+:card-next-schedule: 2022-10-18T09:33:07.877Z
+:card-last-reviewed: 2022-10-06T13:33:07.877Z
 :card-last-score: 5
 :END:
 ** 宋·陆游

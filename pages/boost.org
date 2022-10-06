@@ -1,10 +1,10 @@
 * boost #card #词汇积累
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 2
-:card-ease-factor: 3.1
-:card-next-schedule: 2022-10-03T16:03:21.753Z
-:card-last-reviewed: 2022-09-29T13:03:21.754Z
+:card-last-interval: 43.56
+:card-repeats: 4
+:card-ease-factor: 3.3
+:card-next-schedule: 2022-11-19T02:40:17.640Z
+:card-last-reviewed: 2022-10-06T13:40:17.640Z
 :card-last-score: 5
 :END:
 ** 释义： {{cloze n.提高；增长；帮助；激励/v.使增长；使兴旺；偷窃}}

@@ -9,11 +9,11 @@
 :END:
 * 树的定义：一棵树是由n(n>0)个元素组成的有限集合 #card #数据结构
 :PROPERTIES:
-:card-last-interval: 3.86
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-10-03T09:02:25.400Z
-:card-last-reviewed: 2022-09-29T13:02:25.400Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-10-17T17:27:44.948Z
+:card-last-reviewed: 2022-10-06T13:27:44.948Z
 :card-last-score: 5
 :END:
 ** 每个元素称为 {{cloze 节点node}}
@@ -21,11 +21,11 @@
 ** 除根节点外，其余节点能够分成m(m>=0)个互不相交的有限集合$T_0, T_1, \dots, T_{m-1}$, 其中每个自己又都是一棵树，称为这棵树的 {{cloze 子树}}
 * 除根节点外，每个结点都有唯一一个 {{cloze 前驱节点}}，0或者多个 {{cloze 后继节点}} #card #数据结构
 :PROPERTIES:
-:card-last-interval: 3.86
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-10-03T09:02:46.823Z
-:card-last-reviewed: 2022-09-29T13:02:46.823Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-10-17T17:27:54.481Z
+:card-last-reviewed: 2022-10-06T13:27:54.482Z
 :card-last-score: 5
 :END:
 * 一个节点的 {{cloze 子树个数}}，称为这个节点的度degree  #card #数据结构
@@ -43,11 +43,11 @@
 ** 树中各节点的度的 {{cloze 最大值}}称为这棵树的度
 * 树相关的重要概念 #card #数据结构
 :PROPERTIES:
-:card-last-interval: 3.86
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-10-03T09:00:52.841Z
-:card-last-reviewed: 2022-09-29T13:00:52.841Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-10-17T17:26:46.926Z
+:card-last-reviewed: 2022-10-06T13:26:46.927Z
 :card-last-score: 5
 :END:
 ** 节点之间的连线称为边 edge
@@ -59,11 +59,11 @@
 * 常见的树的遍历 Tree Traversal
 ** 树的遍历——深度优先(Depth First Search)  #card #数据结构
 :PROPERTIES:
-:card-last-interval: 3.86
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-10-03T09:03:12.968Z
-:card-last-reviewed: 2022-09-29T13:03:12.969Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-10-17T17:28:41.763Z
+:card-last-reviewed: 2022-10-06T13:28:41.763Z
 :card-last-score: 5
 :END:
 *** 前序(根)遍历 preorder traversal
@@ -74,11 +74,11 @@
 **** 左->根->右：按照当前左子树，根节点，右子树的顺序，递归地处理每一个节点
 ** 树的遍历——广度优先(Breadth First Search) #card #数据结构
 :PROPERTIES:
-:card-last-interval: 3.86
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-10-03T09:00:22.081Z
-:card-last-reviewed: 2022-09-29T13:00:22.081Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-10-17T17:25:33.725Z
+:card-last-reviewed: 2022-10-06T13:25:33.726Z
 :card-last-score: 5
 :END:
 *** 层序遍历 levelorder traversal
@@ -87,32 +87,32 @@
 ** 二叉树是一种特殊的、度数为2的树
 ** 在二叉树的第i层上最多有多少个节点？  #card #数据结构
 :PROPERTIES:
-:card-last-interval: 3.86
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-10-03T09:01:44.953Z
-:card-last-reviewed: 2022-09-29T13:01:44.954Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-10-17T17:27:22.102Z
+:card-last-reviewed: 2022-10-06T13:27:22.102Z
 :card-last-score: 5
 :END:
 *** $2^{i-1}, i \ge 1$
 ** 深度为k的二叉树最多有多少个节点？  #card #数据结构
 :PROPERTIES:
-:card-last-interval: 3.86
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-10-03T09:03:02.758Z
-:card-last-reviewed: 2022-09-29T13:03:02.758Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-10-17T17:28:31.405Z
+:card-last-reviewed: 2022-10-06T13:28:31.406Z
 :card-last-score: 5
 :END:
 *** $2^k-1, k \ge 1$
 *** 一个深度为k，而且节点数量为$2^k-1$的二叉树称为*完全二叉树*
 ** 对于任意一个二叉树，如果其叶子节点数量为$n_0$，度数为2的节点数量为$n_2$，则一定满足：  #card #数据结构
 :PROPERTIES:
-:card-last-interval: 3.86
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-10-03T09:01:26.779Z
-:card-last-reviewed: 2022-09-29T13:01:26.780Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-10-17T17:26:59.604Z
+:card-last-reviewed: 2022-10-06T13:26:59.604Z
 :card-last-score: 5
 :END:
 *** $n_0 = n_2 + 1$
