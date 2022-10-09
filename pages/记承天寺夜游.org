@@ -1,10 +1,10 @@
 * 记承天寺夜游 #card #古文
 :PROPERTIES:
-:card-last-interval: 26.83
-:card-repeats: 4
-:card-ease-factor: 2.42
-:card-next-schedule: 2022-10-08T19:46:37.046Z
-:card-last-reviewed: 2022-09-12T00:46:37.046Z
+:card-last-interval: 70.54
+:card-repeats: 5
+:card-ease-factor: 2.52
+:card-next-schedule: 2022-12-18T23:41:32.052Z
+:card-last-reviewed: 2022-10-09T11:41:32.052Z
 :card-last-score: 5
 :END:
 ** 宋·苏轼

@@ -1,11 +1,11 @@
 * interact #card #词汇积累
 :PROPERTIES:
-:card-last-interval: 13.38
-:card-repeats: 3
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-10-08T22:43:16.005Z
-:card-last-reviewed: 2022-09-25T13:43:16.005Z
-:card-last-score: 3
+:card-last-interval: 45.71
+:card-repeats: 4
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-11-24T04:41:36.943Z
+:card-last-reviewed: 2022-10-09T11:41:36.943Z
+:card-last-score: 5
 :END:
 ** 释义： {{cloze v.相互作用；交流；相互影响；沟通}}
 ** 读音： {{cloze ɪntər'ækt}}

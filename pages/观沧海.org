@@ -1,11 +1,11 @@
 * 步出夏门行·观沧海 #card #诗词
 :PROPERTIES:
-:card-last-interval: 47.41
-:card-repeats: 5
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.28
-:card-next-schedule: 2022-10-09T08:41:20.938Z
-:card-last-reviewed: 2022-08-22T23:41:20.938Z
-:card-last-score: 3
+:card-next-schedule: 2022-10-09T16:00:00.000Z
+:card-last-reviewed: 2022-10-09T11:42:14.589Z
+:card-last-score: 1
 :END:
 ** 汉/三国·曹操
 ** /东/ 临*碣石*，以观*沧海*。

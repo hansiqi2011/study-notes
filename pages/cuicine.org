@@ -1,10 +1,10 @@
 * cuicine #card #词汇积累
 :PROPERTIES:
-:card-last-interval: 3.86
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-10-06T20:24:31.307Z
-:card-last-reviewed: 2022-10-03T00:24:31.307Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-10-20T15:38:51.217Z
+:card-last-reviewed: 2022-10-09T11:38:51.217Z
 :card-last-score: 5
 :END:
 ** 释义： {{cloze n.厨房；烹调法；菜肴}}

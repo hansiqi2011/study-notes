@@ -118,11 +118,11 @@
 *** $n_0 = n_2 + 1$
 ** 具有n个节点的完全二叉树的深度为   #card #数据结构
 :PROPERTIES:
-:card-last-interval: 3.86
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-10-06T20:24:35.621Z
-:card-last-reviewed: 2022-10-03T00:24:35.621Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-10-20T15:38:58.165Z
+:card-last-reviewed: 2022-10-09T11:38:58.165Z
 :card-last-score: 5
 :END:
 *** $floor(\log_2 n) + 1$

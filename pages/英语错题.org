@@ -139,11 +139,11 @@
 :END:
 ** The lost boy {{cloze hasn't been found}} [[so far]] .  #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 4.28
-:card-repeats: 2
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-10-07T06:26:37.897Z
-:card-last-reviewed: 2022-10-03T00:26:37.897Z
+:card-last-interval: 13.79
+:card-repeats: 3
+:card-ease-factor: 3
+:card-next-schedule: 2022-10-23T05:40:38.703Z
+:card-last-reviewed: 2022-10-09T11:40:38.704Z
 :card-last-score: 5
 :END:
 ** Fishermen claim to have seen monsters. They {{cloze state}} that they have.  #card #英语 #错题
@@ -423,11 +423,11 @@ Each scout {{cloze is taught}} how to survive in difficult environments.
 :END:
 ** Bob is only 11 months old, but he {{cloze can}} stand up by himself. #card #英语 #错题
 :PROPERTIES:
-:card-last-interval: 4.28
-:card-repeats: 2
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-10-07T06:25:27.602Z
-:card-last-reviewed: 2022-10-03T00:25:27.602Z
+:card-last-interval: 13.79
+:card-repeats: 3
+:card-ease-factor: 3
+:card-next-schedule: 2022-10-23T05:40:24.110Z
+:card-last-reviewed: 2022-10-09T11:40:24.110Z
 :card-last-score: 5
 :END:
 ** Look! He {{cloze is able to}} talk without drinking all the time. #card #英语 #错题
