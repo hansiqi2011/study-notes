@@ -1,0 +1,12 @@
+* withdraw #card #英语 #词汇积累
+:PROPERTIES:
+:card-last-interval: 880.84
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2025-03-08T07:36:09.815Z
+:card-last-reviewed: 2022-10-09T11:36:09.816Z
+:card-last-score: 5
+:END:
+** / wɪðˈdrɔː /
+** v. 撤回；撤出；取钱
+** A back injury forced her to withdraw from Wimbledon.

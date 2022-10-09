@@ -1,0 +1,12 @@
+* mourn #card #英语 #词汇积累
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-10-09T16:00:00.000Z
+:card-last-reviewed: 2022-10-09T11:36:02.173Z
+:card-last-score: 1
+:END:
+** / mɔːn /
+** /v./悼念，哀悼；对……感到痛心（遗憾）
+** They mourn the passing of a simpler way of life.

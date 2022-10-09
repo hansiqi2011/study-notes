@@ -1,0 +1,12 @@
+* court #card #英语 #词汇积累
+:PROPERTIES:
+:card-last-interval: 880.84
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2025-03-08T07:36:13.368Z
+:card-last-reviewed: 2022-10-09T11:36:13.368Z
+:card-last-score: 5
+:END:
+** / kɔːt /
+** n. 法院，法庭；球场
+** She runs around the court.
