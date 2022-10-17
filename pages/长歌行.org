@@ -1,11 +1,11 @@
 * 长歌行 #card #诗词
 :PROPERTIES:
-:card-last-interval: 33.86
-:card-repeats: 4
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.86
-:card-next-schedule: 2022-10-09T19:10:21.435Z
-:card-last-reviewed: 2022-09-05T23:10:21.435Z
-:card-last-score: 5
+:card-next-schedule: 2022-10-16T16:00:00.000Z
+:card-last-reviewed: 2022-10-15T23:51:41.931Z
+:card-last-score: 1
 :END:
 ** 汉乐府
 ** 青青园中葵，朝露待日晞。

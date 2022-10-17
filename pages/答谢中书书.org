@@ -1,11 +1,11 @@
-* 答谢中书书 #card #古文 #诗词
+* 答 谢中书 书 #card #古文 #诗词
 :PROPERTIES:
-:card-last-interval: 48.9
-:card-repeats: 2
+:card-last-score: 1
+:card-repeats: 1
+:card-next-schedule: 2022-10-16T16:00:00.000Z
+:card-last-interval: -1
 :card-ease-factor: 2.6
-:card-next-schedule: 2022-10-09T20:11:47.471Z
-:card-last-reviewed: 2022-08-21T23:11:47.472Z
-:card-last-score: 5
+:card-last-reviewed: 2022-10-15T23:52:26.060Z
 :END:
 ** 陶弘景 〔南北朝〕
 ** 山川之美，古来共谈。

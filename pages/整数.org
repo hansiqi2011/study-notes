@@ -13,11 +13,11 @@
 ** 负整数
 * 整数的特性 #card
 :PROPERTIES:
-:card-last-interval: 40.96
-:card-repeats: 4
-:card-ease-factor: 3.2
-:card-next-schedule: 2022-10-15T22:14:54.444Z
-:card-last-reviewed: 2022-09-04T23:14:54.444Z
+:card-last-interval: 143.75
+:card-repeats: 5
+:card-ease-factor: 3.3
+:card-next-schedule: 2023-03-08T17:56:52.990Z
+:card-last-reviewed: 2022-10-15T23:56:52.990Z
 :card-last-score: 5
 :END:
 ** 任何一个整数都能表示为$$\pm1$$和若干个[[质因数]]的若干[[次幂]]的积或0。

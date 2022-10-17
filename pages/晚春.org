@@ -3,8 +3,8 @@
 :card-last-interval: -1
 :card-repeats: 1
 :card-ease-factor: 2.6
-:card-next-schedule: 2022-10-09T16:00:00.000Z
-:card-last-reviewed: 2022-10-09T11:36:42.835Z
+:card-next-schedule: 2022-10-16T16:00:00.000Z
+:card-last-reviewed: 2022-10-15T23:49:54.948Z
 :card-last-score: 1
 :END:
 ** 韩愈 〔唐代〕

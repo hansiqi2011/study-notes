@@ -1,11 +1,11 @@
 * 春夜洛城闻笛 #card #诗词
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-10-09T16:00:00.000Z
-:card-last-reviewed: 2022-10-09T11:36:29.098Z
-:card-last-score: 1
+:card-last-interval: 5.22
+:card-repeats: 2
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-10-21T04:49:07.223Z
+:card-last-reviewed: 2022-10-15T23:49:07.224Z
+:card-last-score: 3
 :END:
 ** 李白 〔唐代〕
 ** 谁家玉笛暗飞声，散入春风满洛城。

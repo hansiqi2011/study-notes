@@ -1,10 +1,10 @@
 * 滁州西涧 #card #诗词
 :PROPERTIES:
-:card-last-interval: 40.96
-:card-repeats: 4
-:card-ease-factor: 3.2
-:card-next-schedule: 2022-10-15T22:16:46.102Z
-:card-last-reviewed: 2022-09-04T23:16:46.102Z
+:card-last-interval: 143.75
+:card-repeats: 5
+:card-ease-factor: 3.3
+:card-next-schedule: 2023-03-08T17:56:59.223Z
+:card-last-reviewed: 2022-10-15T23:56:59.224Z
 :card-last-score: 5
 :END:
 ** 唐·韦应物

@@ -1,10 +1,10 @@
 * 常用否定性副词？ #card #英语
 :PROPERTIES:
-:card-last-interval: 9.28
-:card-repeats: 3
-:card-ease-factor: 2.32
-:card-next-schedule: 2022-10-15T19:34:46.065Z
-:card-last-reviewed: 2022-10-06T13:34:46.065Z
+:card-last-interval: 24.88
+:card-repeats: 4
+:card-ease-factor: 2.42
+:card-next-schedule: 2022-11-09T20:56:29.175Z
+:card-last-reviewed: 2022-10-15T23:56:29.175Z
 :card-last-score: 5
 :END:
 ** Little；few；never；none；no；not；seldom；scarcely；rarely；hardly

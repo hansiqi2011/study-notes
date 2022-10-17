@@ -1,11 +1,11 @@
 * troop  #card #英语 #词汇积累
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.5
-:card-next-schedule: 2022-10-09T16:00:00.000Z
-:card-last-reviewed: 2022-10-09T11:36:18.179Z
-:card-last-score: 1
+:card-last-interval: 652.8
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2024-07-29T18:51:26.114Z
+:card-last-reviewed: 2022-10-15T23:51:26.114Z
+:card-last-score: 5
 :END:
 ** /n./军队，士兵；部队，（尤指）骑兵连，装甲连；童子军中队；一组，一群
 ** /v./成群结队地走，列队行进；（孤身一人）缓步前行，稳步前行；（尤指被告知）成群前往

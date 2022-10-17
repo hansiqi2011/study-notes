@@ -1,10 +1,10 @@
 * 逢入京使 #card #诗词
 :PROPERTIES:
-:card-last-interval: 28.4
-:card-repeats: 4
-:card-ease-factor: 2.62
-:card-next-schedule: 2022-10-13T22:28:35.921Z
-:card-last-reviewed: 2022-09-15T13:28:35.921Z
+:card-last-interval: 80.49
+:card-repeats: 5
+:card-ease-factor: 2.72
+:card-next-schedule: 2023-01-04T10:55:29.422Z
+:card-last-reviewed: 2022-10-15T23:55:29.422Z
 :card-last-score: 5
 :END:
 ** 岑参 〔唐代〕
