@@ -1,10 +1,10 @@
 * 野望 #card #诗词
 :PROPERTIES:
-:card-last-interval: 10.84
-:card-repeats: 3
-:card-ease-factor: 2.62
-:card-next-schedule: 2022-10-20T07:40:12.175Z
-:card-last-reviewed: 2022-10-09T11:40:12.176Z
+:card-last-interval: 29.59
+:card-repeats: 4
+:card-ease-factor: 2.72
+:card-next-schedule: 2022-11-22T03:27:19.651Z
+:card-last-reviewed: 2022-10-23T13:27:19.651Z
 :card-last-score: 5
 :END:
 ** 王绩 〔唐代〕

@@ -1,10 +1,10 @@
 * 基本比较 #card #分数
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-10-20T15:38:21.335Z
-:card-last-reviewed: 2022-10-09T11:38:21.335Z
+:card-last-interval: 64.73
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-12-27T06:29:08.348Z
+:card-last-reviewed: 2022-10-23T13:29:08.348Z
 :card-last-score: 5
 :END:
 ** $\dfrac{x}{m}:\dfrac{y}{m}=x:y$，即若分母相同，分子大的较大。
@@ -17,32 +17,32 @@
 :END:
 * 通分 #card #分数
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-10-20T15:37:57.005Z
-:card-last-reviewed: 2022-10-09T11:37:57.005Z
+:card-last-interval: 64.73
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-12-27T06:28:41.887Z
+:card-last-reviewed: 2022-10-23T13:28:41.887Z
 :card-last-score: 5
 :END:
 ** 通分母，转换成 ((62f4658e-1e82-4edb-b6f6-312a421dbd7d)) 的情况。
 ** 通分子，转换成 ((62f465d4-1933-494c-963a-fdd684d3260f)) 的情况。
 * 交叉相乘 #card #分数
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-10-20T15:37:52.431Z
-:card-last-reviewed: 2022-10-09T11:37:52.431Z
+:card-last-interval: 64.73
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-12-27T06:28:38.047Z
+:card-last-reviewed: 2022-10-23T13:28:38.047Z
 :card-last-score: 5
 :END:
 ** $\dfrac{a}{c}:\dfrac{b}{d}=ac:bd$
 * 求商 #card #分数
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-10-20T15:37:48.792Z
-:card-last-reviewed: 2022-10-09T11:37:48.792Z
+:card-last-interval: 64.73
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-12-27T06:28:34.102Z
+:card-last-reviewed: 2022-10-23T13:28:34.103Z
 :card-last-score: 5
 :END:
 ** 设$x=\dfrac{a}{c} \div \dfrac{b}{d}$。
@@ -51,21 +51,21 @@
 ** 若$x>1$，则$\dfrac{a}{c}>\dfrac{b}{d}$。
 * 比较倒数 #card #分数
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-10-20T15:38:07.898Z
-:card-last-reviewed: 2022-10-09T11:38:07.898Z
+:card-last-interval: 64.73
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-12-27T06:28:53.287Z
+:card-last-reviewed: 2022-10-23T13:28:53.288Z
 :card-last-score: 5
 :END:
 ** $\dfrac{a}{c} \div \dfrac{b}{d}=\dfrac{1}{\space \dfrac{c}{a} \div \dfrac{d}{b} \space}$
 * 作差/和比较 #card #分数
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-10-20T15:37:05.063Z
-:card-last-reviewed: 2022-10-09T11:37:05.063Z
+:card-last-interval: 64.73
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-12-27T06:28:30.555Z
+:card-last-reviewed: 2022-10-23T13:28:30.555Z
 :card-last-score: 5
 :END:
 ** 举例：

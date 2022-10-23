@@ -2,10 +2,10 @@
 :PROPERTIES:
 :card-last-score: 1
 :card-repeats: 1
-:card-next-schedule: 2022-10-16T16:00:00.000Z
+:card-next-schedule: 2022-10-23T16:00:00.000Z
 :card-last-interval: -1
 :card-ease-factor: 2.52
-:card-last-reviewed: 2022-10-15T23:52:58.719Z
+:card-last-reviewed: 2022-10-23T13:09:27.698Z
 :END:
 ** 清·查慎行
 ** 月黑见渔灯，孤光一点萤。

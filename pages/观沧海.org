@@ -1,10 +1,10 @@
 * 步出夏门行·观沧海 #card #诗词
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.38
-:card-next-schedule: 2022-10-19T23:50:59.212Z
-:card-last-reviewed: 2022-10-15T23:50:59.212Z
+:card-last-interval: 9.92
+:card-repeats: 3
+:card-ease-factor: 2.48
+:card-next-schedule: 2022-11-02T11:26:06.657Z
+:card-last-reviewed: 2022-10-23T13:26:06.657Z
 :card-last-score: 5
 :END:
 ** 汉/三国·曹操

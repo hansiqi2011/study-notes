@@ -1,11 +1,11 @@
 * 七律·长征 #card #诗词
 :PROPERTIES:
 :id: 62b514f5-262d-4a6f-9ab9-b85db01cbb64
-:card-last-interval: 66.3
-:card-repeats: 5
-:card-ease-factor: 2.52
-:card-next-schedule: 2022-10-19T21:02:00.587Z
-:card-last-reviewed: 2022-08-14T14:02:00.588Z
+:card-last-interval: 215.79
+:card-repeats: 6
+:card-ease-factor: 2.62
+:card-next-schedule: 2023-05-27T07:24:44.930Z
+:card-last-reviewed: 2022-10-23T13:24:44.930Z
 :card-last-score: 5
 :END:
 ** [[毛泽东]]

@@ -1,10 +1,10 @@
 * suitable #card #词汇积累
 :PROPERTIES:
-:card-last-interval: 44.32
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-10-22T20:45:31.560Z
-:card-last-reviewed: 2022-09-08T13:45:31.561Z
+:card-last-interval: 175.92
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2023-04-17T11:32:05.046Z
+:card-last-reviewed: 2022-10-23T13:32:05.046Z
 :card-last-score: 5
 :END:
 ** 释义： {{cloze adj.合适的；适宜的；适当的；适用的}}

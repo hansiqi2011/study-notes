@@ -56,11 +56,11 @@ int func3(int num) {
 #+END_SRC
 * 求数根的公式： #card #数学
 :PROPERTIES:
-:card-last-interval: 66.3
-:card-repeats: 5
-:card-ease-factor: 2.52
-:card-next-schedule: 2022-10-19T21:01:38.195Z
-:card-last-reviewed: 2022-08-14T14:01:38.196Z
+:card-last-interval: 215.79
+:card-repeats: 6
+:card-ease-factor: 2.62
+:card-next-schedule: 2023-05-27T07:23:31.417Z
+:card-last-reviewed: 2022-10-23T13:23:31.417Z
 :card-last-score: 5
 :END:
 ** $$root(x)=(x-1) mod 9+1$$

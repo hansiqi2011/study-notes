@@ -1,10 +1,10 @@
 * despair #card #词汇积累
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-10-20T15:36:58.237Z
-:card-last-reviewed: 2022-10-09T11:36:58.238Z
+:card-last-interval: 64.73
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-12-27T06:28:23.574Z
+:card-last-reviewed: 2022-10-23T13:28:23.574Z
 :card-last-score: 5
 :END:
 ** 释义： {{cloze v.绝望；失去希望；丧失信心/n.绝望}}

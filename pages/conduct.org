@@ -1,11 +1,11 @@
 * conduct #card #词汇积累
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.8
-:card-next-schedule: 2022-10-17T17:40:10.513Z
-:card-last-reviewed: 2022-10-06T13:40:10.513Z
-:card-last-score: 5
+:card-next-schedule: 2022-10-23T16:00:00.000Z
+:card-last-reviewed: 2022-10-23T13:20:10.956Z
+:card-last-score: 1
 :END:
 ** 释义： {{cloze v.实施；执行；表现；引导/n.举止；管理方法；经营方式；实施办法}}
 ** 读音： {{cloze ˈkɒndʌkt}}

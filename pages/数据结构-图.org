@@ -2,61 +2,61 @@
 * 一些关于图的重点概念
 ** 有向图和无向图 #card #数据结构
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-10-17T17:30:27.269Z
-:card-last-reviewed: 2022-10-06T13:30:27.269Z
+:card-last-interval: 64.73
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-12-27T06:13:58.526Z
+:card-last-reviewed: 2022-10-23T13:13:58.526Z
 :card-last-score: 5
 :END:
 *** 连接节点的边是单向的还是双向的
 ** 图的节点的度是什么 #card #数据结构
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-10-17T17:29:27.786Z
-:card-last-reviewed: 2022-10-06T13:29:27.786Z
+:card-last-interval: 64.73
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-12-27T06:13:45.539Z
+:card-last-reviewed: 2022-10-23T13:13:45.540Z
 :card-last-score: 5
 :END:
 *** 无向图中与节点相连的边的数目
 ** 入度和出度 #card #数据结构
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-10-17T17:31:04.793Z
-:card-last-reviewed: 2022-10-06T13:31:04.793Z
+:card-last-interval: 64.73
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-12-27T06:16:08.962Z
+:card-last-reviewed: 2022-10-23T13:16:08.963Z
 :card-last-score: 5
 :END:
 *** 有向图中以某节点为终点的边的数量称为入度，为起点的边的数量称为出度
 ** 边的权重 #card #数据结构
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-10-17T17:29:17.673Z
-:card-last-reviewed: 2022-10-06T13:29:17.673Z
+:card-last-interval: 64.73
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-12-27T06:13:34.408Z
+:card-last-reviewed: 2022-10-23T13:13:34.408Z
 :card-last-score: 5
 :END:
 *** 边的“成本”，可以直观的想象成边的长度
 ** 连通 #card #数据结构
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-10-17T17:31:01.804Z
-:card-last-reviewed: 2022-10-06T13:31:01.804Z
+:card-last-interval: 64.73
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-12-27T06:14:03.309Z
+:card-last-reviewed: 2022-10-23T13:14:03.310Z
 :card-last-score: 5
 :END:
 *** 若图中两节点U、V之间，存在一条从U出发，经过若干边到达V的通路，则称U、V是连通的，这些经过的边称为路径
 ** 回路/环 #card #数据结构
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-10-17T17:29:36.290Z
-:card-last-reviewed: 2022-10-06T13:29:36.290Z
+:card-last-interval: 64.73
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-12-27T06:13:49.812Z
+:card-last-reviewed: 2022-10-23T13:13:49.812Z
 :card-last-score: 5
 :END:
 *** 起点和终点相同的路径称为回路或者环
@@ -88,31 +88,31 @@
 ** 如果一个图存在一笔画，一笔画完的路径称作欧拉路，如果最后又回到了起点，称为欧拉回路
 ** 奇点的定义  #card #数据结构
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-10-17T17:31:32.103Z
-:card-last-reviewed: 2022-10-06T13:31:32.103Z
+:card-last-interval: 64.73
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-12-27T06:18:53.042Z
+:card-last-reviewed: 2022-10-23T13:18:53.043Z
 :card-last-score: 5
 :END:
 *** 相连的边的数量为奇数条的节点
 ** 存在欧拉路的条件是：  #card #数据结构
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-10-17T17:31:35.995Z
-:card-last-reviewed: 2022-10-06T13:31:35.995Z
+:card-last-interval: 64.73
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-12-27T06:19:07.156Z
+:card-last-reviewed: 2022-10-23T13:19:07.156Z
 :card-last-score: 5
 :END:
 *** 图是连通的，有且只有两个奇点
 ** 存在欧拉回路的条件是：  #card #数据结构
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-10-17T17:31:38.347Z
-:card-last-reviewed: 2022-10-06T13:31:38.347Z
+:card-last-interval: 64.73
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-12-27T06:19:11.247Z
+:card-last-reviewed: 2022-10-23T13:19:11.247Z
 :card-last-score: 5
 :END:
 *** 图是连通的，有0个奇点

@@ -1,10 +1,10 @@
 * 竹里馆 #card #诗词
 :PROPERTIES:
-:card-last-interval: 30.47
-:card-repeats: 4
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-10-16T00:23:11.674Z
-:card-last-reviewed: 2022-09-15T13:23:11.675Z
+:card-last-interval: 96.1
+:card-repeats: 5
+:card-ease-factor: 2.86
+:card-next-schedule: 2023-01-27T15:07:47.959Z
+:card-last-reviewed: 2022-10-23T13:07:47.960Z
 :card-last-score: 5
 :END:
 ** 王维 〔唐代〕
