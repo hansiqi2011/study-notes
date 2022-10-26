@@ -1,11 +1,11 @@
 * 舟夜书所见 #card #诗词
 :PROPERTIES:
-:card-last-score: 1
-:card-repeats: 1
-:card-next-schedule: 2022-10-23T16:00:00.000Z
-:card-last-interval: -1
-:card-ease-factor: 2.52
-:card-last-reviewed: 2022-10-23T13:09:27.698Z
+:card-last-score: 5
+:card-repeats: 2
+:card-next-schedule: 2022-10-30T12:58:49.734Z
+:card-last-interval: 4
+:card-ease-factor: 2.62
+:card-last-reviewed: 2022-10-26T12:58:49.735Z
 :END:
 ** 清·查慎行
 ** 月黑见渔灯，孤光一点萤。

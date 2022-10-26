@@ -1,10 +1,10 @@
 * 春日 #card #诗词
 :PROPERTIES:
-:card-last-interval: 44.44
-:card-repeats: 4
-:card-ease-factor: 3
-:card-next-schedule: 2022-10-26T10:44:04.436Z
-:card-last-reviewed: 2022-09-12T00:44:04.437Z
+:card-last-interval: 122.43
+:card-repeats: 5
+:card-ease-factor: 3.1
+:card-next-schedule: 2023-02-25T22:59:42.350Z
+:card-last-reviewed: 2022-10-26T12:59:42.350Z
 :card-last-score: 5
 :END:
 ** 宋·朱熹
