@@ -1,10 +1,10 @@
 * citizen #card #词汇积累
 :PROPERTIES:
-:card-last-interval: 84.1
-:card-repeats: 5
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-12-01T15:45:57.196Z
-:card-last-reviewed: 2022-09-08T13:45:57.196Z
+:card-last-interval: 325.99
+:card-repeats: 6
+:card-ease-factor: 2.86
+:card-next-schedule: 2023-10-25T23:24:50.908Z
+:card-last-reviewed: 2022-12-04T00:24:50.908Z
 :card-last-score: 5
 :END:
 ** 释义： {{cloze n.公民；市民；居民}}

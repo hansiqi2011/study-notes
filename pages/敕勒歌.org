@@ -1,11 +1,11 @@
 * 敕勒歌 #card #诗词
 :PROPERTIES:
-:card-last-interval: 77.9
-:card-repeats: 5
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-11-01T21:29:10.169Z
-:card-last-reviewed: 2022-08-16T00:29:10.170Z
-:card-last-score: 3
+:card-last-interval: 294.42
+:card-repeats: 6
+:card-ease-factor: 2.86
+:card-next-schedule: 2023-08-27T21:32:06.504Z
+:card-last-reviewed: 2022-11-06T11:32:06.505Z
+:card-last-score: 5
 :END:
 ** 南北朝·乐府
 ** 敕勒川，阴山下。

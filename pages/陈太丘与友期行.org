@@ -1,11 +1,11 @@
 * 陈太丘与友期行 #card #古文
 :PROPERTIES:
-:card-last-interval: 84.1
-:card-repeats: 5
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-11-22T01:59:11.258Z
-:card-last-reviewed: 2022-08-29T23:59:11.259Z
-:card-last-score: 5
+:card-last-interval: 188.48
+:card-repeats: 6
+:card-ease-factor: 2.62
+:card-next-schedule: 2023-05-31T10:35:19.207Z
+:card-last-reviewed: 2022-11-23T23:35:19.207Z
+:card-last-score: 3
 :END:
 ** 南北朝·刘义庆
 ** 陈太丘与友期行，期日中。过中不至， {{cloze 太丘舍去，去后乃至}}。元方时年七岁，门外戏。客问元方：“尊君在不？”答曰：“待君久不至，已去。”友人便怒曰：“ {{cloze 非人哉！与人期行，相委而去}}。”元方曰：“君与家君期日中。 {{cloze 日中不至，则是无信}}； {{cloze 对子骂父，则是无礼}}。”友人惭，下车引之。元方入门不顾。

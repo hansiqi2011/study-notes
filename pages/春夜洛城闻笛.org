@@ -1,10 +1,10 @@
 * 春夜洛城闻笛 #card #诗词
 :PROPERTIES:
-:card-last-interval: 12.81
-:card-repeats: 3
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-11-05T08:30:26.909Z
-:card-last-reviewed: 2022-10-23T13:30:26.909Z
+:card-last-interval: 49.06
+:card-repeats: 4
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-12-25T12:39:39.983Z
+:card-last-reviewed: 2022-11-06T11:39:39.983Z
 :card-last-score: 5
 :END:
 ** 李白 〔唐代〕

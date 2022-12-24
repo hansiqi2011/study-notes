@@ -1,10 +1,10 @@
 * 活板 #card #诗词
 :PROPERTIES:
-:card-last-interval: 79.69
-:card-repeats: 5
-:card-ease-factor: 2.42
-:card-next-schedule: 2022-12-03T17:03:32.072Z
-:card-last-reviewed: 2022-09-15T01:03:32.072Z
+:card-last-interval: 201.3
+:card-repeats: 6
+:card-ease-factor: 2.52
+:card-next-schedule: 2023-06-25T06:49:37.552Z
+:card-last-reviewed: 2022-12-05T23:49:37.554Z
 :card-last-score: 5
 :END:
 ** 沈括 〔宋代〕

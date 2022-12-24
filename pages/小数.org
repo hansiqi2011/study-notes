@@ -1,20 +1,20 @@
 * 小数的定义 #card #数学
 :PROPERTIES:
-:card-last-interval: 115.92
-:card-repeats: 5
-:card-ease-factor: 3
-:card-next-schedule: 2022-12-09T22:35:00.999Z
-:card-last-reviewed: 2022-08-16T00:35:01.001Z
+:card-last-interval: 419.9
+:card-repeats: 6
+:card-ease-factor: 3.1
+:card-next-schedule: 2024-02-03T20:58:40.244Z
+:card-last-reviewed: 2022-12-10T23:58:40.244Z
 :card-last-score: 5
 :END:
 ** 小数是一种实数的表现形式，形如 /1.24/ ， /3.48750/ 等的就是小数，其中的小点称作小数点，是整数部分和小数部分的分界线。
 * 小数的性质 #card #数学
 :PROPERTIES:
-:card-last-interval: 115.92
-:card-repeats: 5
-:card-ease-factor: 3
-:card-next-schedule: 2022-12-09T22:35:29.548Z
-:card-last-reviewed: 2022-08-16T00:35:29.548Z
+:card-last-interval: 419.9
+:card-repeats: 6
+:card-ease-factor: 3.1
+:card-next-schedule: 2024-02-03T20:58:43.571Z
+:card-last-reviewed: 2022-12-10T23:58:43.571Z
 :card-last-score: 5
 :END:
 ** 任何 {{cloze 分数}}都能被表示成小数。

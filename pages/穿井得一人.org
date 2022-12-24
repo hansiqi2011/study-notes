@@ -1,10 +1,10 @@
 * 穿井得一人 #card #古文
 :PROPERTIES:
-:card-last-interval: 84.1
-:card-repeats: 5
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-12-05T02:47:16.674Z
-:card-last-reviewed: 2022-09-12T00:47:16.674Z
+:card-last-interval: 314.98
+:card-repeats: 6
+:card-ease-factor: 2.86
+:card-next-schedule: 2023-10-16T22:52:20.479Z
+:card-last-reviewed: 2022-12-05T23:52:20.481Z
 :card-last-score: 5
 :END:
 ** 先秦·吕不韦

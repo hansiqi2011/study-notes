@@ -1,10 +1,10 @@
 * identify #card #词汇积累
 :PROPERTIES:
-:card-last-interval: 37.45
-:card-repeats: 4
-:card-ease-factor: 3.06
-:card-next-schedule: 2022-11-29T23:21:57.516Z
-:card-last-reviewed: 2022-10-23T13:21:57.516Z
+:card-last-interval: 126.22
+:card-repeats: 5
+:card-ease-factor: 3.16
+:card-next-schedule: 2023-04-09T05:23:21.253Z
+:card-last-reviewed: 2022-12-04T00:23:21.254Z
 :card-last-score: 5
 :END:
 ** 释义： {{cloze v.鉴定；确认；发现；找到}}

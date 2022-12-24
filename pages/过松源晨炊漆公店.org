@@ -1,11 +1,11 @@
 * 过 松源 晨炊 漆公店 #card #诗词
 :PROPERTIES:
 :card-last-score: 5
-:card-repeats: 3
-:card-next-schedule: 2022-11-03T17:22:56.341Z
-:card-last-interval: 11.2
-:card-ease-factor: 2.8
-:card-last-reviewed: 2022-10-23T13:22:56.341Z
+:card-repeats: 4
+:card-next-schedule: 2023-01-17T03:37:53.836Z
+:card-last-interval: 71.69
+:card-ease-factor: 2.9
+:card-last-reviewed: 2022-11-06T11:37:53.836Z
 :END:
 ** 杨万里 〔宋代〕
 ** 莫言下岭便无难，赚得行人错喜欢。(错喜欢 一作：空喜欢)

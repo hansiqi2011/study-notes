@@ -1,11 +1,11 @@
 * 闻官军收河南河北 #诗词 #card
 :PROPERTIES:
 :card-last-score: 5
-:card-repeats: 5
-:card-next-schedule: 2022-11-28T22:43:20.735Z
-:card-last-interval: 115.92
-:card-ease-factor: 3
-:card-last-reviewed: 2022-08-05T00:43:20.736Z
+:card-repeats: 6
+:card-next-schedule: 2024-01-14T17:22:36.970Z
+:card-last-interval: 406.73
+:card-ease-factor: 3.1
+:card-last-reviewed: 2022-12-04T00:22:36.970Z
 :END:
 ** 唐·[[杜甫]]
 ** [[剑外]]忽传收蓟北，初闻涕泪满衣裳。

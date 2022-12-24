@@ -1,10 +1,10 @@
 * 感情色彩 #card #语文
 :PROPERTIES:
-:card-last-interval: 84.1
-:card-repeats: 5
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-11-17T01:42:46.779Z
-:card-last-reviewed: 2022-08-24T23:42:46.779Z
+:card-last-interval: 314.98
+:card-repeats: 6
+:card-ease-factor: 2.86
+:card-next-schedule: 2023-09-29T23:25:57.768Z
+:card-last-reviewed: 2022-11-19T00:25:57.770Z
 :card-last-score: 5
 :END:
 ** 用动词、形容词等要 {{cloze 符合自己的感情}}。

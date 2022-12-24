@@ -1,11 +1,11 @@
 * 最大公因数的定义 #card #数学
 :PROPERTIES:
 :card-last-score: 5
-:card-repeats: 5
-:card-next-schedule: 2022-11-13T23:20:24.121Z
-:card-last-interval: 111.96
-:card-ease-factor: 3
-:card-last-reviewed: 2022-07-25T00:20:24.122Z
+:card-repeats: 6
+:card-next-schedule: 2023-12-13T11:07:04.981Z
+:card-last-interval: 392.54
+:card-ease-factor: 3.1
+:card-last-reviewed: 2022-11-15T23:07:04.981Z
 :id: 62b50631-2b19-4da2-84fc-44c25614b9d1
 :END:
 ** 最大公因数，也称最大公约数、最大公因子，指两个或多个整数的[[公因数]]中最大的一个。
@@ -15,11 +15,11 @@
 * 最大公因数的符号 #card #数学
 :PROPERTIES:
 :card-last-score: 5
-:card-repeats: 5
-:card-next-schedule: 2022-11-12T23:30:03.691Z
-:card-last-interval: 111.96
-:card-ease-factor: 3
-:card-last-reviewed: 2022-07-24T00:30:03.691Z
+:card-repeats: 6
+:card-next-schedule: 2023-12-11T01:20:32.900Z
+:card-last-interval: 392.54
+:card-ease-factor: 3.1
+:card-last-reviewed: 2022-11-13T13:20:32.900Z
 :id: 62b50631-4d8a-47c4-9688-0c5a7113b2fd
 :END:
 ** $a$, $b$和 $c$的最大公因数记作$(a, b, c)$。
@@ -29,11 +29,11 @@
 * 求最大公因数的方法 #card #数学
 :PROPERTIES:
 :id: 62b50631-cb0a-4fe1-a0b5-9cb5d849a674
-:card-last-interval: 44.44
-:card-repeats: 4
-:card-ease-factor: 3
-:card-next-schedule: 2022-11-12T22:55:37.447Z
-:card-last-reviewed: 2022-09-29T12:55:37.447Z
+:card-last-interval: 126.63
+:card-repeats: 5
+:card-ease-factor: 3.1
+:card-next-schedule: 2023-03-20T04:20:30.715Z
+:card-last-reviewed: 2022-11-13T13:20:30.716Z
 :card-last-score: 5
 :END:
 ** 短除法
@@ -47,11 +47,11 @@
 * 关于最大公因数的推论 #card #数学
 :PROPERTIES:
 :id: 62e38aca-71c2-4932-bb7b-a51f6493ef90
-:card-last-interval: 45.89
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-11-03T10:39:21.405Z
-:card-last-reviewed: 2022-09-18T13:39:21.406Z
+:card-last-interval: 201.33
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2023-05-26T18:36:11.800Z
+:card-last-reviewed: 2022-11-06T11:36:11.800Z
 :card-last-score: 5
 :END:
 ** 若$a \mid m$且$a \mid n$，则必有$a \mid (m, n)$。

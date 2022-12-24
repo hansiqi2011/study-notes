@@ -1,11 +1,11 @@
 * 有理数的定义 #card #数学
 :PROPERTIES:
 :card-last-score: 5
-:card-repeats: 5
-:card-next-schedule: 2022-11-28T22:43:48.208Z
-:card-last-interval: 115.92
-:card-ease-factor: 3
-:card-last-reviewed: 2022-08-05T00:43:48.209Z
+:card-repeats: 6
+:card-next-schedule: 2024-01-14T17:22:46.470Z
+:card-last-interval: 406.73
+:card-ease-factor: 3.1
+:card-last-reviewed: 2022-12-04T00:22:46.471Z
 :END:
 ** [[整数]]和[[分数]]/[[小数]] 统称为有理数
 ** 形如 $$\frac{m}{n}$$ (其中 m 为 {{cloze 整数}} ， n 为 {{cloze 正整数}})的数是有理数.

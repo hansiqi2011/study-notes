@@ -1,10 +1,10 @@
 * 泊秦淮 #card #诗词
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-10-27T03:52:37.229Z
-:card-last-reviewed: 2022-10-15T23:52:37.229Z
+:card-last-interval: 67.02
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2023-01-02T13:35:52.217Z
+:card-last-reviewed: 2022-10-27T13:35:52.218Z
 :card-last-score: 5
 :END:
 ** 杜牧 〔唐代〕

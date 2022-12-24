@@ -1,10 +1,10 @@
 * 己亥杂诗·其五 #card #诗词
 :PROPERTIES:
-:card-last-interval: 45.71
-:card-repeats: 4
-:card-ease-factor: 2.66
-:card-next-schedule: 2022-11-14T06:09:48.041Z
-:card-last-reviewed: 2022-09-29T13:09:48.041Z
+:card-last-interval: 84.1
+:card-repeats: 5
+:card-ease-factor: 2.76
+:card-next-schedule: 2023-02-08T01:07:21.005Z
+:card-last-reviewed: 2022-11-15T23:07:21.005Z
 :card-last-score: 5
 :END:
 ** 龚自珍 〔清代〕

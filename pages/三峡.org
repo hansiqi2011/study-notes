@@ -1,10 +1,10 @@
 * 三峡 #card #古文
 :PROPERTIES:
-:card-last-interval: 71.37
-:card-repeats: 2
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-11-05T07:40:15.832Z
-:card-last-reviewed: 2022-08-25T23:40:15.835Z
+:card-last-interval: 28.96
+:card-repeats: 4
+:card-ease-factor: 2.52
+:card-next-schedule: 2023-01-03T22:52:09.928Z
+:card-last-reviewed: 2022-12-05T23:52:09.928Z
 :card-last-score: 5
 :collapsed: true
 :END:

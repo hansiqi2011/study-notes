@@ -10,38 +10,38 @@
 :END:
 * 三个常见但无效的学习/教学惯例是 {{cloze 课堂式讲课}}、 {{cloze 填鸭式学习}}和 {{cloze 重复阅读}}。 #card #SRS
 :PROPERTIES:
-:card-last-interval: 77.9
-:card-repeats: 5
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-11-01T21:34:17.128Z
-:card-last-reviewed: 2022-08-16T00:34:17.128Z
-:card-last-score: 3
+:card-last-interval: 294.42
+:card-repeats: 6
+:card-ease-factor: 2.86
+:card-next-schedule: 2023-08-27T21:32:17.806Z
+:card-last-reviewed: 2022-11-06T11:32:17.807Z
+:card-last-score: 5
 :END:
 * 在希腊神话中， {{cloze 记忆}}女神是 {{cloze 灵感}}女神的母亲。 #card #SRS
 :PROPERTIES:
-:card-last-interval: 115.92
-:card-repeats: 5
-:card-ease-factor: 3
-:card-next-schedule: 2022-12-09T22:34:35.582Z
-:card-last-reviewed: 2022-08-16T00:34:35.582Z
+:card-last-interval: 419.9
+:card-repeats: 6
+:card-ease-factor: 3.1
+:card-next-schedule: 2024-02-03T20:58:38.237Z
+:card-last-reviewed: 2022-12-10T23:58:38.237Z
 :card-last-score: 5
 :END:
 * 我的间隔重复记忆卡应该 {{cloze 小}}、 {{cloze 相互联系}}并且 {{cloze 富有意味}}。 #card #SRS
 :PROPERTIES:
-:card-last-interval: 115.92
-:card-repeats: 5
-:card-ease-factor: 3
-:card-next-schedule: 2022-12-09T22:34:23.382Z
-:card-last-reviewed: 2022-08-16T00:34:23.383Z
+:card-last-interval: 419.9
+:card-repeats: 6
+:card-ease-factor: 3.1
+:card-next-schedule: 2024-02-03T20:58:36.566Z
+:card-last-reviewed: 2022-12-10T23:58:36.567Z
 :card-last-score: 5
 :END:
 * 记忆科学的先驱者是 {{cloze 赫尔曼·艾宾浩斯}}。 #card #SRS
 :PROPERTIES:
-:card-last-interval: 84.1
-:card-repeats: 5
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-11-02T02:20:54.847Z
-:card-last-reviewed: 2022-08-10T00:20:54.847Z
+:card-last-interval: 294.42
+:card-repeats: 6
+:card-ease-factor: 2.86
+:card-next-schedule: 2023-08-27T21:33:47.272Z
+:card-last-reviewed: 2022-11-06T11:33:47.273Z
 :card-last-score: 5
 :END:
 *

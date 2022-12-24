@@ -1,10 +1,10 @@
 * 自然数的定义 #card
 :PROPERTIES:
-:card-last-interval: 115.92
-:card-repeats: 5
-:card-ease-factor: 3
-:card-next-schedule: 2022-12-09T22:31:28.978Z
-:card-last-reviewed: 2022-08-16T00:31:28.979Z
+:card-last-interval: 419.9
+:card-repeats: 6
+:card-ease-factor: 3.1
+:card-next-schedule: 2024-02-03T20:57:01.348Z
+:card-last-reviewed: 2022-12-10T23:57:01.348Z
 :card-last-score: 5
 :END:
 ** {{cloze 非负整数}}统称为自然数。

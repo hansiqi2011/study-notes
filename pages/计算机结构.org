@@ -72,11 +72,11 @@
 :END:
 * 系统软件包括 {{cloze 操作系统}}、 {{cloze 语言处理程序}}和 {{cloze 数据库系统}}。 #card #NOI
 :PROPERTIES:
-:card-last-interval: 84.1
-:card-repeats: 5
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-11-24T11:24:23.242Z
-:card-last-reviewed: 2022-09-01T09:24:23.242Z
+:card-last-interval: 314.98
+:card-repeats: 6
+:card-ease-factor: 2.86
+:card-next-schedule: 2023-10-14T23:19:24.026Z
+:card-last-reviewed: 2022-12-04T00:19:24.027Z
 :card-last-score: 5
 :END:
 * 数据库系统包括 {{cloze 数据库}}和 {{cloze 数据库管理系统}}。 #card #NOI

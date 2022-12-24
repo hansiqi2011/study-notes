@@ -1,10 +1,10 @@
 * 狼 #card #古文
 :PROPERTIES:
-:card-last-interval: 63.66
-:card-repeats: 5
-:card-ease-factor: 2.52
-:card-next-schedule: 2022-10-27T14:54:54.416Z
-:card-last-reviewed: 2022-08-24T23:54:54.418Z
+:card-last-interval: 223.2
+:card-repeats: 6
+:card-ease-factor: 2.62
+:card-next-schedule: 2023-06-11T04:10:25.049Z
+:card-last-reviewed: 2022-10-31T00:10:25.049Z
 :card-last-score: 5
 :collapsed: true
 :END:

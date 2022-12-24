@@ -1,11 +1,11 @@
 * astronomer #card #词汇积累
 :PROPERTIES:
-:card-last-score: 3
-:card-repeats: 5
-:card-next-schedule: 2022-12-15T18:41:32.577Z
-:card-last-interval: 107.24
-:card-ease-factor: 2.96
-:card-last-reviewed: 2022-08-30T13:41:32.577Z
+:card-last-score: 5
+:card-repeats: 6
+:card-next-schedule: 2023-12-14T07:00:06.501Z
+:card-last-interval: 363.32
+:card-ease-factor: 3.06
+:card-last-reviewed: 2022-12-16T00:00:06.502Z
 :END:
 ** 释义：(countable noun) {{cloze 天文学家}}
 ** 发音： {{cloze əˈstrɒnəmə(r)}}

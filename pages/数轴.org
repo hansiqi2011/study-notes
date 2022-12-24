@@ -1,29 +1,29 @@
 * 数轴的定义 #card #数学
 :PROPERTIES:
 :card-last-score: 5
-:card-repeats: 5
-:card-next-schedule: 2022-11-28T22:43:31.518Z
-:card-last-interval: 115.92
-:card-ease-factor: 3
-:card-last-reviewed: 2022-08-05T00:43:31.518Z
+:card-repeats: 6
+:card-next-schedule: 2024-01-14T17:22:41.651Z
+:card-last-interval: 406.73
+:card-ease-factor: 3.1
+:card-last-reviewed: 2022-12-04T00:22:41.651Z
 :END:
 ** 数轴指的是规定了 {{cloze 原点}}、 {{cloze 正方向}}和 {{cloze 单位长度}}的直线。
 * 数轴能表示任意 {{cloze [[实数]]}}。  #card
 :PROPERTIES:
-:card-last-interval: 115.92
-:card-repeats: 5
-:card-ease-factor: 3
-:card-next-schedule: 2022-12-09T22:29:13.710Z
-:card-last-reviewed: 2022-08-16T00:29:13.710Z
+:card-last-interval: 419.9
+:card-repeats: 6
+:card-ease-factor: 3.1
+:card-next-schedule: 2024-02-03T20:56:31.213Z
+:card-last-reviewed: 2022-12-10T23:56:31.214Z
 :card-last-score: 5
 :END:
 * 数轴上 {{cloze 右边(正方向)}}的点表示的数总大于 {{cloze 左边(负方向)}}的点所表示的数。 #card
 :PROPERTIES:
-:card-last-interval: 84.1
-:card-repeats: 5
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-11-01T03:10:07.373Z
-:card-last-reviewed: 2022-08-09T01:10:07.375Z
+:card-last-interval: 294.42
+:card-repeats: 6
+:card-ease-factor: 2.86
+:card-next-schedule: 2023-08-27T21:27:27.451Z
+:card-last-reviewed: 2022-11-06T11:27:27.451Z
 :card-last-score: 5
 :END:
 * [[数射线]]是数轴的一种“简化版本”。

@@ -1,10 +1,10 @@
 * 潼关 #card #诗词
 :PROPERTIES:
-:card-last-interval: 76.97
-:card-repeats: 5
-:card-ease-factor: 2.62
-:card-next-schedule: 2022-12-01T12:23:46.921Z
-:card-last-reviewed: 2022-09-15T13:23:46.921Z
+:card-last-interval: 11.28
+:card-repeats: 3
+:card-ease-factor: 2.82
+:card-next-schedule: 2022-12-22T05:58:55.908Z
+:card-last-reviewed: 2022-12-10T23:58:55.909Z
 :card-last-score: 5
 :END:
 ** 清·谭嗣（si4）同

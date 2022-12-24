@@ -1,10 +1,10 @@
 * 爱莲说 #card #古文
 :PROPERTIES:
-:card-last-interval: 65.91
-:card-repeats: 5
-:card-ease-factor: 2.52
-:card-next-schedule: 2022-11-20T10:26:36.283Z
-:card-last-reviewed: 2022-09-15T13:26:36.284Z
+:card-last-interval: 230.61
+:card-repeats: 6
+:card-ease-factor: 2.62
+:card-next-schedule: 2023-07-12T13:24:27.184Z
+:card-last-reviewed: 2022-11-23T23:24:27.185Z
 :card-last-score: 5
 :END:
 ** 宋·周敦颐

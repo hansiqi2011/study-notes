@@ -1,10 +1,10 @@
 * *互质*的定义 #card #数学
 :PROPERTIES:
-:card-last-interval: 115.92
-:card-repeats: 5
-:card-ease-factor: 3
-:card-next-schedule: 2022-12-09T22:34:02.576Z
-:card-last-reviewed: 2022-08-16T00:34:02.576Z
+:card-last-interval: 419.9
+:card-repeats: 6
+:card-ease-factor: 3.1
+:card-next-schedule: 2024-02-03T20:58:34.106Z
+:card-last-reviewed: 2022-12-10T23:58:34.106Z
 :card-last-score: 5
 :END:
 ** 两个数的 /[[最大公因数]]/ 是1 ， 即这两个数 {{cloze 没有相同的[[质因数]]}}，那么这两个数互质。

@@ -1,20 +1,20 @@
 * 一个^^[[最简分数]]^^，如果 {{cloze 分母}}中只含有 {{cloze 素因数2或者5，再无其他素因数}}，那么这个分数可以化成有限小数。 #card #数学
 :PROPERTIES:
 :card-last-score: 5
-:card-repeats: 4
-:card-next-schedule: 2022-11-21T04:28:24.004Z
-:card-last-interval: 49.17
-:card-ease-factor: 2.9
-:card-last-reviewed: 2022-10-03T00:28:24.004Z
+:card-repeats: 5
+:card-next-schedule: 2023-06-27T11:27:35.115Z
+:card-last-interval: 215.52
+:card-ease-factor: 3
+:card-last-reviewed: 2022-11-23T23:27:35.115Z
 :END:
 * 循环小数化为分数的技巧
 ** 纯循环小数化为分数 #card #数学
 :PROPERTIES:
-:card-last-interval: 49.17
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-11-17T16:56:26.832Z
-:card-last-reviewed: 2022-09-29T12:56:26.832Z
+:card-last-interval: 208.18
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2023-06-15T04:27:20.095Z
+:card-last-reviewed: 2022-11-19T00:27:20.096Z
 :card-last-score: 5
 :END:
 *** 例如$$0.\dot{a} = \dfrac{a}{9}，注意0.\dot{9}=1$$
@@ -22,11 +22,11 @@
 *** 例如$$0.\dot{a}b\dot{c} = \dfrac{abc}{999}，例如0.\dot{2}0\dot{6} = \dfrac{206}{999}$$
 ** 混循环小数化为分数 #card #数学
 :PROPERTIES:
-:card-last-interval: 49.17
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-11-17T16:57:22.635Z
-:card-last-reviewed: 2022-09-29T12:57:22.636Z
+:card-last-interval: 208.18
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2023-06-15T04:28:50.765Z
+:card-last-reviewed: 2022-11-19T00:28:50.765Z
 :card-last-score: 5
 :END:
 *** 例如$$0.a\dot{b}\dot{c} = \dfrac{abc-a}{990}，最后化简$$

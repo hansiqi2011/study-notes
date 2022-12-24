@@ -20,11 +20,11 @@
 ** 本体和喻体应该有共同点、便于联想；比喻要贴近生活、符合上下文和思想感情。
 * 怎样写出恰当的比喻 #card #语文
 :PROPERTIES:
-:card-last-interval: 86.58
-:card-repeats: 5
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-12-04T02:40:41.085Z
-:card-last-reviewed: 2022-09-08T13:40:41.085Z
-:card-last-score: 3
+:card-last-interval: 314.98
+:card-repeats: 6
+:card-ease-factor: 2.86
+:card-next-schedule: 2023-10-16T22:49:41.024Z
+:card-last-reviewed: 2022-12-05T23:49:41.024Z
+:card-last-score: 5
 :END:
 ** 经常观察事物、积累语言。

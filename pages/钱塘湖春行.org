@@ -1,11 +1,11 @@
 * 钱塘湖春行 #card #诗词
 :PROPERTIES:
-:card-last-interval: 12.63
-:card-repeats: 3
-:card-ease-factor: 2.66
-:card-next-schedule: 2022-10-28T14:53:31.096Z
-:card-last-reviewed: 2022-10-15T23:53:31.096Z
-:card-last-score: 5
+:card-last-interval: 71.94
+:card-repeats: 5
+:card-ease-factor: 2.62
+:card-next-schedule: 2023-02-13T22:23:58.674Z
+:card-last-reviewed: 2022-12-04T00:23:58.675Z
+:card-last-score: 3
 :END:
 ** 白居易〔唐代〕
 ** 孤山寺北贾亭西，水面初平云脚低。

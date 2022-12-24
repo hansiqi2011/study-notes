@@ -1,10 +1,10 @@
 * 六月二十七日望湖楼醉书 #card #诗词
 :PROPERTIES:
-:card-last-interval: 115.92
-:card-repeats: 5
-:card-ease-factor: 3
-:card-next-schedule: 2022-12-11T22:18:24.247Z
-:card-last-reviewed: 2022-08-18T00:18:24.250Z
+:card-last-interval: 419.9
+:card-repeats: 6
+:card-ease-factor: 3.1
+:card-next-schedule: 2024-02-08T20:55:52.832Z
+:card-last-reviewed: 2022-12-15T23:55:52.833Z
 :card-last-score: 5
 :END:
 ** 宋·[[苏轼]]

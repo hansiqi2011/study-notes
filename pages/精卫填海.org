@@ -1,10 +1,10 @@
 * 精卫填海 #card #古文
 :PROPERTIES:
-:card-last-interval: 84.1
-:card-repeats: 5
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-11-01T03:10:10.896Z
-:card-last-reviewed: 2022-08-09T01:10:10.897Z
+:card-last-interval: 294.42
+:card-repeats: 6
+:card-ease-factor: 2.86
+:card-next-schedule: 2023-08-27T21:30:46.425Z
+:card-last-reviewed: 2022-11-06T11:30:46.425Z
 :card-last-score: 5
 :END:
 ** 先秦·佚名

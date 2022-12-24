@@ -1,11 +1,11 @@
 * [[汉乐府]]
 * 江南 #card #诗词
 :PROPERTIES:
-:card-last-interval: 115.92
-:card-repeats: 5
-:card-ease-factor: 3
-:card-next-schedule: 2022-12-09T22:28:36.816Z
-:card-last-reviewed: 2022-08-16T00:28:36.816Z
+:card-last-interval: 419.9
+:card-repeats: 6
+:card-ease-factor: 3.1
+:card-next-schedule: 2024-02-03T20:56:14.421Z
+:card-last-reviewed: 2022-12-10T23:56:14.422Z
 :card-last-score: 5
 :END:
 ** 汉乐府

@@ -2,21 +2,21 @@
 ** 孔子及其弟子 〔先秦〕
 ** 子曰：“学而时习之， {{cloze 不亦说乎}}？有朋自远方来，不亦乐乎？ {{cloze 人不知而不愠，不亦君子乎？}}”《学而》 #card
 :PROPERTIES:
-:card-last-interval: 63.66
-:card-repeats: 5
-:card-ease-factor: 2.52
-:card-next-schedule: 2022-10-26T14:35:39.839Z
-:card-last-reviewed: 2022-08-23T23:35:39.839Z
+:card-last-interval: 223.2
+:card-repeats: 6
+:card-ease-factor: 2.62
+:card-next-schedule: 2023-06-07T17:34:27.114Z
+:card-last-reviewed: 2022-10-27T13:34:27.117Z
 :card-last-score: 5
 :END:
 ** 曾子曰：“吾日三省吾身： {{cloze 为人谋而不忠乎？与朋友交而不信乎？传不习乎？}}”《学而》 #card
 :PROPERTIES:
-:card-last-interval: 78.13
-:card-repeats: 4
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-12-06T02:03:14.002Z
-:card-last-reviewed: 2022-09-18T23:03:14.002Z
-:card-last-score: 3
+:card-last-interval: 317.41
+:card-repeats: 5
+:card-ease-factor: 2.66
+:card-next-schedule: 2023-10-24T08:50:46.804Z
+:card-last-reviewed: 2022-12-10T23:50:46.805Z
+:card-last-score: 5
 :END:
 ** 子曰：“ {{cloze 吾十有五而志于学}}，三十而立，四十而不惑， {{cloze 五十而知天命}}，六十而耳顺， {{cloze 七十而从心所欲，不逾矩}}。”《为政》 #card
 :PROPERTIES:
@@ -47,11 +47,11 @@
 :END:
 ** 子曰：“贤哉，回也！ {{cloze 一箪食，一瓢饮，在陋巷，人不堪其忧，回也不改其乐}}。贤哉，回也！”《雍也》 #card
 :PROPERTIES:
-:card-last-interval: 75.28
-:card-repeats: 5
-:card-ease-factor: 2.66
-:card-next-schedule: 2022-11-19T05:13:17.079Z
-:card-last-reviewed: 2022-09-04T23:13:17.079Z
+:card-last-interval: 232.11
+:card-repeats: 6
+:card-ease-factor: 2.76
+:card-next-schedule: 2023-07-14T01:20:34.671Z
+:card-last-reviewed: 2022-11-23T23:20:34.671Z
 :card-last-score: 5
 :END:
 ** 子曰：“知之者 {{cloze 不如好之者}}，好之者 {{cloze 不如乐之者}}。”《雍也》 #card
@@ -101,11 +101,11 @@
 :END:
 ** 子夏曰：“ {{cloze 博学而笃志，切问而近思}}，仁在其中矣。”《子张》 #card
 :PROPERTIES:
-:card-last-interval: 75.28
-:card-repeats: 5
-:card-ease-factor: 2.66
-:card-next-schedule: 2022-11-19T05:16:26.991Z
-:card-last-reviewed: 2022-09-04T23:16:26.992Z
+:card-last-interval: 232.11
+:card-repeats: 6
+:card-ease-factor: 2.76
+:card-next-schedule: 2023-07-14T01:20:54.958Z
+:card-last-reviewed: 2022-11-23T23:20:54.958Z
 :card-last-score: 5
 :END:
 *

@@ -1,19 +1,19 @@
 * STL queue 容器对元素采取 {{cloze FIFO（先进先出）}} 的管理策略 #card #[[C++ STL]]
 :PROPERTIES:
 :card-last-score: 5
-:card-repeats: 4
-:card-next-schedule: 2022-10-30T22:04:33.942Z
-:card-last-interval: 45.89
-:card-ease-factor: 2.9
-:card-last-reviewed: 2022-09-15T01:04:33.943Z
+:card-repeats: 5
+:card-next-schedule: 2023-05-13T12:11:35.453Z
+:card-last-interval: 194.48
+:card-ease-factor: 3
+:card-last-reviewed: 2022-10-31T01:11:35.453Z
 :END:
 * 使用queue应该include哪个头文件？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 45.89
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-10-30T22:04:26.886Z
-:card-last-reviewed: 2022-09-15T01:04:26.887Z
+:card-last-interval: 194.48
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2023-05-13T12:10:42.569Z
+:card-last-reviewed: 2022-10-31T01:10:42.569Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++
@@ -21,11 +21,11 @@
 #+END_SRC
 * 怎样创建一个queue？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 45.89
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-10-30T21:58:38.132Z
-:card-last-reviewed: 2022-09-15T00:58:38.133Z
+:card-last-interval: 194.48
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2023-05-13T11:17:35.881Z
+:card-last-reviewed: 2022-10-31T00:17:35.881Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++
@@ -33,11 +33,11 @@ queue<int> que;//定义一个queue，其中元素的类型为int
 #+END_SRC
 * 常见的queue操作都有哪些？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 45.89
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-10-30T22:00:58.338Z
-:card-last-reviewed: 2022-09-15T01:00:58.338Z
+:card-last-interval: 194.48
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2023-05-13T12:10:36.088Z
+:card-last-reviewed: 2022-10-31T01:10:36.089Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++

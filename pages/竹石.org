@@ -1,11 +1,11 @@
 * 竹石 #card #诗词
 :PROPERTIES:
-:card-last-interval: 80.72
-:card-repeats: 5
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-11-16T05:51:08.313Z
-:card-last-reviewed: 2022-08-27T12:51:08.314Z
-:card-last-score: 3
+:card-last-interval: 314.98
+:card-repeats: 6
+:card-ease-factor: 2.86
+:card-next-schedule: 2023-09-29T23:22:38.323Z
+:card-last-reviewed: 2022-11-19T00:22:38.325Z
+:card-last-score: 5
 :END:
 ** 清·郑燮（xie4）（郑板桥）
 ** 咬定青山不放松，立根原在破岩中。

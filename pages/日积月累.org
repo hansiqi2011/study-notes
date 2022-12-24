@@ -9,11 +9,11 @@
 :END:
 * 余霞散成绮， {{cloze 澄江静如练}}。—— 南北朝·谢脁《晚登三山还望京邑》 #card #诗词
 :PROPERTIES:
-:card-last-interval: 45.71
-:card-repeats: 4
-:card-ease-factor: 2.66
-:card-next-schedule: 2022-12-08T06:25:29.483Z
-:card-last-reviewed: 2022-10-23T13:25:29.483Z
+:card-last-interval: 84.1
+:card-repeats: 5
+:card-ease-factor: 2.76
+:card-next-schedule: 2023-03-05T01:55:03.555Z
+:card-last-reviewed: 2022-12-10T23:55:03.556Z
 :card-last-score: 5
 :END:
 * 蝉噪林逾静， {{cloze 鸟鸣山更幽}}。—— 南北朝·王藉 《入若耶溪》 #card #诗词

@@ -1,10 +1,10 @@
 * 约客 #card  #诗词
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-11-03T17:22:32.457Z
-:card-last-reviewed: 2022-10-23T13:22:32.457Z
+:card-last-interval: 71.69
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2023-01-17T03:37:49.061Z
+:card-last-reviewed: 2022-11-06T11:37:49.062Z
 :card-last-score: 5
 :END:
 ** 赵师秀 〔宋代〕

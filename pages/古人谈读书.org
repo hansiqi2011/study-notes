@@ -12,48 +12,48 @@
 *** 内容
 **** 知之为知之， {{cloze 不知为不知}}， {{cloze 是知也}}。 #card
 :PROPERTIES:
-:card-last-interval: 115.92
-:card-repeats: 5
-:card-ease-factor: 3
-:card-next-schedule: 2022-12-09T22:31:48.922Z
-:card-last-reviewed: 2022-08-16T00:31:48.922Z
+:card-last-interval: 419.9
+:card-repeats: 6
+:card-ease-factor: 3.1
+:card-next-schedule: 2024-02-03T20:57:12.365Z
+:card-last-reviewed: 2022-12-10T23:57:12.365Z
 :card-last-score: 5
 :END:
 **** 敏而好学， {{cloze 不耻下问}}。 #card
 :PROPERTIES:
 :id: 62afea4a-a4c9-4550-b504-51adffd4c7df
-:card-last-interval: 115.92
-:card-repeats: 5
-:card-ease-factor: 3
-:card-next-schedule: 2022-12-09T22:31:44.942Z
-:card-last-reviewed: 2022-08-16T00:31:44.943Z
+:card-last-interval: 419.9
+:card-repeats: 6
+:card-ease-factor: 3.1
+:card-next-schedule: 2024-02-03T20:57:07.190Z
+:card-last-reviewed: 2022-12-10T23:57:07.191Z
 :card-last-score: 5
 :END:
 **** 默而识之， {{cloze 学而不厌}}， {{cloze 诲人不倦}}。 #card
 :PROPERTIES:
-:card-last-interval: 84.1
-:card-repeats: 5
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-11-02T02:21:29.890Z
-:card-last-reviewed: 2022-08-10T00:21:29.891Z
+:card-last-interval: 294.42
+:card-repeats: 6
+:card-ease-factor: 2.86
+:card-next-schedule: 2023-08-27T21:34:31.360Z
+:card-last-reviewed: 2022-11-06T11:34:31.361Z
 :card-last-score: 5
 :END:
 **** 我非 {{cloze 生而知之者}}，好（hao4，释义： {{cloze 喜欢}}）古， {{cloze 敏以求之者也}}。 #card
 :PROPERTIES:
-:card-last-interval: 115.92
-:card-repeats: 5
-:card-ease-factor: 3
-:card-next-schedule: 2022-12-09T22:33:47.948Z
-:card-last-reviewed: 2022-08-16T00:33:47.949Z
+:card-last-interval: 419.9
+:card-repeats: 6
+:card-ease-factor: 3.1
+:card-next-schedule: 2024-02-03T20:58:25.500Z
+:card-last-reviewed: 2022-12-10T23:58:25.500Z
 :card-last-score: 5
 :END:
 **** 学如不及， {{cloze 唯恐失之}}。 #card
 :PROPERTIES:
-:card-last-interval: 84.1
-:card-repeats: 5
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-11-01T03:10:16.337Z
-:card-last-reviewed: 2022-08-09T01:10:16.337Z
+:card-last-interval: 294.42
+:card-repeats: 6
+:card-ease-factor: 2.86
+:card-next-schedule: 2023-08-27T21:30:59.957Z
+:card-last-reviewed: 2022-11-06T11:30:59.957Z
 :card-last-score: 5
 :END:
 ***** 翻译： {{cloze 学习不如别人，就像跑步跟不上别人；学习超过了别人，又怕再次落后}}。
@@ -67,11 +67,11 @@
 :END:
 **** 吾尝 {{cloze 终日不食}}， {{cloze 终夜不寝}}， 以思，无益， {{cloze 不如学也}}。 #card
 :PROPERTIES:
-:card-last-interval: 115.92
-:card-repeats: 5
-:card-ease-factor: 3
-:card-next-schedule: 2022-12-09T22:31:57.999Z
-:card-last-reviewed: 2022-08-16T00:31:57.999Z
+:card-last-interval: 419.9
+:card-repeats: 6
+:card-ease-factor: 3.1
+:card-next-schedule: 2024-02-03T20:57:19.680Z
+:card-last-reviewed: 2022-12-10T23:57:19.680Z
 :card-last-score: 5
 :END:
 ** 读书有三到
@@ -86,11 +86,11 @@
 *** 宋·朱熹
 *** 余尝谓读书有三到， {{cloze 谓心到、眼到、口到}}。心不在此， {{cloze 则眼不看仔细}}，心眼既不专一，却只漫浪（释义： {{cloze 随便}}）诵读， {{cloze 决不能记，记亦不能久也}}。三到之中，心到最急（释义： {{cloze 要紧，重要}}）。心既到矣， {{cloze 眼口岂不到乎}}？ #card
 :PROPERTIES:
-:card-last-interval: 115.92
-:card-repeats: 5
-:card-ease-factor: 3
-:card-next-schedule: 2022-12-09T22:33:41.298Z
-:card-last-reviewed: 2022-08-16T00:33:41.299Z
+:card-last-interval: 419.9
+:card-repeats: 6
+:card-ease-factor: 3.1
+:card-next-schedule: 2024-02-03T20:58:17.103Z
+:card-last-reviewed: 2022-12-10T23:58:17.103Z
 :card-last-score: 5
 :END:
 **** 翻译：我曾经说过 {{cloze 读书有三到}}，分别叫做心到、眼到和口到。心不到， {{cloze 眼睛就不会看得仔细}}；心和眼不到， {{cloze 只是有口无心地诵读}}，不可能记住， {{cloze 就算记住了，也不会记得久}}。三到之中，心到最重要， {{cloze 心如果到了，那么眼睛和嘴巴怎么可能不到呢}}？

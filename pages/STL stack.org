@@ -1,19 +1,19 @@
 * STL stack 容器对元素采取 {{cloze LIFO（后进先出）}} 的管理策略 #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 45.89
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-10-29T20:07:27.148Z
-:card-last-reviewed: 2022-09-13T23:07:27.148Z
+:card-last-interval: 194.48
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2023-05-13T11:14:40.089Z
+:card-last-reviewed: 2022-10-31T00:14:40.091Z
 :card-last-score: 5
 :END:
 * 使用stack应该include哪个头文件？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 45.89
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-10-29T20:07:12.528Z
-:card-last-reviewed: 2022-09-13T23:07:12.529Z
+:card-last-interval: 194.48
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2023-05-13T11:14:17.704Z
+:card-last-reviewed: 2022-10-31T00:14:17.704Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++
@@ -21,11 +21,11 @@
 #+END_SRC
 * 怎样创建一个stack？ #card #[[C++ STL]]
 :PROPERTIES:
-:card-last-interval: 45.89
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-10-30T21:59:50.485Z
-:card-last-reviewed: 2022-09-15T00:59:50.486Z
+:card-last-interval: 194.48
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2023-05-13T11:35:30.307Z
+:card-last-reviewed: 2022-10-31T00:35:30.308Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC c++

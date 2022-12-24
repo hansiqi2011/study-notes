@@ -1,11 +1,11 @@
 * 十一月四日风雨大作·其二 #card #诗词
 :PROPERTIES:
-:card-last-interval: 36.23
-:card-repeats: 4
-:card-ease-factor: 2.96
-:card-next-schedule: 2022-11-28T18:21:41.765Z
-:card-last-reviewed: 2022-10-23T13:21:41.765Z
-:card-last-score: 5
+:card-last-interval: 89.7
+:card-repeats: 5
+:card-ease-factor: 2.82
+:card-next-schedule: 2023-03-03T16:22:28.928Z
+:card-last-reviewed: 2022-12-04T00:22:28.928Z
+:card-last-score: 3
 :END:
 ** 宋·陆游
 ** 僵卧孤村不自哀，尚思为国戍轮台。
