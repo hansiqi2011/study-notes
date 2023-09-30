@@ -1,0 +1,15 @@
+* 证明：$(a^3+b^3)/(a^3+(a-b)3)=(a+b)/(a+(a-b))$
+* \begin{aligned}
+&\text{根据以上等式},\text{能发现规律}: \\
+&\frac{a^{3}+b^{3}}{a^{3}+(a-b)^{3}}=\frac{a+b}{a+(a-b)} \\
+&\text{理由如下:} \\
+&\text{对 }\frac{a^3+b^3}{a^3+(a-b)^3}\text{的分子、分母分别利用立方和公式,得} \\
+&\frac{(a+b)(a^2-ab+b^2)}{(a+(a-b))(a^2-a(a-b)+(a-b)^2)} \\
+&\text{由完全平方公式,得} \\
+&\frac{(a+b)(a^2-ab+b^2)}{(a+(a-b))(a^2-a^2+ab+a^2-2ab+b^2)} \\
+&\text{合并同类项,得} \\
+&\frac{(a+b)(a^{2}-ab+b^{2})}{(a+(a-b))(a^{2}-ab+b^{2})} \\
+&\text{约分,得} \\
+&\frac{a+b}{a+(a-b)} \\
+&\text{从而得出规律:}\frac{a^{3}+b^{3}}{a^{3}+(a-b)^{3}}=\frac{a+b}{a+(a-b)}
+\end{aligned}
