@@ -1,0 +1,14 @@
+* $因式分解：(a+b+c+d)(b+c-a-d)(a+c-b-d)(a+b-c-d)+16abcd$
+* 思路：
+** 原式等于 $(a+b+c+d)(a+b-c-d)(b+c-a-d)(a+c-b-d)+16abcd$
+** 即 $((a+b)+(c+d))((a+b)-(c+d))((c-d)+(b-a))((c-d)-(b-a))+16abcd$
+** $(a^2+b^2-c^2-d^2+2ab-2cd)(c^2+d^2-a^2-b^2-2cd+2ab) + 16abcd$
+** \begin{aligned}
+&=(2ab-2cd)^2-({a}^2+{b}^2-{c}^2-{d}^2)^2+16{abcd} \\
+&{=4a^2b^2+4c^2d^2-8abcd+16abcd-(a^2+b^2-c^2-d^2)^2} \\
+&=4{a}^2{b}^2+4{c}^2{d}^2+8{abcd}-({a}^2+{b}^2-{c}^2-{d}^2)^2 \\
+&={(2ab+2cd)}^2-{(a^2+b^2-c^2-d^2)}^2 \\
+&={(2ab+2cd+a^2+b^2-c^2-d^2)}\quad{(2ab+2cd-a^2-b^2+c^2+d^2)} \\
+&={(a+b+c-d)\quad(a+b-c+d)\quad(a-b+c+d)\quad(-a+b+c+d)}
+\end{aligned}
+**
