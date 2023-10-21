@@ -1,4 +1,12 @@
 * 什么是单位分数？#card #数学
+:PROPERTIES:
+:card-last-interval: 647.78
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2025-07-17T03:27:45.120Z
+:card-last-reviewed: 2023-10-08T09:27:45.123Z
+:card-last-score: 5
+:END:
 ** 分子是1，分母是正整数的分数叫做单位分数，记作 $\dfrac{1}{n}$
 * 如何将$\dfrac{1}{n}$拆分成两个单位分数的和？ #card #数学
 :PROPERTIES:
