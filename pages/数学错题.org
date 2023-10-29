@@ -1,4 +1,4 @@
-* $9.8 \times 10.2 #数学错题 #七年级
+* $9.8 \times 10.2$ #数学错题 #七年级
 ** 错误答案 #计算错误
 *** 99.94
 ** 正确答案
@@ -47,3 +47,9 @@
 *** $a = -(b+c+9) = -(b+9+c+9) + 9$
 *** $\begin{cases} b+9 = c+9 = 1 \implies a = -(1+1)+9 = 7 \\ b+9=c+9=-1 \implies a = -(-1-1) + 9 = 11 \end{cases}$
 ** 如何避免：#不跳步骤
+* 2023-10-28
+** $\begin{aligned}(x^3-7x^2+3x+11)(2x^4-13x^3+5x^2+3x-10)&=a_0x^7+a_1x^6+a_2x^5+a_3x^4+a_4x^3+a_5x^2+a_5x+a_7\\&\text{求}a_0+2a_1+a_2+2a_3+a_4+2a_3+a_6+2a_7\textbf{的值。}\end{aligned}$
+*
+** $\text{分解因式}:(a+b+c)^{3}+(b-a-c)^{3}+(c-a-b)^{3}+(a-b-c)^{3}$
+** $\begin{aligned}P(x)&=x^4+ax^3+bx^2+cx+d,a,b,c,d\textbf{ 为常数,}\\P(1)&=1993,P(2)=3986,P(3)=5979.\textbf{试计算}\frac14[P(11)+P(-7)]\end{aligned}$
+** $\text{已知}a^3+b^3+c^3-3abc=3a+3b+3c,\text{则}(a-b)^2+(b-c)^2+(a-b)(b-c)\text{ 的值}$
